@@ -1,0 +1,16 @@
+{
+  "name": "format-signals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-json-modules index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "loading-cli": "^1.1.0"
+  }
+}
