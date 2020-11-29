@@ -1,0 +1,1 @@
+export function relate(logFile:string):void
