@@ -16,37 +16,38 @@ const style = {
 }
 
 
-export function printStats(profit, balance, stopLoss, takeProfit) {
-    profit = parseFloat(profit).toPrecision(4);
-    parcialProfit = parcialProfit.toPrecision(4);
-    let accuracy = ((wins / (draws + wins + loss)) * 100).toPrecision(4);
+export function printStats(stats) {
+    //profit = parseFloat(profit).toPrecision(4);
+    //parcialProfit = parcialProfit.toPrecision(4);
+    //let accuracy = ((wins / (draws + wins + loss)) * 100).toPrecision(4);
 
-    const stats = `${`=`.repeat(55)}
-    COMO A BANCA ESTAVA ANTES DA OPERAÇÃO: ${style.balance('R$ ' + balance)}
-    LUCRO TOTAL DESDE A PRIMEIRA OPERAÇÃO: ${(profit < 0)
-            ? style.profitNegative('R$ ' + profit)
-            : style.profitPositive('R$ ' + profit)
+    const statsText = `${chalk.blueBright(`=`.repeat(55))}
+    COMO A BANCA ESTAVA ANTES DA OPERAÇÃO: ${style.balance('R$ ' + stats.initialBalance)}
+    LUCRO TOTAL DESDE A PRIMEIRA OPERAÇÃO: ${(stats.totalProfit < 0)
+            ? style.profitNegative('R$ ' + stats.totalProfit)
+            : style.profitPositive('R$ ' + stats.totalProfit)
         }
-    LUCRO TOTAL EXIBIDO NA TELA: ${(parcialProfit < 0)
-            ? style.parcialProfitNegative('R$ ' + parcialProfit)
-            : style.parcialProfitPositive('R$ ' + parcialProfit)
+    LUCRO TOTAL EXIBIDO NA TELA: ${(1 < 0)
+            ? style.parcialProfitNegative('R$ ' + 'parcialProfit')
+            : style.parcialProfitPositive('R$ ' + 'parcialProfit')
         }
 
-        TAKEPROFIT: ${takeProfit}
-        STOPLOSS: ${stopLoss}
+        TAKEPROFIT: ${stats.takeProfit}
+        STOPLOSS: ${stats.stopLoss}
 
-        QUANTIDADE DE ENTRADAS EXIBIDAS AGORA: ${entries}
-        QUANTIDADE DE LOSS: ${loss}
-        QUANTIDADE DE WINS: ${wins}
-        QUANTIDADE DE EMPATES: ${draws}
+        QUANTIDADE DE ENTRADAS EXIBIDAS AGORA: ${stats.allResults}
+        QUANTIDADE DE LOSS: ${stats.lossCount}
+        QUANTIDADE DE WINS: ${stats.winsCount}
+        QUANTIDADE DE EMPATES: ${stats.drawsCount}
     
-        ASSERTIVIDADE: ${accuracy}
+        ASSERTIVIDADE: ${stats.accuracy}%
     `
 
-    console.log(chalk.greenBright(centerText(stats, 50)));
+    console.log(chalk.greenBright(centerText(statsText, 50)));
 }
 
 function centerText(text, padding) {
+    text = text.toString();
     let parts = text.split('\n')
 
     parts = parts.map(s => s
@@ -57,8 +58,17 @@ function centerText(text, padding) {
     return parts.join('\n');
 }
 
-export function printResults(lineInfo, options) {
-    all(lineInfo, options);
+function leftText(text = "", padding = 10) {
+    text = text.toString();
+    let parts = text.split('\n')
+
+    parts = parts.map(s => s.padEnd(padding, ' '));
+
+    return parts.join('\n');
+}
+
+export function printResults(entryResults, stats) {
+    all(entryResults, stats);
 
 }
 
@@ -107,63 +117,73 @@ function shouldContinue(lineInfo, options) {
 }
 
 
-export function all(lineInfo, options) {
-    if (!lineInfo.getTime() | !lineInfo.getWinOrLoss() | !lineInfo.getEntryValue()) return
-    if (isDraw()) draws++;
-    else if (isWin()) wins++;
-    else loss++;
-    if (!shouldContinue(lineInfo, options)) return;
-    entries++;
-    let winOrLoss = convertText(lineInfo.getWinOrLoss());
-    let winOrLossText = centerText(winOrLoss);
-    winOrLossText = colorizeText(winOrLossText);
-
-    let gale = lineInfo.getGale(5, 2.3, lineInfo.getEntryValue());
-    let galeText = convertGaleText(winOrLoss, gale);
-    galeText = leftText(galeText, 17);
-    galeText = colorizeText(galeText);
-
-    let timeText = chalk.hex('#AE81FF')(lineInfo.getTime())
-    let entryProfitValueText = colorizeText(centerText(lineInfo.getEntryProfitValue().toString()));
+export function all(entrieResults, stats) {
+    entrieResults.map((result) => {
+        let gale = result.result.gale;
+        let timeText = centerText(`[${result.result.time}]`, 10);
+        let profitReceivedText = centerText(result.result.profitReceived, 25);
+        let winOrLossText = leftText(`${result.result.winOrLoss} NO ${gale} GALE`, 15);
+        console.log(`${timeText} ${profitReceivedText} | ${winOrLossText}`);
+    })
+    printStats(stats);
 
 
-    console.log(chalk.bold.magentaBright(`[${timeText}] ${winOrLossText} | ${entryProfitValueText} | ${galeText} |`))
-    chalk.reset();
+    // if (!lineInfo.getTime() | !lineInfo.getWinOrLoss() | !lineInfo.getEntryValue()) return
+    // if (isDraw()) draws++;
+    // else if (isWin()) wins++;
+    // else loss++;
+    // if (!shouldContinue(lineInfo, options)) return;
+    // entries++;
+    // let winOrLoss = convertText(lineInfo.getWinOrLoss());
+    // let winOrLossText = centerText(winOrLoss);
+    // winOrLossText = colorizeText(winOrLossText);
 
-    parcialProfit += parseFloat(lineInfo.getWinValue()) + parseFloat(lineInfo.getLossValue());
-    function isWin() {
-        return lineInfo.getWinOrLoss() == "WIN";
-    }
-    function isDraw() {
-        return lineInfo.getWinOrLoss() == "EQUAL";
-    }
-    function centerText(text = "", padding = 10) {
-        let max = padding;
+    // let gale = lineInfo.getGale(5, 2.3, lineInfo.getEntryValue());
+    // let galeText = convertGaleText(winOrLoss, gale);
+    // galeText = leftText(galeText, 17);
+    // galeText = colorizeText(galeText);
 
-        return text
-            .padStart(text.length + Math.floor((max - text.length) / 2), ' ')
-            .padEnd(max, ' ')
-    }
-    function leftText(text = "", padding = 10) {
-        return text.padEnd(padding)
-    }
-    function convertText(text) {
-        if (text == "EQUAL") return `EMPATE`;
-        return text;
-    }
+    // let timeText = chalk.hex('#AE81FF')(lineInfo.getTime())
+    // let entryProfitValueText = colorizeText(centerText(lineInfo.getEntryProfitValue().toString()));
 
-    function convertGaleText(winOrLossText, gale) {
-        let galeText;
 
-        (gale == 0)
-            ? galeText = `${winOrLossText} SEM GALE`
-            : galeText = `${winOrLossText} NO ${gale}° GALE`
+    // console.log(chalk.bold.magentaBright(`[${timeText}] ${winOrLossText} | ${entryProfitValueText} | ${galeText} |`))
+    // chalk.reset();
 
-        return galeText;
-    }
-    function colorizeText(text) {
-        if (isDraw()) return chalk.hex('#1762E8')(text);
-        if (isWin()) return chalk.greenBright(text);
-        else return chalk.redBright(text);
-    }
+    // parcialProfit += parseFloat(lineInfo.getWinValue()) + parseFloat(lineInfo.getLossValue());
+    // function isWin() {
+    //     return lineInfo.getWinOrLoss() == "WIN";
+    // }
+    // function isDraw() {
+    //     return lineInfo.getWinOrLoss() == "EQUAL";
+    // }
+    // function centerText(text = "", padding = 10) {
+    //     let max = padding;
+
+    //     return text
+    //         .padStart(text.length + Math.floor((max - text.length) / 2), ' ')
+    //         .padEnd(max, ' ')
+    // }
+    // function leftText(text = "", padding = 10) {
+    //     return text.padEnd(padding)
+    // }
+    // function convertText(text) {
+    //     if (text == "EQUAL") return `EMPATE`;
+    //     return text;
+    // }
+
+    // function convertGaleText(winOrLossText, gale) {
+    //     let galeText;
+
+    //     (gale == 0)
+    //         ? galeText = `${winOrLossText} SEM GALE`
+    //         : galeText = `${winOrLossText} NO ${gale}° GALE`
+
+    //     return galeText;
+    // }
+    // function colorizeText(text) {
+    //     if (isDraw()) return chalk.hex('#1762E8')(text);
+    //     if (isWin()) return chalk.greenBright(text);
+    //     else return chalk.redBright(text);
+    // }
 }

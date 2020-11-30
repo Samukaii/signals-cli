@@ -30,9 +30,12 @@ function getRelatory(logFile, date) {
 
     fs.readFile(logFile, 'utf8', (err, fileContent) => {
         let extractor = createExtractor(fileContent);
-        extractor.getTimes().map((winOrLoss) => {
-            console.log(winOrLoss.result, winOrLoss.lineIndex);
-        })
+
+        console.log(extractor.getStats())
+        printResults(extractor.getEntryResult(), extractor.getStats());
+
+
+
         // if (err) console.log(err);
 
         // let contentWithoutSpaces = removeSpaces(fileContent);
