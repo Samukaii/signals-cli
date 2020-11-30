@@ -1,0 +1,39 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "baseUrl": "src",
+        "target": "ES6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "sourceMap": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "alwaysStrict": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "declaration": false,
+        "allowSyntheticDefaultImports": true,
+        "typeRoots": [
+            "./node_modules/@types",
+            "./src/@types"
+        ],
+        "paths": {
+            "src/*": [
+                "./src/*"
+            ],
+            "@helpers/*": [
+                "src/helpers/*"
+            ],
+            "@common/*": [
+                "src/common/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
