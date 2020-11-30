@@ -1,0 +1,1047 @@
+2020-11-27 00:35:59 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 00:35:59 INFO:Conectando na IQ-Option...
+2020-11-27 00:36:03 INFO:CONECTADO
+2020-11-27 00:36:04 INFO:Versao: 5.3.2.1
+2020-11-27 00:36:04 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 00:36:04 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 00:36:04 INFO:Id-Iq: 7182789
+2020-11-27 00:36:04 INFO:Moeda: USD
+2020-11-27 00:36:04 INFO:Saldo: 816.12
+2020-11-27 00:36:04 INFO:Tipo conta: Treinamento
+2020-11-27 00:36:04 INFO:------------ Dados Trade -------------
+2020-11-27 00:36:04 INFO:Tipo opção: Checar melhor payout
+2020-11-27 00:36:04 INFO:Tipo calculo: Valor
+2020-11-27 00:36:04 INFO:Valor do trade: 5.0
+2020-11-27 00:36:04 INFO:Expiração: 5-(M5)
+2020-11-27 00:36:04 INFO:Delay em (segundos): 2
+2020-11-27 00:36:04 INFO:% Payout: 65.0
+2020-11-27 00:36:04 INFO:Trabalhar em OTC: NÃO
+2020-11-27 00:36:04 INFO:------------ Dados Soro -------------
+2020-11-27 00:36:04 INFO:Max. soros: 1.0
+2020-11-27 00:36:04 INFO:% Utilizado no soros: 100.0
+2020-11-27 00:36:04 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 00:36:04 INFO:Tipo calculo: Valor
+2020-11-27 00:36:04 INFO:Stoploss Movel: NAO
+2020-11-27 00:36:04 INFO:Take profit em (valor): 80.0
+2020-11-27 00:36:04 INFO:Stop loss em (valor): 60.0
+2020-11-27 00:36:04 INFO:------------ Dados Controle -------------
+2020-11-27 00:36:04 INFO:Horario servidor: N
+2020-11-27 00:36:04 INFO:Verifica ativo fechado: S
+2020-11-27 00:36:04 INFO:Fuso horário: Nenhum
+2020-11-27 00:36:04 INFO:Verifica tendencia: SIM
+2020-11-27 00:36:04 INFO:------------ Dados da tendência -------------
+2020-11-27 00:36:04 INFO:Tipo tendencia: FORTE
+2020-11-27 00:36:04 INFO:Historico de velas: NAO
+2020-11-27 00:36:16 ERROR:Verifique o arquivo trade.txt - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-11-27 00:36:16 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 00:43:26 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 00:43:26 INFO:Conectando na IQ-Option...
+2020-11-27 00:44:04 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 00:44:04 INFO:Conectando na IQ-Option...
+2020-11-27 00:44:07 INFO:CONECTADO
+2020-11-27 00:44:08 INFO:Versao: 5.3.2.1
+2020-11-27 00:44:08 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 00:44:08 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 00:44:08 INFO:Id-Iq: 7182789
+2020-11-27 00:44:08 INFO:Moeda: USD
+2020-11-27 00:44:08 INFO:Saldo: 816.12
+2020-11-27 00:44:08 INFO:Tipo conta: Treinamento
+2020-11-27 00:44:08 INFO:------------ Dados Trade -------------
+2020-11-27 00:44:08 INFO:Tipo opção: Checar melhor payout
+2020-11-27 00:44:08 INFO:Tipo calculo: Valor
+2020-11-27 00:44:08 INFO:Valor do trade: 5.0
+2020-11-27 00:44:08 INFO:Expiração: 5-(M5)
+2020-11-27 00:44:08 INFO:Delay em (segundos): 2
+2020-11-27 00:44:08 INFO:% Payout: 65.0
+2020-11-27 00:44:08 INFO:Trabalhar em OTC: NÃO
+2020-11-27 00:44:08 INFO:------------ Dados Soro -------------
+2020-11-27 00:44:08 INFO:Max. soros: 1.0
+2020-11-27 00:44:08 INFO:% Utilizado no soros: 100.0
+2020-11-27 00:44:08 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 00:44:08 INFO:Tipo calculo: Valor
+2020-11-27 00:44:08 INFO:Stoploss Movel: NAO
+2020-11-27 00:44:08 INFO:Take profit em (valor): 80.0
+2020-11-27 00:44:08 INFO:Stop loss em (valor): 60.0
+2020-11-27 00:44:08 INFO:------------ Dados Controle -------------
+2020-11-27 00:44:08 INFO:Horario servidor: N
+2020-11-27 00:44:08 INFO:Verifica ativo fechado: S
+2020-11-27 00:44:08 INFO:Fuso horário: Nenhum
+2020-11-27 00:44:08 INFO:Verifica tendencia: SIM
+2020-11-27 00:44:08 INFO:------------ Dados da tendência -------------
+2020-11-27 00:44:08 INFO:Tipo tendencia: FORTE
+2020-11-27 00:44:08 INFO:Historico de velas: NAO
+2020-11-27 00:44:20 ERROR:Verifique o arquivo trade.txt - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-11-27 00:44:20 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 00:44:58 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 00:44:58 INFO:Conectando na IQ-Option...
+2020-11-27 00:45:02 INFO:CONECTADO
+2020-11-27 00:45:03 INFO:Versao: 5.3.2.1
+2020-11-27 00:45:03 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 00:45:03 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 00:45:03 INFO:Id-Iq: 7182789
+2020-11-27 00:45:03 INFO:Moeda: USD
+2020-11-27 00:45:03 INFO:Saldo: 816.12
+2020-11-27 00:45:03 INFO:Tipo conta: Treinamento
+2020-11-27 00:45:03 INFO:------------ Dados Trade -------------
+2020-11-27 00:45:03 INFO:Tipo opção: Checar melhor payout
+2020-11-27 00:45:03 INFO:Tipo calculo: Valor
+2020-11-27 00:45:03 INFO:Valor do trade: 5.0
+2020-11-27 00:45:03 INFO:Expiração: 5-(M5)
+2020-11-27 00:45:03 INFO:Delay em (segundos): 2
+2020-11-27 00:45:03 INFO:% Payout: 65.0
+2020-11-27 00:45:03 INFO:Trabalhar em OTC: NÃO
+2020-11-27 00:45:03 INFO:------------ Dados Soro -------------
+2020-11-27 00:45:03 INFO:Max. soros: 1.0
+2020-11-27 00:45:03 INFO:% Utilizado no soros: 100.0
+2020-11-27 00:45:03 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 00:45:03 INFO:Tipo calculo: Valor
+2020-11-27 00:45:03 INFO:Stoploss Movel: NAO
+2020-11-27 00:45:03 INFO:Take profit em (valor): 80.0
+2020-11-27 00:45:03 INFO:Stop loss em (valor): 60.0
+2020-11-27 00:45:03 INFO:------------ Dados Controle -------------
+2020-11-27 00:45:03 INFO:Horario servidor: N
+2020-11-27 00:45:03 INFO:Verifica ativo fechado: S
+2020-11-27 00:45:03 INFO:Fuso horário: Nenhum
+2020-11-27 00:45:03 INFO:Verifica tendencia: SIM
+2020-11-27 00:45:03 INFO:------------ Dados da tendência -------------
+2020-11-27 00:45:03 INFO:Tipo tendencia: FORTE
+2020-11-27 00:45:03 INFO:Historico de velas: NAO
+2020-11-27 00:45:16 ERROR:Verifique o arquivo trade.txt - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-11-27 00:45:16 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 00:46:35 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 00:46:35 INFO:Conectando na IQ-Option...
+2020-11-27 00:46:39 INFO:CONECTADO
+2020-11-27 00:46:40 INFO:Versao: 5.3.2.1
+2020-11-27 00:46:40 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 00:46:40 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 00:46:40 INFO:Id-Iq: 7182789
+2020-11-27 00:46:40 INFO:Moeda: USD
+2020-11-27 00:46:40 INFO:Saldo: 816.12
+2020-11-27 00:46:40 INFO:Tipo conta: Treinamento
+2020-11-27 00:46:40 INFO:------------ Dados Trade -------------
+2020-11-27 00:46:40 INFO:Tipo opção: Checar melhor payout
+2020-11-27 00:46:40 INFO:Tipo calculo: Valor
+2020-11-27 00:46:40 INFO:Valor do trade: 5.0
+2020-11-27 00:46:40 INFO:Expiração: 5-(M5)
+2020-11-27 00:46:40 INFO:Delay em (segundos): 2
+2020-11-27 00:46:40 INFO:% Payout: 65.0
+2020-11-27 00:46:40 INFO:Trabalhar em OTC: NÃO
+2020-11-27 00:46:40 INFO:------------ Dados Soro -------------
+2020-11-27 00:46:40 INFO:Max. soros: 1.0
+2020-11-27 00:46:40 INFO:% Utilizado no soros: 100.0
+2020-11-27 00:46:40 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 00:46:40 INFO:Tipo calculo: Valor
+2020-11-27 00:46:40 INFO:Stoploss Movel: NAO
+2020-11-27 00:46:40 INFO:Take profit em (valor): 80.0
+2020-11-27 00:46:40 INFO:Stop loss em (valor): 60.0
+2020-11-27 00:46:40 INFO:------------ Dados Controle -------------
+2020-11-27 00:46:40 INFO:Horario servidor: N
+2020-11-27 00:46:40 INFO:Verifica ativo fechado: S
+2020-11-27 00:46:40 INFO:Fuso horário: Nenhum
+2020-11-27 00:46:40 INFO:Verifica tendencia: SIM
+2020-11-27 00:46:40 INFO:------------ Dados da tendência -------------
+2020-11-27 00:46:40 INFO:Tipo tendencia: FORTE
+2020-11-27 00:46:40 INFO:Historico de velas: NAO
+2020-11-27 00:46:41 INFO:-> Aguardando horário: 27/11/2020 00:49:58 ativo: GBPJPY direção: PUT timeframe: 5
+2020-11-27 00:49:58 INFO: | ---> Abrindo entradas: Servidor:  00:49:58 / Agendado: 00:50:00/00:49:58 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 00:49:59 INFO: | ---> Nro. ordem: 12946268810 - Valor: 5.0 <====
+2020-11-27 00:49:59 INFO:  | ---> Aguarde checando nro. ordem: 12946268810 <====
+2020-11-27 00:55:03 INFO:   | ---> Ordem: 12946268810 | WIN | Valor: 5.0 | Ganho: 4.35 | Perda: 0
+2020-11-27 00:55:03 INFO:   | ---> Saldo: 4.35 | TakeProfit: 80.0 | StopLoss: 60.0
+2020-11-27 00:55:16 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 01:33:16 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 01:33:16 INFO:Conectando na IQ-Option...
+2020-11-27 01:33:19 INFO:CONECTADO
+2020-11-27 01:33:20 INFO:Versao: 5.3.2.1
+2020-11-27 01:33:20 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 01:33:20 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 01:33:20 INFO:Id-Iq: 7182789
+2020-11-27 01:33:20 INFO:Moeda: USD
+2020-11-27 01:33:20 INFO:Saldo: 820.47
+2020-11-27 01:33:20 INFO:Tipo conta: Treinamento
+2020-11-27 01:33:20 INFO:------------ Dados Trade -------------
+2020-11-27 01:33:20 INFO:Tipo opção: Checar melhor payout
+2020-11-27 01:33:20 INFO:Tipo calculo: Valor
+2020-11-27 01:33:20 INFO:Valor do trade: 5.0
+2020-11-27 01:33:20 INFO:Expiração: 1-(M1)
+2020-11-27 01:33:20 INFO:Delay em (segundos): 1
+2020-11-27 01:33:20 INFO:% Payout: 65.0
+2020-11-27 01:33:20 INFO:Trabalhar em OTC: NÃO
+2020-11-27 01:33:20 INFO:------------ Dados Martingale -------------
+2020-11-27 01:33:20 INFO:Max. martingale: 10.0
+2020-11-27 01:33:20 INFO:Fator martingale: 2.3
+2020-11-27 01:33:20 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 01:33:20 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 01:33:20 INFO:Tipo calculo: Valor
+2020-11-27 01:33:20 INFO:Stoploss Movel: NAO
+2020-11-27 01:33:20 INFO:Take profit em (valor): 200.0
+2020-11-27 01:33:20 INFO:Stop loss em (valor): 200.0
+2020-11-27 01:33:20 INFO:------------ Dados Controle -------------
+2020-11-27 01:33:20 INFO:Horario servidor: N
+2020-11-27 01:33:20 INFO:Verifica ativo fechado: S
+2020-11-27 01:33:20 INFO:Fuso horário: Nenhum
+2020-11-27 01:33:20 INFO:Verifica tendencia: SIM
+2020-11-27 01:33:20 INFO:------------ Dados da tendência -------------
+2020-11-27 01:33:20 INFO:Tipo tendencia: FORTE
+2020-11-27 01:33:20 INFO:Historico de velas: NAO
+2020-11-27 01:33:46 INFO:-> Aguardando horário: 27/11/2020 01:33:59 ativo: EURGBP direção: CALL timeframe: 1
+2020-11-27 01:33:59 INFO: | ---> Abrindo entradas: Servidor:  01:33:59 / Agendado: 01:34:00/01:33:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 01:34:00 INFO: | ---> Nro. ordem: 12946387435 - Valor: 5.0 <====
+2020-11-27 01:34:00 INFO:  | ---> Aguarde checando nro. ordem: 12946387435 <====
+2020-11-27 01:35:03 INFO:   | ---> Ordem: 12946387435 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 01:35:03 INFO:   | ---> Saldo: -5.0 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 01:35:03 INFO:-> Aguardando horário: 27/11/2020 01:35:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:35:16 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 01:35:16 INFO:-> Aguardando horário: 27/11/2020 01:36:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:36:15 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 01:36:15 INFO:-> Aguardando horário: 27/11/2020 01:37:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:37:15 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 01:37:15 INFO:-> Aguardando horário: 27/11/2020 01:38:59 ativo: EURGBP direção: CALL timeframe: 1
+2020-11-27 01:38:15 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 01:38:15 INFO:-> Aguardando horário: 27/11/2020 01:39:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:39:09 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 01:39:09 INFO:Conectando na IQ-Option...
+2020-11-27 01:39:13 INFO:CONECTADO
+2020-11-27 01:39:14 INFO:Versao: 5.3.2.1
+2020-11-27 01:39:14 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 01:39:14 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 01:39:14 INFO:Id-Iq: 7182789
+2020-11-27 01:39:14 INFO:Moeda: USD
+2020-11-27 01:39:14 INFO:Saldo: 815.47
+2020-11-27 01:39:14 INFO:Tipo conta: Treinamento
+2020-11-27 01:39:14 INFO:------------ Dados Trade -------------
+2020-11-27 01:39:14 INFO:Tipo opção: Checar melhor payout
+2020-11-27 01:39:14 INFO:Tipo calculo: Valor
+2020-11-27 01:39:14 INFO:Valor do trade: 5.0
+2020-11-27 01:39:14 INFO:Expiração: 1-(M1)
+2020-11-27 01:39:14 INFO:Delay em (segundos): 1
+2020-11-27 01:39:14 INFO:% Payout: 65.0
+2020-11-27 01:39:14 INFO:Trabalhar em OTC: NÃO
+2020-11-27 01:39:14 INFO:------------ Dados Martingale -------------
+2020-11-27 01:39:14 INFO:Max. martingale: 10.0
+2020-11-27 01:39:14 INFO:Fator martingale: 2.3
+2020-11-27 01:39:14 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 01:39:14 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 01:39:14 INFO:Tipo calculo: Valor
+2020-11-27 01:39:14 INFO:Stoploss Movel: NAO
+2020-11-27 01:39:14 INFO:Take profit em (valor): 200.0
+2020-11-27 01:39:14 INFO:Stop loss em (valor): 200.0
+2020-11-27 01:39:14 INFO:------------ Dados Controle -------------
+2020-11-27 01:39:14 INFO:Horario servidor: N
+2020-11-27 01:39:14 INFO:Verifica ativo fechado: S
+2020-11-27 01:39:14 INFO:Fuso horário: Nenhum
+2020-11-27 01:39:14 INFO:Verifica tendencia: SIM
+2020-11-27 01:39:14 INFO:------------ Dados da tendência -------------
+2020-11-27 01:39:14 INFO:Tipo tendencia: FRACA
+2020-11-27 01:39:14 INFO:Historico de velas: NAO
+2020-11-27 01:39:46 INFO:-> Aguardando horário: 27/11/2020 01:39:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:39:53 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA FRACA, tendência diferente da direçäo do trade. 
+2020-11-27 01:39:54 INFO:-> Aguardando horário: 27/11/2020 01:40:59 ativo: EURGBP direção: CALL timeframe: 1
+2020-11-27 01:41:15 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 01:41:15 INFO:Conectando na IQ-Option...
+2020-11-27 01:41:18 INFO:CONECTADO
+2020-11-27 01:41:19 INFO:Versao: 5.3.2.1
+2020-11-27 01:41:19 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 01:41:19 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 01:41:19 INFO:Id-Iq: 7182789
+2020-11-27 01:41:19 INFO:Moeda: USD
+2020-11-27 01:41:19 INFO:Saldo: 815.47
+2020-11-27 01:41:19 INFO:Tipo conta: Treinamento
+2020-11-27 01:41:19 INFO:------------ Dados Trade -------------
+2020-11-27 01:41:19 INFO:Tipo opção: Checar melhor payout
+2020-11-27 01:41:19 INFO:Tipo calculo: Valor
+2020-11-27 01:41:19 INFO:Valor do trade: 5.0
+2020-11-27 01:41:19 INFO:Expiração: 1-(M1)
+2020-11-27 01:41:19 INFO:Delay em (segundos): 1
+2020-11-27 01:41:19 INFO:% Payout: 65.0
+2020-11-27 01:41:19 INFO:Trabalhar em OTC: NÃO
+2020-11-27 01:41:19 INFO:------------ Dados Martingale -------------
+2020-11-27 01:41:19 INFO:Max. martingale: 10.0
+2020-11-27 01:41:19 INFO:Fator martingale: 2.3
+2020-11-27 01:41:19 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 01:41:19 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 01:41:19 INFO:Tipo calculo: Valor
+2020-11-27 01:41:19 INFO:Stoploss Movel: NAO
+2020-11-27 01:41:19 INFO:Take profit em (valor): 200.0
+2020-11-27 01:41:19 INFO:Stop loss em (valor): 200.0
+2020-11-27 01:41:19 INFO:------------ Dados Controle -------------
+2020-11-27 01:41:19 INFO:Horario servidor: N
+2020-11-27 01:41:19 INFO:Verifica ativo fechado: S
+2020-11-27 01:41:19 INFO:Fuso horário: Nenhum
+2020-11-27 01:41:19 INFO:Verifica tendencia: NAO
+2020-11-27 01:41:19 INFO:Historico de velas: NAO
+2020-11-27 01:41:53 INFO:-> Aguardando horário: 27/11/2020 01:41:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:42:00 INFO: | ---> Abrindo entradas: Servidor:  01:42:00 / Agendado: 01:42:00/01:41:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 01:42:02 INFO: | ---> Nro. ordem: 12946407641 - Valor: 5.0 <====
+2020-11-27 01:42:02 INFO:  | ---> Aguarde checando nro. ordem: 12946407641 <====
+2020-11-27 01:43:02 INFO:   | ---> Ordem: 12946407641 | WIN | Valor: 5.0 | Ganho: 4.35 | Perda: 0
+2020-11-27 01:43:02 INFO:   | ---> Saldo: 4.35 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 01:43:03 INFO:-> Aguardando horário: 27/11/2020 01:43:59 ativo: EURGBP direção: CALL timeframe: 1
+2020-11-27 01:43:59 INFO: | ---> Abrindo entradas: Servidor:  01:43:59 / Agendado: 01:44:00/01:43:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 01:44:00 INFO: | ---> Nro. ordem: 12946411234 - Valor: 5.0 <====
+2020-11-27 01:44:00 INFO:  | ---> Aguarde checando nro. ordem: 12946411234 <====
+2020-11-27 01:45:03 INFO:   | ---> Ordem: 12946411234 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 01:45:03 INFO:   | ---> Saldo: -0.65 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 01:45:04 INFO:-> Aguardando horário: 27/11/2020 01:45:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:45:59 INFO: | ---> Abrindo entradas: Servidor:  01:45:59 / Agendado: 01:46:00/01:45:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 01:46:00 INFO: | ---> Nro. ordem: 12946416278 - Valor: 11.5 <====
+2020-11-27 01:46:00 INFO:  | ---> Aguarde checando nro. ordem: 12946416278 <====
+2020-11-27 01:47:02 INFO:   | ---> Ordem: 12946416278 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 01:47:02 INFO:   | ---> Saldo: -12.15 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 01:47:03 INFO:-> Aguardando horário: 27/11/2020 01:47:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 01:47:59 INFO: | ---> Abrindo entradas: Servidor:  01:47:59 / Agendado: 01:48:00/01:47:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 01:48:00 INFO: | ---> Nro. ordem: 12946420903 - Valor: 26.45 <====
+2020-11-27 01:48:00 INFO:  | ---> Aguarde checando nro. ordem: 12946420903 <====
+2020-11-27 01:49:02 INFO:   | ---> Ordem: 12946420903 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 01:49:02 INFO:   | ---> Saldo: -38.6 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 01:49:03 INFO:-> Aguardando horário: 27/11/2020 01:49:59 ativo: EURGBP direção: CALL timeframe: 1
+2020-11-27 01:50:48 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 01:50:48 INFO:Conectando na IQ-Option...
+2020-11-27 01:50:51 INFO:CONECTADO
+2020-11-27 01:50:52 INFO:Versao: 5.3.2.1
+2020-11-27 01:50:52 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 01:50:52 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 01:50:52 INFO:Id-Iq: 7182789
+2020-11-27 01:50:52 INFO:Moeda: USD
+2020-11-27 01:50:52 INFO:Saldo: 776.88
+2020-11-27 01:50:52 INFO:Tipo conta: Treinamento
+2020-11-27 01:50:52 INFO:------------ Dados Trade -------------
+2020-11-27 01:50:52 INFO:Tipo opção: Checar melhor payout
+2020-11-27 01:50:52 INFO:Tipo calculo: Valor
+2020-11-27 01:50:52 INFO:Valor do trade: 5.0
+2020-11-27 01:50:52 INFO:Expiração: 5-(M5)
+2020-11-27 01:50:52 INFO:Delay em (segundos): 1
+2020-11-27 01:50:52 INFO:% Payout: 65.0
+2020-11-27 01:50:52 INFO:Trabalhar em OTC: NÃO
+2020-11-27 01:50:52 INFO:------------ Dados Martingale -------------
+2020-11-27 01:50:52 INFO:Max. martingale: 10.0
+2020-11-27 01:50:52 INFO:Fator martingale: 2.3
+2020-11-27 01:50:52 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 01:50:52 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 01:50:52 INFO:Tipo calculo: Valor
+2020-11-27 01:50:52 INFO:Stoploss Movel: NAO
+2020-11-27 01:50:52 INFO:Take profit em (valor): 200.0
+2020-11-27 01:50:52 INFO:Stop loss em (valor): 200.0
+2020-11-27 01:50:52 INFO:------------ Dados Controle -------------
+2020-11-27 01:50:52 INFO:Horario servidor: N
+2020-11-27 01:50:52 INFO:Verifica ativo fechado: S
+2020-11-27 01:50:52 INFO:Fuso horário: Nenhum
+2020-11-27 01:50:52 INFO:Verifica tendencia: SIM
+2020-11-27 01:50:52 INFO:------------ Dados da tendência -------------
+2020-11-27 01:50:52 INFO:Tipo tendencia: CUSTOMIZADA
+2020-11-27 01:50:52 INFO:Expiração: 5-(M5)
+2020-11-27 01:50:52 INFO:Tipo média lenta: SMA
+2020-11-27 01:50:52 INFO:Periodo média lenta: 15.0
+2020-11-27 01:50:52 INFO:Tipo media rapida: EMA
+2020-11-27 01:50:52 INFO:Periodo média rapida: 6.0
+2020-11-27 01:50:52 INFO:Historico de velas: NAO
+2020-11-27 01:51:29 INFO:-> Aguardando horário: 27/11/2020 01:51:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 01:58:39 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 01:58:40 INFO:Conectando na IQ-Option...
+2020-11-27 01:58:43 INFO:CONECTADO
+2020-11-27 01:58:44 INFO:Versao: 5.3.2.1
+2020-11-27 01:58:44 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 01:58:44 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 01:58:44 INFO:Id-Iq: 7182789
+2020-11-27 01:58:44 INFO:Moeda: USD
+2020-11-27 01:58:44 INFO:Saldo: 1000
+2020-11-27 01:58:44 INFO:Tipo conta: Treinamento
+2020-11-27 01:58:44 INFO:------------ Dados Trade -------------
+2020-11-27 01:58:44 INFO:Tipo opção: Checar melhor payout
+2020-11-27 01:58:44 INFO:Tipo calculo: Valor
+2020-11-27 01:58:44 INFO:Valor do trade: 5.0
+2020-11-27 01:58:44 INFO:Expiração: 5-(M5)
+2020-11-27 01:58:44 INFO:Delay em (segundos): 1
+2020-11-27 01:58:44 INFO:% Payout: 65.0
+2020-11-27 01:58:44 INFO:Trabalhar em OTC: NÃO
+2020-11-27 01:58:44 INFO:------------ Dados Martingale -------------
+2020-11-27 01:58:44 INFO:Max. martingale: 10.0
+2020-11-27 01:58:44 INFO:Fator martingale: 2.3
+2020-11-27 01:58:44 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 01:58:44 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 01:58:44 INFO:Tipo calculo: Valor
+2020-11-27 01:58:44 INFO:Stoploss Movel: NAO
+2020-11-27 01:58:44 INFO:Take profit em (valor): 200.0
+2020-11-27 01:58:44 INFO:Stop loss em (valor): 200.0
+2020-11-27 01:58:44 INFO:------------ Dados Controle -------------
+2020-11-27 01:58:44 INFO:Horario servidor: N
+2020-11-27 01:58:44 INFO:Verifica ativo fechado: S
+2020-11-27 01:58:44 INFO:Fuso horário: Nenhum
+2020-11-27 01:58:44 INFO:Verifica tendencia: SIM
+2020-11-27 01:58:44 INFO:------------ Dados da tendência -------------
+2020-11-27 01:58:44 INFO:Tipo tendencia: CUSTOMIZADA
+2020-11-27 01:58:44 INFO:Expiração: 5-(M5)
+2020-11-27 01:58:44 INFO:Tipo média lenta: SMA
+2020-11-27 01:58:44 INFO:Periodo média lenta: 15.0
+2020-11-27 01:58:44 INFO:Tipo media rapida: EMA
+2020-11-27 01:58:44 INFO:Periodo média rapida: 6.0
+2020-11-27 01:58:44 INFO:Historico de velas: NAO
+2020-11-27 01:58:45 INFO:Horario [00:00] não entra, pois é virada de data e isso pode ocassionar carios erros.
+2020-11-27 01:58:50 INFO:-> Aguardando horário: 27/11/2020 01:59:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 01:59:15 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA, tendência diferente da direçäo do trade. 
+2020-11-27 01:59:15 INFO:-> Aguardando horário: 27/11/2020 02:04:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 02:04:59 INFO: | ---> Abrindo entradas: Servidor:  02:04:59 / Agendado: 02:05:00/02:04:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 02:05:00 INFO: | ---> Nro. ordem: 12946458362 - Valor: 5.0 <====
+2020-11-27 02:05:00 INFO:  | ---> Aguarde checando nro. ordem: 12946458362 <====
+2020-11-27 02:10:02 INFO:   | ---> Ordem: 12946458362 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 02:10:02 INFO:   | ---> Saldo: -5.0 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 02:10:03 INFO:-> Aguardando horário: 27/11/2020 02:14:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 02:14:13 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA, tendência diferente da direçäo do trade. 
+2020-11-27 02:14:13 INFO:-> Aguardando horário: 27/11/2020 02:19:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 02:19:59 INFO: | ---> Abrindo entradas: Servidor:  02:19:59 / Agendado: 02:20:00/02:19:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 02:20:00 INFO: | ---> Nro. ordem: 12946492039 - Valor: 11.5 <====
+2020-11-27 02:20:00 INFO:  | ---> Aguarde checando nro. ordem: 12946492039 <====
+2020-11-27 02:25:02 INFO:   | ---> Ordem: 12946492039 | WIN | Valor: 11.5 | Ganho: 10.02 | Perda: 0
+2020-11-27 02:25:02 INFO:   | ---> Saldo: 5.02 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 02:25:03 INFO:-> Aguardando horário: 27/11/2020 02:29:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 02:29:13 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA, tendência diferente da direçäo do trade. 
+2020-11-27 02:29:13 INFO:-> Aguardando horário: 27/11/2020 02:34:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 02:34:15 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA, tendência diferente da direçäo do trade. 
+2020-11-27 02:34:15 INFO:-> Aguardando horário: 27/11/2020 02:39:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 02:39:59 INFO: | ---> Abrindo entradas: Servidor:  02:39:59 / Agendado: 02:40:00/02:39:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 02:40:00 INFO: | ---> Nro. ordem: 12946535262 - Valor: 5.0 <====
+2020-11-27 02:40:00 INFO:  | ---> Aguarde checando nro. ordem: 12946535262 <====
+2020-11-27 02:45:03 INFO:   | ---> Ordem: 12946535262 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 02:45:03 INFO:   | ---> Saldo: 0.02 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 02:45:03 INFO:-> Aguardando horário: 27/11/2020 02:49:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 02:49:15 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 02:49:15 INFO:-> Aguardando horário: 27/11/2020 02:54:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 02:54:15 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 02:54:15 INFO:-> Aguardando horário: 27/11/2020 02:59:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 02:59:13 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 02:59:13 INFO:-> Aguardando horário: 27/11/2020 03:04:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 03:04:59 INFO: | ---> Abrindo entradas: Servidor:  03:04:59 / Agendado: 03:05:00/03:04:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 03:05:00 INFO: | ---> Nro. ordem: 12946592962 - Valor: 11.5 <====
+2020-11-27 03:05:00 INFO:  | ---> Aguarde checando nro. ordem: 12946592962 <====
+2020-11-27 03:10:03 INFO:   | ---> Ordem: 12946592962 | WIN | Valor: 11.5 | Ganho: 9.68 | Perda: 0
+2020-11-27 03:10:03 INFO:   | ---> Saldo: 9.69 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 03:10:04 INFO:-> Aguardando horário: 27/11/2020 03:14:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 03:14:14 ERROR:ERRO: Ativo: EURGBP direção: CALL tendência: BAIXA, tendência diferente da direçäo do trade. 
+2020-11-27 03:14:14 INFO:-> Aguardando horário: 27/11/2020 03:19:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 03:19:15 ERROR:ERRO: Ativo: EURGBP direção: CALL tendência: BAIXA, tendência diferente da direçäo do trade. 
+2020-11-27 03:19:15 INFO:-> Aguardando horário: 27/11/2020 03:24:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 03:24:13 ERROR:ERRO: Ativo: EURGBP direção: CALL tendência: BAIXA, tendência diferente da direçäo do trade. 
+2020-11-27 03:24:13 INFO:-> Aguardando horário: 27/11/2020 03:29:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 03:29:59 INFO: | ---> Abrindo entradas: Servidor:  03:29:59 / Agendado: 03:30:00/03:29:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 03:30:00 INFO: | ---> Nro. ordem: 12946654996 - Valor: 5.0 <====
+2020-11-27 03:30:00 INFO:  | ---> Aguarde checando nro. ordem: 12946654996 <====
+2020-11-27 03:35:02 INFO:   | ---> Ordem: 12946654996 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 03:35:02 INFO:   | ---> Saldo: 4.69 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 03:35:03 INFO:-> Aguardando horário: 27/11/2020 03:39:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 03:39:18 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 03:39:19 INFO:-> Aguardando horário: 27/11/2020 03:44:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 03:44:59 INFO: | ---> Abrindo entradas: Servidor:  03:44:59 / Agendado: 03:45:00/03:44:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 03:45:00 INFO: | ---> Nro. ordem: 12946690892 - Valor: 11.5 <====
+2020-11-27 03:45:00 INFO:  | ---> Aguarde checando nro. ordem: 12946690892 <====
+2020-11-27 03:50:03 INFO:   | ---> Ordem: 12946690892 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 03:50:03 INFO:   | ---> Saldo: -6.81 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 03:50:03 INFO:-> Aguardando horário: 27/11/2020 03:54:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 03:54:15 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA, tendência diferente da direçäo do trade. 
+2020-11-27 03:54:16 INFO:-> Aguardando horário: 27/11/2020 03:59:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 03:59:59 INFO: | ---> Abrindo entradas: Servidor:  03:59:59 / Agendado: 04:00:00/03:59:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 04:00:00 INFO: | ---> Nro. ordem: 12946726716 - Valor: 26.45 <====
+2020-11-27 04:00:00 INFO:  | ---> Aguarde checando nro. ordem: 12946726716 <====
+2020-11-27 04:05:02 INFO:   | ---> Ordem: 12946726716 | WIN | Valor: 26.45 | Ganho: 22.26 | Perda: 0
+2020-11-27 04:05:02 INFO:   | ---> Saldo: 15.46 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 04:05:03 INFO:-> Aguardando horário: 27/11/2020 04:09:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 04:09:59 INFO: | ---> Abrindo entradas: Servidor:  04:09:59 / Agendado: 04:10:00/04:09:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 04:10:00 INFO: | ---> Nro. ordem: 12946751104 - Valor: 5.0 <====
+2020-11-27 04:10:00 INFO:  | ---> Aguarde checando nro. ordem: 12946751104 <====
+2020-11-27 04:15:02 INFO:   | ---> Ordem: 12946751104 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 04:15:02 INFO:   | ---> Saldo: 10.46 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 04:15:03 INFO:-> Aguardando horário: 27/11/2020 04:19:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 04:19:16 ERROR:ERRO: Ativo: EURGBP direção: PUT tendência: ALTA, tendência diferente da direçäo do trade. 
+2020-11-27 04:19:17 INFO:-> Aguardando horário: 27/11/2020 04:24:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 04:24:59 INFO: | ---> Abrindo entradas: Servidor:  04:24:59 / Agendado: 04:25:00/04:24:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 04:25:00 INFO: | ---> Nro. ordem: 12946785869 - Valor: 11.5 <====
+2020-11-27 04:25:00 INFO:  | ---> Aguarde checando nro. ordem: 12946785869 <====
+2020-11-27 04:30:02 INFO:   | ---> Ordem: 12946785869 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 04:30:02 INFO:   | ---> Saldo: -1.04 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 04:30:03 INFO:-> Aguardando horário: 27/11/2020 04:34:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 04:34:16 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 04:34:16 INFO:-> Aguardando horário: 27/11/2020 04:39:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 04:39:14 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 04:39:14 INFO:-> Aguardando horário: 27/11/2020 04:44:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 04:44:15 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 04:44:15 INFO:-> Aguardando horário: 27/11/2020 04:49:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 04:49:14 ERROR:ERRO: Ativo: EURGBP direção: CALL tendência: BAIXA, tendência diferente da direçäo do trade. 
+2020-11-27 04:49:15 INFO:-> Aguardando horário: 27/11/2020 04:54:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 04:54:59 INFO: | ---> Abrindo entradas: Servidor:  04:54:59 / Agendado: 04:55:00/04:54:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 04:55:00 INFO: | ---> Nro. ordem: 12946860572 - Valor: 26.45 <====
+2020-11-27 04:55:00 INFO:  | ---> Aguarde checando nro. ordem: 12946860572 <====
+2020-11-27 05:00:03 INFO:   | ---> Ordem: 12946860572 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 05:00:03 INFO:   | ---> Saldo: -27.49 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 05:00:04 INFO:-> Aguardando horário: 27/11/2020 05:04:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 05:04:15 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 05:04:15 INFO:-> Aguardando horário: 27/11/2020 05:09:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 05:06:14 INFO:----------> RECONECTANDO <----------
+2020-11-27 05:06:14 ERROR:Reconectando- AGUARDANDO HORÁRIO- 2
+2020-11-27 05:09:21 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 05:09:22 INFO:-> Aguardando horário: 27/11/2020 05:14:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 05:14:18 ERROR:ERRO: Ativo: EURGBP direção: CALL tendência: BAIXA, tendência diferente da direçäo do trade. 
+2020-11-27 05:14:18 INFO:-> Aguardando horário: 27/11/2020 05:19:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 05:19:59 INFO: | ---> Abrindo entradas: Servidor:  05:19:59 / Agendado: 05:20:00/05:19:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 05:20:00 INFO: | ---> Nro. ordem: 12946928825 - Valor: 60.83 <====
+2020-11-27 05:20:00 INFO:  | ---> Aguarde checando nro. ordem: 12946928825 <====
+2020-11-27 05:25:02 INFO:   | ---> Ordem: 12946928825 | LOSS | Valor: 60.83 | Ganho: 0 | Perda: -60.83
+2020-11-27 05:25:02 INFO:   | ---> Saldo: -88.32 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 05:25:03 INFO:-> Aguardando horário: 27/11/2020 05:29:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 05:29:16 WARNING:AVISO: Ativo: EURGBP direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 05:29:17 INFO:-> Aguardando horário: 27/11/2020 05:34:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 05:34:15 WARNING:AVISO: Ativo: EURGBP direção: PUT. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-11-27 05:34:16 INFO:-> Aguardando horário: 27/11/2020 05:39:59 ativo: EURGBP direção: CALL timeframe: 5
+2020-11-27 05:39:59 INFO: | ---> Abrindo entradas: Servidor:  05:39:59 / Agendado: 05:40:00/05:39:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 05:40:00 INFO: | ---> Nro. ordem: 12946984520 - Valor: 139.92 <====
+2020-11-27 05:40:00 INFO:  | ---> Aguarde checando nro. ordem: 12946984520 <====
+2020-11-27 05:45:03 INFO:   | ---> Ordem: 12946984520 | LOSS | Valor: 139.92 | Ganho: 0 | Perda: -139.92
+2020-11-27 05:45:03 INFO:   | ---> Saldo: -228.24 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 05:45:03 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 05:45:03 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 08:19:14 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 08:19:14 INFO:Conectando na IQ-Option...
+2020-11-27 08:19:18 INFO:CONECTADO
+2020-11-27 08:19:19 INFO:Versao: 5.3.2.1
+2020-11-27 08:19:19 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 08:19:19 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 08:19:19 INFO:Id-Iq: 7182789
+2020-11-27 08:19:19 INFO:Moeda: USD
+2020-11-27 08:19:19 INFO:Saldo: 771.75
+2020-11-27 08:19:19 INFO:Tipo conta: Treinamento
+2020-11-27 08:19:19 INFO:------------ Dados Trade -------------
+2020-11-27 08:19:19 INFO:Tipo opção: Checar melhor payout
+2020-11-27 08:19:19 INFO:Tipo calculo: Valor
+2020-11-27 08:19:19 INFO:Valor do trade: 5.0
+2020-11-27 08:19:19 INFO:Expiração: 5-(M5)
+2020-11-27 08:19:19 INFO:Delay em (segundos): 1
+2020-11-27 08:19:19 INFO:% Payout: 65.0
+2020-11-27 08:19:19 INFO:Trabalhar em OTC: NÃO
+2020-11-27 08:19:19 INFO:------------ Dados Martingale -------------
+2020-11-27 08:19:19 INFO:Max. martingale: 10.0
+2020-11-27 08:19:19 INFO:Fator martingale: 2.3
+2020-11-27 08:19:19 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 08:19:19 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 08:19:19 INFO:Tipo calculo: Valor
+2020-11-27 08:19:19 INFO:Stoploss Movel: NAO
+2020-11-27 08:19:19 INFO:Take profit em (valor): 200.0
+2020-11-27 08:19:19 INFO:Stop loss em (valor): 200.0
+2020-11-27 08:19:19 INFO:------------ Dados Controle -------------
+2020-11-27 08:19:19 INFO:Horario servidor: N
+2020-11-27 08:19:19 INFO:Verifica ativo fechado: S
+2020-11-27 08:19:19 INFO:Fuso horário: Nenhum
+2020-11-27 08:19:19 INFO:Verifica tendencia: SIM
+2020-11-27 08:19:19 INFO:------------ Dados da tendência -------------
+2020-11-27 08:19:19 INFO:Tipo tendencia: CUSTOMIZADA
+2020-11-27 08:19:19 INFO:Expiração: 5-(M5)
+2020-11-27 08:19:19 INFO:Tipo média lenta: SMA
+2020-11-27 08:19:19 INFO:Periodo média lenta: 15.0
+2020-11-27 08:19:19 INFO:Tipo media rapida: EMA
+2020-11-27 08:19:19 INFO:Periodo média rapida: 6.0
+2020-11-27 08:19:19 INFO:Historico de velas: NAO
+2020-11-27 08:19:19 INFO:-> Aguardando horário: 27/11/2020 18:53:59 ativo: EURUSD direção: PUT timeframe: 5
+2020-11-27 08:40:40 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 08:40:40 INFO:Conectando na IQ-Option...
+2020-11-27 08:40:43 INFO:CONECTADO
+2020-11-27 08:40:44 INFO:Versao: 5.3.2.1
+2020-11-27 08:40:44 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 08:40:44 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 08:40:44 INFO:Id-Iq: 7182789
+2020-11-27 08:40:44 INFO:Moeda: USD
+2020-11-27 08:40:44 INFO:Saldo: 771.75
+2020-11-27 08:40:44 INFO:Tipo conta: Treinamento
+2020-11-27 08:40:44 INFO:------------ Dados Trade -------------
+2020-11-27 08:40:44 INFO:Tipo opção: Checar melhor payout
+2020-11-27 08:40:44 INFO:Tipo calculo: Valor
+2020-11-27 08:40:44 INFO:Valor do trade: 5.0
+2020-11-27 08:40:44 INFO:Expiração: 5-(M5)
+2020-11-27 08:40:44 INFO:Delay em (segundos): 1
+2020-11-27 08:40:44 INFO:% Payout: 65.0
+2020-11-27 08:40:44 INFO:Trabalhar em OTC: NÃO
+2020-11-27 08:40:44 INFO:------------ Dados Martingale -------------
+2020-11-27 08:40:44 INFO:Max. martingale: 10.0
+2020-11-27 08:40:44 INFO:Fator martingale: 2.3
+2020-11-27 08:40:44 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 08:40:44 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 08:40:44 INFO:Tipo calculo: Valor
+2020-11-27 08:40:44 INFO:Stoploss Movel: NAO
+2020-11-27 08:40:44 INFO:Take profit em (valor): 200.0
+2020-11-27 08:40:44 INFO:Stop loss em (valor): 200.0
+2020-11-27 08:40:44 INFO:------------ Dados Controle -------------
+2020-11-27 08:40:44 INFO:Horario servidor: N
+2020-11-27 08:40:44 INFO:Verifica ativo fechado: S
+2020-11-27 08:40:44 INFO:Fuso horário: Nenhum
+2020-11-27 08:40:44 INFO:Verifica tendencia: NAO
+2020-11-27 08:40:44 INFO:Historico de velas: NAO
+2020-11-27 08:41:22 INFO:-> Aguardando horário: 27/11/2020 08:41:59 ativo: EURGBP direção: PUT timeframe: 5
+2020-11-27 08:43:27 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 08:43:27 INFO:Conectando na IQ-Option...
+2020-11-27 08:43:30 INFO:CONECTADO
+2020-11-27 08:43:31 INFO:Versao: 5.3.2.1
+2020-11-27 08:43:31 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 08:43:31 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 08:43:31 INFO:Id-Iq: 7182789
+2020-11-27 08:43:31 INFO:Moeda: USD
+2020-11-27 08:43:31 INFO:Saldo: 771.75
+2020-11-27 08:43:31 INFO:Tipo conta: Treinamento
+2020-11-27 08:43:31 INFO:------------ Dados Trade -------------
+2020-11-27 08:43:31 INFO:Tipo opção: Checar melhor payout
+2020-11-27 08:43:31 INFO:Tipo calculo: Valor
+2020-11-27 08:43:31 INFO:Valor do trade: 5.0
+2020-11-27 08:43:31 INFO:Expiração: 1-(M1)
+2020-11-27 08:43:31 INFO:Delay em (segundos): 1
+2020-11-27 08:43:31 INFO:% Payout: 65.0
+2020-11-27 08:43:31 INFO:Trabalhar em OTC: NÃO
+2020-11-27 08:43:31 INFO:------------ Dados Martingale -------------
+2020-11-27 08:43:31 INFO:Max. martingale: 10.0
+2020-11-27 08:43:31 INFO:Fator martingale: 2.3
+2020-11-27 08:43:31 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 08:43:31 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 08:43:31 INFO:Tipo calculo: Valor
+2020-11-27 08:43:31 INFO:Stoploss Movel: NAO
+2020-11-27 08:43:31 INFO:Take profit em (valor): 200.0
+2020-11-27 08:43:31 INFO:Stop loss em (valor): 200.0
+2020-11-27 08:43:31 INFO:------------ Dados Controle -------------
+2020-11-27 08:43:31 INFO:Horario servidor: N
+2020-11-27 08:43:31 INFO:Verifica ativo fechado: S
+2020-11-27 08:43:31 INFO:Fuso horário: Nenhum
+2020-11-27 08:43:31 INFO:Verifica tendencia: NAO
+2020-11-27 08:43:31 INFO:Historico de velas: NAO
+2020-11-27 08:44:17 INFO:-> Aguardando horário: 27/11/2020 08:45:59 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-27 08:46:26 INFO:TRADE cancelado horario atual 08:46:26 maior que horario limite 08:46:05.
+2020-11-27 08:46:27 INFO:-> Aguardando horário: 27/11/2020 08:50:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 08:50:59 INFO: | ---> Abrindo entradas: Servidor:  08:50:59 / Agendado: 08:51:00/08:50:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 08:51:00 INFO: | ---> Nro. ordem: 12947735663 - Valor: 5.0 <====
+2020-11-27 08:51:00 INFO:  | ---> Aguarde checando nro. ordem: 12947735663 <====
+2020-11-27 08:52:02 INFO:   | ---> Ordem: 12947735663 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 08:52:02 INFO:   | ---> Saldo: 4.21 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 08:52:03 INFO:-> Aguardando horário: 27/11/2020 09:01:59 ativo: GBPAUD direção: PUT timeframe: 1
+2020-11-27 09:10:37 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-27 09:10:37 INFO:Conectando na IQ-Option...
+2020-11-27 09:10:40 INFO:CONECTADO
+2020-11-27 09:10:41 INFO:Versao: 5.3.2.1
+2020-11-27 09:10:41 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-27 09:10:41 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-27 09:10:41 INFO:Id-Iq: 7182789
+2020-11-27 09:10:41 INFO:Moeda: USD
+2020-11-27 09:10:41 INFO:Saldo: 775.96
+2020-11-27 09:10:41 INFO:Tipo conta: Treinamento
+2020-11-27 09:10:41 INFO:------------ Dados Trade -------------
+2020-11-27 09:10:41 INFO:Tipo opção: Checar melhor payout
+2020-11-27 09:10:41 INFO:Tipo calculo: Valor
+2020-11-27 09:10:41 INFO:Valor do trade: 5.0
+2020-11-27 09:10:41 INFO:Expiração: 1-(M1)
+2020-11-27 09:10:41 INFO:Delay em (segundos): 1
+2020-11-27 09:10:41 INFO:% Payout: 65.0
+2020-11-27 09:10:41 INFO:Trabalhar em OTC: NÃO
+2020-11-27 09:10:41 INFO:------------ Dados Martingale -------------
+2020-11-27 09:10:41 INFO:Max. martingale: 10.0
+2020-11-27 09:10:41 INFO:Fator martingale: 2.3
+2020-11-27 09:10:41 INFO:Proxima Vela/Sinal: NAO
+2020-11-27 09:10:41 INFO:------------ Dados Gerenciamento -------------
+2020-11-27 09:10:41 INFO:Tipo calculo: Valor
+2020-11-27 09:10:41 INFO:Stoploss Movel: NAO
+2020-11-27 09:10:41 INFO:Take profit em (valor): 200.0
+2020-11-27 09:10:41 INFO:Stop loss em (valor): 200.0
+2020-11-27 09:10:41 INFO:------------ Dados Controle -------------
+2020-11-27 09:10:41 INFO:Horario servidor: N
+2020-11-27 09:10:41 INFO:Verifica ativo fechado: S
+2020-11-27 09:10:41 INFO:Fuso horário: Nenhum
+2020-11-27 09:10:41 INFO:Verifica tendencia: NAO
+2020-11-27 09:10:41 INFO:Historico de velas: NAO
+2020-11-27 09:11:30 INFO:-> Aguardando horário: 27/11/2020 09:11:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 09:12:00 INFO: | ---> Abrindo entradas: Servidor:  09:12:00 / Agendado: 09:12:00/09:11:59 - Tipo: BINARIAS - Payout: 74% 
+2020-11-27 09:12:01 INFO: | ---> Nro. ordem: 7677085499 - Valor: 5.0 <====
+2020-11-27 09:12:01 INFO:  | ---> Aguarde checando nro. ordem: 7677085499 <====
+2020-11-27 09:13:00 INFO:   | ---> Ordem: 7677085499 | WIN | Valor: 5.0 | Ganho: 3.7 | Perda: 0
+2020-11-27 09:13:00 INFO:   | ---> Saldo: 3.7 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:13:01 INFO:-> Aguardando horário: 27/11/2020 09:16:59 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-27 09:16:59 INFO: | ---> Abrindo entradas: Servidor:  09:16:59 / Agendado: 09:17:00/09:16:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:17:00 INFO: | ---> Nro. ordem: 12947886910 - Valor: 5.0 <====
+2020-11-27 09:17:00 INFO:  | ---> Aguarde checando nro. ordem: 12947886910 <====
+2020-11-27 09:18:03 INFO:   | ---> Ordem: 12947886910 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 09:18:03 INFO:   | ---> Saldo: 7.91 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:18:04 INFO:-> Aguardando horário: 27/11/2020 09:20:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 09:20:59 INFO: | ---> Abrindo entradas: Servidor:  09:20:59 / Agendado: 09:21:00/09:20:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 09:21:00 INFO: | ---> Nro. ordem: 12947910425 - Valor: 5.0 <====
+2020-11-27 09:21:00 INFO:  | ---> Aguarde checando nro. ordem: 12947910425 <====
+2020-11-27 09:22:03 INFO:   | ---> Ordem: 12947910425 | WIN | Valor: 5.0 | Ganho: 4.76 | Perda: 0
+2020-11-27 09:22:03 INFO:   | ---> Saldo: 12.66 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:22:04 INFO:-> Aguardando horário: 27/11/2020 09:23:59 ativo: GBPCHF direção: PUT timeframe: 1
+2020-11-27 09:23:59 INFO: | ---> Abrindo entradas: Servidor:  09:23:59 / Agendado: 09:24:00/09:23:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:24:01 INFO: | ---> Nro. ordem: 12947930622 - Valor: 5.0 <====
+2020-11-27 09:24:01 INFO:  | ---> Aguarde checando nro. ordem: 12947930622 <====
+2020-11-27 09:25:05 INFO:   | ---> Ordem: 12947930622 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 09:25:05 INFO:   | ---> Saldo: 7.66 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:25:06 INFO:-> Aguardando horário: 27/11/2020 09:29:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 09:29:59 INFO: | ---> Abrindo entradas: Servidor:  09:29:59 / Agendado: 09:30:00/09:29:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:30:00 INFO: | ---> Nro. ordem: 12947966024 - Valor: 11.5 <====
+2020-11-27 09:30:00 INFO:  | ---> Aguarde checando nro. ordem: 12947966024 <====
+2020-11-27 09:31:02 INFO:   | ---> Ordem: 12947966024 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 09:31:02 INFO:   | ---> Saldo: -3.84 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:31:03 INFO:-> Aguardando horário: 27/11/2020 09:33:59 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-27 09:33:59 INFO: | ---> Abrindo entradas: Servidor:  09:33:59 / Agendado: 09:34:00/09:33:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:34:00 INFO: | ---> Nro. ordem: 12947988430 - Valor: 26.45 <====
+2020-11-27 09:34:00 INFO:  | ---> Aguarde checando nro. ordem: 12947988430 <====
+2020-11-27 09:35:02 INFO:   | ---> Ordem: 12947988430 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 09:35:02 INFO:   | ---> Saldo: -30.29 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:35:03 INFO:-> Aguardando horário: 27/11/2020 09:42:59 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-27 09:42:59 INFO: | ---> Abrindo entradas: Servidor:  09:42:59 / Agendado: 09:43:00/09:42:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 09:43:00 INFO: | ---> Nro. ordem: 12948036952 - Valor: 60.83 <====
+2020-11-27 09:43:00 INFO:  | ---> Aguarde checando nro. ordem: 12948036952 <====
+2020-11-27 09:44:03 INFO:   | ---> Ordem: 12948036952 | WIN | Valor: 60.83 | Ganho: 57.87 | Perda: 0
+2020-11-27 09:44:03 INFO:   | ---> Saldo: 27.58 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:44:04 INFO:-> Aguardando horário: 27/11/2020 09:44:59 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-27 09:44:59 INFO: | ---> Abrindo entradas: Servidor:  09:44:59 / Agendado: 09:45:00/09:44:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:45:00 INFO: | ---> Nro. ordem: 12948048107 - Valor: 5.0 <====
+2020-11-27 09:45:00 INFO:  | ---> Aguarde checando nro. ordem: 12948048107 <====
+2020-11-27 09:46:02 INFO:   | ---> Ordem: 12948048107 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 09:46:02 INFO:   | ---> Saldo: 31.79 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:46:04 INFO:-> Aguardando horário: 27/11/2020 09:46:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 09:46:59 INFO: | ---> Abrindo entradas: Servidor:  09:46:59 / Agendado: 09:47:00/09:46:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:47:00 INFO: | ---> Nro. ordem: 12948061329 - Valor: 5.0 <====
+2020-11-27 09:47:00 INFO:  | ---> Aguarde checando nro. ordem: 12948061329 <====
+2020-11-27 09:48:03 INFO:   | ---> Ordem: 12948061329 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 09:48:03 INFO:   | ---> Saldo: 36.0 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:48:04 INFO:-> Aguardando horário: 27/11/2020 09:53:59 ativo: GBPCHF direção: PUT timeframe: 1
+2020-11-27 09:53:59 INFO: | ---> Abrindo entradas: Servidor:  09:53:59 / Agendado: 09:54:00/09:53:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 09:54:01 INFO: | ---> Nro. ordem: 12948098048 - Valor: 5.0 <====
+2020-11-27 09:54:01 INFO:  | ---> Aguarde checando nro. ordem: 12948098048 <====
+2020-11-27 09:55:05 INFO:   | ---> Ordem: 12948098048 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 09:55:05 INFO:   | ---> Saldo: 40.2 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:55:06 INFO:-> Aguardando horário: 27/11/2020 09:55:59 ativo: GBPAUD direção: CALL timeframe: 1
+2020-11-27 09:55:59 INFO: | ---> Abrindo entradas: Servidor:  09:55:59 / Agendado: 09:56:00/09:55:59 - Tipo: DIGITAIS - Payout: 78% 
+2020-11-27 09:56:01 INFO: | ---> Nro. ordem: 12948110773 - Valor: 5.0 <====
+2020-11-27 09:56:01 INFO:  | ---> Aguarde checando nro. ordem: 12948110773 <====
+2020-11-27 09:57:02 INFO:   | ---> Ordem: 12948110773 | WIN | Valor: 5.0 | Ganho: 3.93 | Perda: 0
+2020-11-27 09:57:02 INFO:   | ---> Saldo: 44.13 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 09:57:03 INFO:-> Aguardando horário: 27/11/2020 10:02:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 10:02:59 INFO: | ---> Abrindo entradas: Servidor:  10:02:59 / Agendado: 10:03:00/10:02:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:03:00 INFO: | ---> Nro. ordem: 12948149085 - Valor: 5.0 <====
+2020-11-27 10:03:00 INFO:  | ---> Aguarde checando nro. ordem: 12948149085 <====
+2020-11-27 10:04:03 INFO:   | ---> Ordem: 12948149085 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 10:04:03 INFO:   | ---> Saldo: 39.13 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:04:03 INFO:-> Aguardando horário: 27/11/2020 10:09:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 10:09:59 INFO: | ---> Abrindo entradas: Servidor:  10:09:59 / Agendado: 10:10:00/10:09:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:10:00 INFO: | ---> Nro. ordem: 12948190688 - Valor: 11.5 <====
+2020-11-27 10:10:00 INFO:  | ---> Aguarde checando nro. ordem: 12948190688 <====
+2020-11-27 10:11:02 INFO:   | ---> Ordem: 12948190688 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 10:11:02 INFO:   | ---> Saldo: 27.63 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:11:04 INFO:-> Aguardando horário: 27/11/2020 10:23:59 ativo: GBPUSD direção: CALL timeframe: 1
+2020-11-27 10:23:59 INFO: | ---> Abrindo entradas: Servidor:  10:23:59 / Agendado: 10:24:00/10:23:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:24:00 INFO: | ---> Nro. ordem: 12948279487 - Valor: 26.45 <====
+2020-11-27 10:24:00 INFO:  | ---> Aguarde checando nro. ordem: 12948279487 <====
+2020-11-27 10:25:03 INFO:   | ---> Ordem: 12948279487 | WIN | Valor: 26.45 | Ganho: 22.26 | Perda: 0
+2020-11-27 10:25:03 INFO:   | ---> Saldo: 49.89 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:25:04 INFO:-> Aguardando horário: 27/11/2020 10:26:59 ativo: GBPUSD direção: PUT timeframe: 1
+2020-11-27 10:26:59 INFO: | ---> Abrindo entradas: Servidor:  10:26:59 / Agendado: 10:27:00/10:26:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:27:00 INFO: | ---> Nro. ordem: 12948297213 - Valor: 5.0 <====
+2020-11-27 10:27:00 INFO:  | ---> Aguarde checando nro. ordem: 12948297213 <====
+2020-11-27 10:28:03 INFO:   | ---> Ordem: 12948297213 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 10:28:03 INFO:   | ---> Saldo: 44.89 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:28:05 INFO:-> Aguardando horário: 27/11/2020 10:28:59 ativo: EURJPY direção: CALL timeframe: 1
+2020-11-27 10:28:59 INFO: | ---> Abrindo entradas: Servidor:  10:28:59 / Agendado: 10:29:00/10:28:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:29:00 INFO: | ---> Nro. ordem: 12948309123 - Valor: 11.5 <====
+2020-11-27 10:29:00 INFO:  | ---> Aguarde checando nro. ordem: 12948309123 <====
+2020-11-27 10:30:04 INFO:   | ---> Ordem: 12948309123 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 10:30:04 INFO:   | ---> Saldo: 33.39 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:30:05 INFO:-> Aguardando horário: 27/11/2020 10:33:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 10:33:59 INFO: | ---> Abrindo entradas: Servidor:  10:33:59 / Agendado: 10:34:00/10:33:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:34:00 INFO: | ---> Nro. ordem: 12948340180 - Valor: 26.45 <====
+2020-11-27 10:34:00 INFO:  | ---> Aguarde checando nro. ordem: 12948340180 <====
+2020-11-27 10:35:02 INFO:   | ---> Ordem: 12948340180 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 10:35:02 INFO:   | ---> Saldo: 6.94 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:35:03 INFO:-> Aguardando horário: 27/11/2020 10:35:59 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-27 10:35:59 INFO: | ---> Abrindo entradas: Servidor:  10:35:59 / Agendado: 10:36:00/10:35:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:36:00 INFO: | ---> Nro. ordem: 12948351830 - Valor: 60.83 <====
+2020-11-27 10:36:00 INFO:  | ---> Aguarde checando nro. ordem: 12948351830 <====
+2020-11-27 10:37:02 INFO:   | ---> Ordem: 12948351830 | WIN | Valor: 60.83 | Ganho: 51.19 | Perda: 0
+2020-11-27 10:37:02 INFO:   | ---> Saldo: 58.14 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:37:03 INFO:-> Aguardando horário: 27/11/2020 10:37:59 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-27 10:37:59 INFO: | ---> Abrindo entradas: Servidor:  10:37:59 / Agendado: 10:38:00/10:37:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:38:00 INFO: | ---> Nro. ordem: 12948363312 - Valor: 5.0 <====
+2020-11-27 10:38:00 INFO:  | ---> Aguarde checando nro. ordem: 12948363312 <====
+2020-11-27 10:39:02 INFO:   | ---> Ordem: 12948363312 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 10:39:02 INFO:   | ---> Saldo: 53.14 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:39:03 INFO:-> Aguardando horário: 27/11/2020 10:44:59 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-27 10:44:59 INFO: | ---> Abrindo entradas: Servidor:  10:44:59 / Agendado: 10:45:00/10:44:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:45:00 INFO: | ---> Nro. ordem: 12948408839 - Valor: 11.5 <====
+2020-11-27 10:45:00 INFO:  | ---> Aguarde checando nro. ordem: 12948408839 <====
+2020-11-27 10:46:02 INFO:   | ---> Ordem: 12948408839 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 10:46:02 INFO:   | ---> Saldo: 41.64 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:46:02 INFO:-> Aguardando horário: 27/11/2020 10:46:59 ativo: GBPUSD direção: PUT timeframe: 1
+2020-11-27 10:46:59 INFO: | ---> Abrindo entradas: Servidor:  10:46:59 / Agendado: 10:47:00/10:46:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:47:00 INFO: | ---> Nro. ordem: 12948421289 - Valor: 26.45 <====
+2020-11-27 10:47:00 INFO:  | ---> Aguarde checando nro. ordem: 12948421289 <====
+2020-11-27 10:48:02 INFO:   | ---> Ordem: 12948421289 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 10:48:02 INFO:   | ---> Saldo: 15.19 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:48:03 INFO:-> Aguardando horário: 27/11/2020 10:51:59 ativo: GBPJPY direção: CALL timeframe: 1
+2020-11-27 10:51:59 INFO: | ---> Abrindo entradas: Servidor:  10:51:59 / Agendado: 10:52:00/10:51:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:52:00 INFO: | ---> Nro. ordem: 12948451660 - Valor: 60.83 <====
+2020-11-27 10:52:00 INFO:  | ---> Aguarde checando nro. ordem: 12948451660 <====
+2020-11-27 10:53:02 INFO:   | ---> Ordem: 12948451660 | WIN | Valor: 60.83 | Ganho: 51.2 | Perda: 0
+2020-11-27 10:53:02 INFO:   | ---> Saldo: 66.39 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:53:03 INFO:-> Aguardando horário: 27/11/2020 10:53:59 ativo: GBPCHF direção: PUT timeframe: 1
+2020-11-27 10:53:59 INFO: | ---> Abrindo entradas: Servidor:  10:53:59 / Agendado: 10:54:00/10:53:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 10:54:01 INFO: | ---> Nro. ordem: 12948460831 - Valor: 5.0 <====
+2020-11-27 10:54:01 INFO:  | ---> Aguarde checando nro. ordem: 12948460831 <====
+2020-11-27 10:55:02 INFO:   | ---> Ordem: 12948460831 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 10:55:02 INFO:   | ---> Saldo: 61.39 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 10:55:03 INFO:-> Aguardando horário: 27/11/2020 10:59:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 10:59:59 INFO: | ---> Abrindo entradas: Servidor:  10:59:59 / Agendado: 11:00:00/10:59:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:00:00 INFO: | ---> Nro. ordem: 12948503693 - Valor: 11.5 <====
+2020-11-27 11:00:00 INFO:  | ---> Aguarde checando nro. ordem: 12948503693 <====
+2020-11-27 11:01:03 INFO:   | ---> Ordem: 12948503693 | WIN | Valor: 11.5 | Ganho: 9.68 | Perda: 0
+2020-11-27 11:01:03 INFO:   | ---> Saldo: 71.06 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:01:03 INFO:-> Aguardando horário: 27/11/2020 11:05:59 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-27 11:05:59 INFO: | ---> Abrindo entradas: Servidor:  11:05:59 / Agendado: 11:06:00/11:05:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:06:00 INFO: | ---> Nro. ordem: 12948541679 - Valor: 5.0 <====
+2020-11-27 11:06:00 INFO:  | ---> Aguarde checando nro. ordem: 12948541679 <====
+2020-11-27 11:07:03 INFO:   | ---> Ordem: 12948541679 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 11:07:03 INFO:   | ---> Saldo: 75.27 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:07:03 INFO:-> Aguardando horário: 27/11/2020 11:17:59 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-27 11:17:59 INFO: | ---> Abrindo entradas: Servidor:  11:17:59 / Agendado: 11:18:00/11:17:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:18:00 INFO: | ---> Nro. ordem: 12948612729 - Valor: 5.0 <====
+2020-11-27 11:18:00 INFO:  | ---> Aguarde checando nro. ordem: 12948612729 <====
+2020-11-27 11:19:02 INFO:   | ---> Ordem: 12948612729 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 11:19:02 INFO:   | ---> Saldo: 70.27 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:19:03 INFO:-> Aguardando horário: 27/11/2020 11:21:59 ativo: GBPJPY direção: CALL timeframe: 1
+2020-11-27 11:21:59 INFO: | ---> Abrindo entradas: Servidor:  11:21:59 / Agendado: 11:22:00/11:21:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:22:00 INFO: | ---> Nro. ordem: 12948634870 - Valor: 11.5 <====
+2020-11-27 11:22:00 INFO:  | ---> Aguarde checando nro. ordem: 12948634870 <====
+2020-11-27 11:23:02 INFO:   | ---> Ordem: 12948634870 | WIN | Valor: 11.5 | Ganho: 9.68 | Perda: 0
+2020-11-27 11:23:02 INFO:   | ---> Saldo: 79.95 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:23:03 INFO:-> Aguardando horário: 27/11/2020 11:23:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 11:23:59 INFO: | ---> Abrindo entradas: Servidor:  11:23:59 / Agendado: 11:24:00/11:23:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 11:24:00 INFO: | ---> Nro. ordem: 12948645498 - Valor: 5.0 <====
+2020-11-27 11:24:00 INFO:  | ---> Aguarde checando nro. ordem: 12948645498 <====
+2020-11-27 11:25:04 INFO:   | ---> Ordem: 12948645498 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 11:25:04 INFO:   | ---> Saldo: 74.95 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:25:04 INFO:-> Aguardando horário: 27/11/2020 11:28:59 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-27 11:28:59 INFO: | ---> Abrindo entradas: Servidor:  11:28:59 / Agendado: 11:29:00/11:28:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:29:00 INFO: | ---> Nro. ordem: 12948672087 - Valor: 11.5 <====
+2020-11-27 11:29:00 INFO:  | ---> Aguarde checando nro. ordem: 12948672087 <====
+2020-11-27 11:30:07 INFO:   | ---> Ordem: 12948672087 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 11:30:07 INFO:   | ---> Saldo: 63.45 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:30:07 INFO:-> Aguardando horário: 27/11/2020 11:34:59 ativo: GBPCHF direção: PUT timeframe: 1
+2020-11-27 11:34:59 INFO: | ---> Abrindo entradas: Servidor:  11:34:59 / Agendado: 11:35:00/11:34:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:35:01 INFO: | ---> Nro. ordem: 12948719876 - Valor: 26.45 <====
+2020-11-27 11:35:01 INFO:  | ---> Aguarde checando nro. ordem: 12948719876 <====
+2020-11-27 11:36:02 INFO:   | ---> Ordem: 12948719876 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 11:36:02 INFO:   | ---> Saldo: 37.0 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:36:03 INFO:-> Aguardando horário: 27/11/2020 11:38:59 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-27 11:38:59 INFO: | ---> Abrindo entradas: Servidor:  11:38:59 / Agendado: 11:39:00/11:38:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:39:00 INFO: | ---> Nro. ordem: 12948747288 - Valor: 60.83 <====
+2020-11-27 11:39:00 INFO:  | ---> Aguarde checando nro. ordem: 12948747288 <====
+2020-11-27 11:40:02 INFO:   | ---> Ordem: 12948747288 | LOSS | Valor: 60.83 | Ganho: 0 | Perda: -60.83
+2020-11-27 11:40:02 INFO:   | ---> Saldo: -23.83 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:40:03 INFO:-> Aguardando horário: 27/11/2020 11:56:59 ativo: GBPJPY direção: CALL timeframe: 1
+2020-11-27 11:56:59 INFO: | ---> Abrindo entradas: Servidor:  11:56:59 / Agendado: 11:57:00/11:56:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 11:57:00 INFO: | ---> Nro. ordem: 12948864739 - Valor: 139.92 <====
+2020-11-27 11:57:00 INFO:  | ---> Aguarde checando nro. ordem: 12948864739 <====
+2020-11-27 11:58:03 INFO:   | ---> Ordem: 12948864739 | WIN | Valor: 139.92 | Ganho: 117.77 | Perda: 0
+2020-11-27 11:58:03 INFO:   | ---> Saldo: 93.94 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 11:58:03 INFO:-> Aguardando horário: 27/11/2020 12:04:59 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-27 12:04:59 INFO: | ---> Abrindo entradas: Servidor:  12:04:59 / Agendado: 12:05:00/12:04:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 12:05:00 INFO: | ---> Nro. ordem: 12948916959 - Valor: 5.0 <====
+2020-11-27 12:05:00 INFO:  | ---> Aguarde checando nro. ordem: 12948916959 <====
+2020-11-27 12:06:02 INFO:   | ---> Ordem: 12948916959 | WIN | Valor: 5.0 | Ganho: 4.76 | Perda: 0
+2020-11-27 12:06:02 INFO:   | ---> Saldo: 98.7 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:06:03 INFO:-> Aguardando horário: 27/11/2020 12:06:59 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-27 12:06:59 INFO: | ---> Abrindo entradas: Servidor:  12:06:59 / Agendado: 12:07:00/12:06:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 12:07:00 INFO: | ---> Nro. ordem: 12948931516 - Valor: 5.0 <====
+2020-11-27 12:07:00 INFO:  | ---> Aguarde checando nro. ordem: 12948931516 <====
+2020-11-27 12:08:02 INFO:   | ---> Ordem: 12948931516 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 12:08:02 INFO:   | ---> Saldo: 102.91 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:08:04 INFO:-> Aguardando horário: 27/11/2020 12:11:59 ativo: EURCAD direção: PUT timeframe: 1
+2020-11-27 12:11:59 INFO: | ---> Abrindo entradas: Servidor:  12:11:59 / Agendado: 12:12:00/12:11:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 12:12:01 INFO: | ---> Nro. ordem: 12948963324 - Valor: 5.0 <====
+2020-11-27 12:12:01 INFO:  | ---> Aguarde checando nro. ordem: 12948963324 <====
+2020-11-27 12:13:02 INFO:   | ---> Ordem: 12948963324 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 12:13:02 INFO:   | ---> Saldo: 97.91 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:13:03 INFO:-> Aguardando horário: 27/11/2020 12:18:59 ativo: GBPAUD direção: PUT timeframe: 1
+2020-11-27 12:18:59 INFO: | ---> Abrindo entradas: Servidor:  12:18:59 / Agendado: 12:19:00/12:18:59 - Tipo: DIGITAIS - Payout: 78% 
+2020-11-27 12:19:01 INFO: | ---> Nro. ordem: 12949004011 - Valor: 11.5 <====
+2020-11-27 12:19:01 INFO:  | ---> Aguarde checando nro. ordem: 12949004011 <====
+2020-11-27 12:20:03 INFO:   | ---> Ordem: 12949004011 | WIN | Valor: 11.5 | Ganho: 9.03 | Perda: 0
+2020-11-27 12:20:03 INFO:   | ---> Saldo: 106.94 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:20:03 INFO:-> Aguardando horário: 27/11/2020 12:22:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 12:22:59 INFO: | ---> Abrindo entradas: Servidor:  12:22:59 / Agendado: 12:23:00/12:22:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 12:23:00 INFO: | ---> Nro. ordem: 12949027929 - Valor: 5.0 <====
+2020-11-27 12:23:00 INFO:  | ---> Aguarde checando nro. ordem: 12949027929 <====
+2020-11-27 12:24:02 INFO:   | ---> Ordem: 12949027929 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 12:24:02 INFO:   | ---> Saldo: 111.15 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:24:04 INFO:-> Aguardando horário: 27/11/2020 12:32:59 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-27 12:32:59 INFO: | ---> Abrindo entradas: Servidor:  12:32:59 / Agendado: 12:33:00/12:32:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 12:33:00 INFO: | ---> Nro. ordem: 12949091091 - Valor: 5.0 <====
+2020-11-27 12:33:00 INFO:  | ---> Aguarde checando nro. ordem: 12949091091 <====
+2020-11-27 12:34:02 INFO:   | ---> Ordem: 12949091091 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 12:34:02 INFO:   | ---> Saldo: 106.15 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:34:02 INFO:-> Aguardando horário: 27/11/2020 12:47:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 12:47:59 INFO: | ---> Abrindo entradas: Servidor:  12:47:59 / Agendado: 12:48:00/12:47:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 12:48:00 INFO: | ---> Nro. ordem: 12949179534 - Valor: 11.5 <====
+2020-11-27 12:48:00 INFO:  | ---> Aguarde checando nro. ordem: 12949179534 <====
+2020-11-27 12:49:03 INFO:   | ---> Ordem: 12949179534 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 12:49:03 INFO:   | ---> Saldo: 94.65 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:49:03 INFO:-> Aguardando horário: 27/11/2020 12:50:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 12:50:59 INFO: | ---> Abrindo entradas: Servidor:  12:50:59 / Agendado: 12:51:00/12:50:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 12:51:00 INFO: | ---> Nro. ordem: 12949196615 - Valor: 26.45 <====
+2020-11-27 12:51:00 INFO:  | ---> Aguarde checando nro. ordem: 12949196615 <====
+2020-11-27 12:52:03 INFO:   | ---> Ordem: 12949196615 | WIN | Valor: 26.45 | Ganho: 22.26 | Perda: 0
+2020-11-27 12:52:03 INFO:   | ---> Saldo: 116.91 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:52:03 INFO:-> Aguardando horário: 27/11/2020 12:56:59 ativo: EURCAD direção: PUT timeframe: 1
+2020-11-27 12:56:59 INFO: | ---> Abrindo entradas: Servidor:  12:56:59 / Agendado: 12:57:00/12:56:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 12:57:01 INFO: | ---> Nro. ordem: 12949237877 - Valor: 5.0 <====
+2020-11-27 12:57:01 INFO:  | ---> Aguarde checando nro. ordem: 12949237877 <====
+2020-11-27 12:58:02 INFO:   | ---> Ordem: 12949237877 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 12:58:02 INFO:   | ---> Saldo: 121.11 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 12:58:03 INFO:-> Aguardando horário: 27/11/2020 13:00:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 13:00:59 INFO: | ---> Abrindo entradas: Servidor:  13:00:59 / Agendado: 13:01:00/13:00:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:01:00 INFO: | ---> Nro. ordem: 12949271735 - Valor: 5.0 <====
+2020-11-27 13:01:00 INFO:  | ---> Aguarde checando nro. ordem: 12949271735 <====
+2020-11-27 13:02:03 INFO:   | ---> Ordem: 12949271735 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 13:02:03 INFO:   | ---> Saldo: 116.11 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:02:03 INFO:-> Aguardando horário: 27/11/2020 13:07:59 ativo: EURJPY direção: CALL timeframe: 1
+2020-11-27 13:07:59 INFO: | ---> Abrindo entradas: Servidor:  13:07:59 / Agendado: 13:08:00/13:07:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:08:00 INFO: | ---> Nro. ordem: 12949310705 - Valor: 11.5 <====
+2020-11-27 13:08:00 INFO:  | ---> Aguarde checando nro. ordem: 12949310705 <====
+2020-11-27 13:09:02 INFO:   | ---> Ordem: 12949310705 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 13:09:02 INFO:   | ---> Saldo: 104.61 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:09:03 INFO:-> Aguardando horário: 27/11/2020 13:14:59 ativo: AUDUSD direção: CALL timeframe: 1
+2020-11-27 13:14:59 INFO: | ---> Abrindo entradas: Servidor:  13:14:59 / Agendado: 13:15:00/13:14:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:15:00 INFO: | ---> Nro. ordem: 12949348802 - Valor: 26.45 <====
+2020-11-27 13:15:00 INFO:  | ---> Aguarde checando nro. ordem: 12949348802 <====
+2020-11-27 13:16:03 INFO:   | ---> Ordem: 12949348802 | WIN | Valor: 26.45 | Ganho: 22.26 | Perda: 0
+2020-11-27 13:16:03 INFO:   | ---> Saldo: 126.88 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:16:04 INFO:-> Aguardando horário: 27/11/2020 13:16:59 ativo: AUDUSD direção: CALL timeframe: 1
+2020-11-27 13:16:59 INFO: | ---> Abrindo entradas: Servidor:  13:16:59 / Agendado: 13:17:00/13:16:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:17:00 INFO: | ---> Nro. ordem: 12949362070 - Valor: 5.0 <====
+2020-11-27 13:17:00 INFO:  | ---> Aguarde checando nro. ordem: 12949362070 <====
+2020-11-27 13:18:03 INFO:   | ---> Ordem: 12949362070 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 13:18:03 INFO:   | ---> Saldo: 131.09 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:18:04 INFO:-> Aguardando horário: 27/11/2020 13:20:59 ativo: GBPUSD direção: PUT timeframe: 1
+2020-11-27 13:20:59 INFO: | ---> Abrindo entradas: Servidor:  13:20:59 / Agendado: 13:21:00/13:20:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:21:00 INFO: | ---> Nro. ordem: 12949385034 - Valor: 5.0 <====
+2020-11-27 13:21:00 INFO:  | ---> Aguarde checando nro. ordem: 12949385034 <====
+2020-11-27 13:22:02 INFO:   | ---> Ordem: 12949385034 | WIN | Valor: 5.0 | Ganho: 4.21 | Perda: 0
+2020-11-27 13:22:02 INFO:   | ---> Saldo: 135.29 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:22:03 INFO:-> Aguardando horário: 27/11/2020 13:28:59 ativo: GBPJPY direção: CALL timeframe: 1
+2020-11-27 13:28:59 INFO: | ---> Abrindo entradas: Servidor:  13:28:59 / Agendado: 13:29:00/13:28:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:29:00 INFO: | ---> Nro. ordem: 12949429118 - Valor: 5.0 <====
+2020-11-27 13:29:00 INFO:  | ---> Aguarde checando nro. ordem: 12949429118 <====
+2020-11-27 13:30:06 INFO:   | ---> Ordem: 12949429118 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 13:30:06 INFO:   | ---> Saldo: 130.29 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:30:06 INFO:-> Aguardando horário: 27/11/2020 13:30:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 13:30:59 INFO: | ---> Abrindo entradas: Servidor:  13:30:59 / Agendado: 13:31:00/13:30:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 13:31:00 INFO: | ---> Nro. ordem: 12949443355 - Valor: 11.5 <====
+2020-11-27 13:31:00 INFO:  | ---> Aguarde checando nro. ordem: 12949443355 <====
+2020-11-27 13:32:02 INFO:   | ---> Ordem: 12949443355 | WIN | Valor: 11.5 | Ganho: 10.94 | Perda: 0
+2020-11-27 13:32:02 INFO:   | ---> Saldo: 141.23 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:32:03 INFO:-> Aguardando horário: 27/11/2020 13:32:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 13:32:59 INFO: | ---> Abrindo entradas: Servidor:  13:32:59 / Agendado: 13:33:00/13:32:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 13:33:00 INFO: | ---> Nro. ordem: 12949452616 - Valor: 5.0 <====
+2020-11-27 13:33:00 INFO:  | ---> Aguarde checando nro. ordem: 12949452616 <====
+2020-11-27 13:34:03 INFO:   | ---> Ordem: 12949452616 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 13:34:03 INFO:   | ---> Saldo: 136.23 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:34:04 INFO:-> Aguardando horário: 27/11/2020 13:36:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 13:36:59 INFO: | ---> Abrindo entradas: Servidor:  13:36:59 / Agendado: 13:37:00/13:36:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 13:37:00 INFO: | ---> Nro. ordem: 12949480332 - Valor: 11.5 <====
+2020-11-27 13:37:00 INFO:  | ---> Aguarde checando nro. ordem: 12949480332 <====
+2020-11-27 13:38:02 INFO:   | ---> Ordem: 12949480332 | WIN | Valor: 11.5 | Ganho: 10.94 | Perda: 0
+2020-11-27 13:38:02 INFO:   | ---> Saldo: 147.17 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:38:03 INFO:-> Aguardando horário: 27/11/2020 13:38:59 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-27 13:38:59 INFO: | ---> Abrindo entradas: Servidor:  13:38:59 / Agendado: 13:39:00/13:38:59 - Tipo: DIGITAIS - Payout: 84% 
+2020-11-27 13:39:00 INFO: | ---> Nro. ordem: 12949491632 - Valor: 5.0 <====
+2020-11-27 13:39:00 INFO:  | ---> Aguarde checando nro. ordem: 12949491632 <====
+2020-11-27 13:40:04 INFO:   | ---> Ordem: 12949491632 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 13:40:04 INFO:   | ---> Saldo: 142.17 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:40:04 INFO:-> Aguardando horário: 27/11/2020 13:48:59 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-27 13:48:59 INFO: | ---> Abrindo entradas: Servidor:  13:48:59 / Agendado: 13:49:00/13:48:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 13:49:00 INFO: | ---> Nro. ordem: 12949550829 - Valor: 11.5 <====
+2020-11-27 13:49:00 INFO:  | ---> Aguarde checando nro. ordem: 12949550829 <====
+2020-11-27 13:50:02 INFO:   | ---> Ordem: 12949550829 | WIN | Valor: 11.5 | Ganho: 10.01 | Perda: 0
+2020-11-27 13:50:02 INFO:   | ---> Saldo: 152.18 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:50:03 INFO:-> Aguardando horário: 27/11/2020 13:53:59 ativo: EURGBP direção: CALL timeframe: 1
+2020-11-27 13:53:59 INFO: | ---> Abrindo entradas: Servidor:  13:53:59 / Agendado: 13:54:00/13:53:59 - Tipo: BINARIAS - Payout: 75% 
+2020-11-27 13:53:59 INFO: | ---> Nro. ordem: 7678088305 - Valor: 5.0 <====
+2020-11-27 13:53:59 INFO:  | ---> Aguarde checando nro. ordem: 7678088305 <====
+2020-11-27 13:55:00 INFO:   | ---> Ordem: 7678088305 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 13:55:00 INFO:   | ---> Saldo: 147.18 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 13:55:02 INFO:-> Aguardando horário: 27/11/2020 13:58:59 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-27 13:58:59 INFO: | ---> Abrindo entradas: Servidor:  13:58:59 / Agendado: 13:59:00/13:58:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 13:59:00 INFO: | ---> Nro. ordem: 12949604121 - Valor: 11.5 <====
+2020-11-27 13:59:00 INFO:  | ---> Aguarde checando nro. ordem: 12949604121 <====
+2020-11-27 14:00:03 INFO:   | ---> Ordem: 12949604121 | WIN | Valor: 11.5 | Ganho: 10.01 | Perda: 0
+2020-11-27 14:00:03 INFO:   | ---> Saldo: 157.2 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:00:04 INFO:-> Aguardando horário: 27/11/2020 14:07:59 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-27 14:07:59 INFO: | ---> Abrindo entradas: Servidor:  14:07:59 / Agendado: 14:08:00/14:07:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 14:08:00 INFO: | ---> Nro. ordem: 12949650096 - Valor: 5.0 <====
+2020-11-27 14:08:00 INFO:  | ---> Aguarde checando nro. ordem: 12949650096 <====
+2020-11-27 14:09:03 INFO:   | ---> Ordem: 12949650096 | WIN | Valor: 5.0 | Ganho: 4.76 | Perda: 0
+2020-11-27 14:09:03 INFO:   | ---> Saldo: 161.95 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:09:03 INFO:-> Aguardando horário: 27/11/2020 14:09:59 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-27 14:09:59 INFO: | ---> Abrindo entradas: Servidor:  14:09:59 / Agendado: 14:10:00/14:09:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 14:10:00 INFO: | ---> Nro. ordem: 12949657946 - Valor: 5.0 <====
+2020-11-27 14:10:00 INFO:  | ---> Aguarde checando nro. ordem: 12949657946 <====
+2020-11-27 14:11:03 INFO:   | ---> Ordem: 12949657946 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 14:11:03 INFO:   | ---> Saldo: 156.95 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:11:04 INFO:-> Aguardando horário: 27/11/2020 14:11:59 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-27 14:11:59 INFO: | ---> Abrindo entradas: Servidor:  14:11:59 / Agendado: 14:12:00/14:11:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 14:12:00 INFO: | ---> Nro. ordem: 12949667694 - Valor: 11.5 <====
+2020-11-27 14:12:00 INFO:  | ---> Aguarde checando nro. ordem: 12949667694 <====
+2020-11-27 14:13:02 INFO:   | ---> Ordem: 12949667694 | WIN | Valor: 11.5 | Ganho: 10.02 | Perda: 0
+2020-11-27 14:13:02 INFO:   | ---> Saldo: 166.97 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:13:03 INFO:-> Aguardando horário: 27/11/2020 14:14:59 ativo: EURCAD direção: CALL timeframe: 1
+2020-11-27 14:14:59 INFO: | ---> Abrindo entradas: Servidor:  14:14:59 / Agendado: 14:15:00/14:14:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 14:15:01 INFO: | ---> Nro. ordem: 12949684193 - Valor: 5.0 <====
+2020-11-27 14:15:01 INFO:  | ---> Aguarde checando nro. ordem: 12949684193 <====
+2020-11-27 14:16:02 INFO:   | ---> Ordem: 12949684193 | WIN | Valor: 5.0 | Ganho: 4.35 | Perda: 0
+2020-11-27 14:16:02 INFO:   | ---> Saldo: 171.32 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:16:03 INFO:-> Aguardando horário: 27/11/2020 14:17:59 ativo: EURGBP direção: PUT timeframe: 1
+2020-11-27 14:17:59 INFO: | ---> Abrindo entradas: Servidor:  14:17:59 / Agendado: 14:18:00/14:17:59 - Tipo: BINARIAS - Payout: 75% 
+2020-11-27 14:18:00 INFO: | ---> Nro. ordem: 7678152817 - Valor: 5.0 <====
+2020-11-27 14:18:00 INFO:  | ---> Aguarde checando nro. ordem: 7678152817 <====
+2020-11-27 14:19:00 INFO:   | ---> Ordem: 7678152817 | EQUAL | Valor: 5.0 | Ganho: 0 | Perda: 0
+2020-11-27 14:19:00 INFO:   | ---> Saldo: 171.32 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:19:02 INFO:-> Aguardando horário: 27/11/2020 14:22:59 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-27 14:22:59 INFO: | ---> Abrindo entradas: Servidor:  14:22:59 / Agendado: 14:23:00/14:22:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 14:23:00 INFO: | ---> Nro. ordem: 12949725114 - Valor: 5.0 <====
+2020-11-27 14:23:00 INFO:  | ---> Aguarde checando nro. ordem: 12949725114 <====
+2020-11-27 14:24:02 INFO:   | ---> Ordem: 12949725114 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 14:24:02 INFO:   | ---> Saldo: 166.32 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:24:03 INFO:-> Aguardando horário: 27/11/2020 14:29:59 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-27 14:29:59 INFO: | ---> Abrindo entradas: Servidor:  14:29:59 / Agendado: 14:30:00/14:29:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 14:30:00 INFO: | ---> Nro. ordem: 12949762594 - Valor: 11.5 <====
+2020-11-27 14:30:00 INFO:  | ---> Aguarde checando nro. ordem: 12949762594 <====
+2020-11-27 14:31:02 INFO:   | ---> Ordem: 12949762594 | WIN | Valor: 11.5 | Ganho: 10.02 | Perda: 0
+2020-11-27 14:31:02 INFO:   | ---> Saldo: 176.34 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:31:03 INFO:-> Aguardando horário: 27/11/2020 14:47:59 ativo: EURJPY direção: CALL timeframe: 1
+2020-11-27 14:47:59 INFO: | ---> Abrindo entradas: Servidor:  14:47:59 / Agendado: 14:48:00/14:47:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 14:48:00 INFO: | ---> Nro. ordem: 12949864895 - Valor: 5.0 <====
+2020-11-27 14:48:00 INFO:  | ---> Aguarde checando nro. ordem: 12949864895 <====
+2020-11-27 14:49:02 INFO:   | ---> Ordem: 12949864895 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-27 14:49:02 INFO:   | ---> Saldo: 171.34 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:49:03 INFO:-> Aguardando horário: 27/11/2020 14:54:59 ativo: GBPUSD direção: PUT timeframe: 1
+2020-11-27 14:54:59 INFO: | ---> Abrindo entradas: Servidor:  14:54:59 / Agendado: 14:55:00/14:54:59 - Tipo: BINARIAS - Payout: 75% 
+2020-11-27 14:54:59 INFO: | ---> Nro. ordem: 7678248938 - Valor: 11.5 <====
+2020-11-27 14:54:59 INFO:  | ---> Aguarde checando nro. ordem: 7678248938 <====
+2020-11-27 14:56:00 INFO:   | ---> Ordem: 7678248938 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-11-27 14:56:00 INFO:   | ---> Saldo: 159.84 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 14:56:01 INFO:-> Aguardando horário: 27/11/2020 15:03:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 15:03:59 INFO: | ---> Abrindo entradas: Servidor:  15:03:59 / Agendado: 15:04:00/15:03:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 15:04:00 INFO: | ---> Nro. ordem: 12949942019 - Valor: 26.45 <====
+2020-11-27 15:04:00 INFO:  | ---> Aguarde checando nro. ordem: 12949942019 <====
+2020-11-27 15:05:04 INFO:   | ---> Ordem: 12949942019 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-11-27 15:05:04 INFO:   | ---> Saldo: 133.39 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 15:05:04 INFO:-> Aguardando horário: 27/11/2020 15:08:59 ativo: USDCAD direção: PUT timeframe: 1
+2020-11-27 15:08:59 INFO: | ---> Abrindo entradas: Servidor:  15:08:59 / Agendado: 15:09:00/15:08:59 - Tipo: DIGITAIS - Payout: 87% 
+2020-11-27 15:09:00 INFO: | ---> Nro. ordem: 12949963868 - Valor: 60.83 <====
+2020-11-27 15:09:00 INFO:  | ---> Aguarde checando nro. ordem: 12949963868 <====
+2020-11-27 15:10:03 INFO:   | ---> Ordem: 12949963868 | LOSS | Valor: 60.83 | Ganho: 0 | Perda: -60.83
+2020-11-27 15:10:03 INFO:   | ---> Saldo: 72.56 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 15:10:03 INFO:-> Aguardando horário: 27/11/2020 15:19:59 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-27 15:19:59 INFO: | ---> Abrindo entradas: Servidor:  15:19:59 / Agendado: 15:20:00/15:19:59 - Tipo: DIGITAIS - Payout: 95% 
+2020-11-27 15:20:00 INFO: | ---> Nro. ordem: 12950013106 - Valor: 139.92 <====
+2020-11-27 15:20:00 INFO:  | ---> Aguarde checando nro. ordem: 12950013106 <====
+2020-11-27 15:21:02 INFO:   | ---> Ordem: 12950013106 | WIN | Valor: 139.92 | Ganho: 133.09 | Perda: 0
+2020-11-27 15:21:02 INFO:   | ---> Saldo: 205.65 | TakeProfit: 200.0 | StopLoss: 200.0
+2020-11-27 15:21:02 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-11-27 15:21:02 INFO:--> Finalizando a execução dos trade dessa sessão. <--

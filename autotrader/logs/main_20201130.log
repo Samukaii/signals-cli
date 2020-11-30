@@ -1,0 +1,465 @@
+2020-11-30 00:36:48 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-30 00:36:48 INFO:Conectando na IQ-Option...
+2020-11-30 00:36:51 INFO:CONECTADO
+2020-11-30 00:36:52 INFO:Versao: 5.3.2.1
+2020-11-30 00:36:52 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-30 00:36:52 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-30 00:36:52 INFO:Id-Iq: 7182789
+2020-11-30 00:36:52 INFO:Moeda: USD
+2020-11-30 00:36:52 INFO:Saldo: 981.61
+2020-11-30 00:36:52 INFO:Tipo conta: Treinamento
+2020-11-30 00:36:52 INFO:------------ Dados Trade -------------
+2020-11-30 00:36:52 INFO:Tipo opção: BINARIAS
+2020-11-30 00:36:52 INFO:Tipo calculo: Valor
+2020-11-30 00:36:52 INFO:Valor do trade: 5.0
+2020-11-30 00:36:52 INFO:Expiração: 5-(M5)
+2020-11-30 00:36:52 INFO:Delay em (segundos): 2
+2020-11-30 00:36:52 INFO:% Payout: 65.0
+2020-11-30 00:36:52 INFO:Trabalhar em OTC: NÃO
+2020-11-30 00:36:52 INFO:------------ Dados Martingale -------------
+2020-11-30 00:36:52 INFO:Max. martingale: 10.0
+2020-11-30 00:36:52 INFO:Fator martingale: 2.4
+2020-11-30 00:36:52 INFO:Proxima Vela/Sinal: NAO
+2020-11-30 00:36:52 INFO:------------ Dados Gerenciamento -------------
+2020-11-30 00:36:52 INFO:Tipo calculo: Valor
+2020-11-30 00:36:52 INFO:Stoploss Movel: NAO
+2020-11-30 00:36:52 INFO:Take profit em (valor): 200.0
+2020-11-30 00:36:52 INFO:Stop loss em (valor): 0.0
+2020-11-30 00:36:52 INFO:------------ Dados Controle -------------
+2020-11-30 00:36:52 INFO:Horario servidor: N
+2020-11-30 00:36:52 INFO:Verifica ativo fechado: S
+2020-11-30 00:36:52 INFO:Fuso horário: Nenhum
+2020-11-30 00:36:52 INFO:Verifica tendencia: NAO
+2020-11-30 00:36:52 INFO:Historico de velas: NAO
+2020-11-30 00:36:53 INFO:-> Aguardando horário: 30/11/2020 01:09:58 ativo: EURJPY direção: CALL timeframe: 5
+2020-11-30 01:09:58 INFO: | ---> Abrindo entradas: Servidor:  01:09:58 / Agendado: 01:10:00/01:09:58 - Tipo: BINARIAS - Payout: 67% 
+2020-11-30 01:09:59 INFO: | ---> Nro. ordem: 7684765696 - Valor: 5.0 <====
+2020-11-30 01:09:59 INFO:  | ---> Aguarde checando nro. ordem: 7684765696 <====
+2020-11-30 01:15:00 INFO:   | ---> Ordem: 7684765696 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-11-30 01:15:00 INFO:   | ---> Saldo: -5.0 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 01:15:01 INFO:-> Aguardando horário: 30/11/2020 01:54:58 ativo: GBPJPY direção: PUT timeframe: 5
+2020-11-30 01:54:11 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 01:54:58 ativo: GBPJPY direção: PUT Expiração: (M5)
+2020-11-30 01:54:12 INFO:-> Aguardando horário: 30/11/2020 01:54:58 ativo: GBPJPY direção: PUT timeframe: 5
+2020-11-30 01:54:16 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 01:54:58 ativo: GBPJPY direção: PUT Expiração: (M5)
+2020-11-30 01:54:17 INFO:-> Aguardando horário: 30/11/2020 02:04:58 ativo: EURUSD direção: PUT timeframe: 5
+2020-11-30 02:11:54 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-11-30 02:11:54 INFO:Conectando na IQ-Option...
+2020-11-30 02:11:57 INFO:CONECTADO
+2020-11-30 02:11:58 INFO:Versao: 5.3.2.1
+2020-11-30 02:11:58 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-11-30 02:11:58 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-11-30 02:11:58 INFO:Id-Iq: 7182789
+2020-11-30 02:11:58 INFO:Moeda: USD
+2020-11-30 02:11:58 INFO:Saldo: 976.61
+2020-11-30 02:11:58 INFO:Tipo conta: Treinamento
+2020-11-30 02:11:58 INFO:------------ Dados Trade -------------
+2020-11-30 02:11:58 INFO:Tipo opção: BINARIAS
+2020-11-30 02:11:58 INFO:Tipo calculo: Valor
+2020-11-30 02:11:58 INFO:Valor do trade: 3.0
+2020-11-30 02:11:58 INFO:Expiração: 1-(M1)
+2020-11-30 02:11:58 INFO:Delay em (segundos): 2
+2020-11-30 02:11:58 INFO:% Payout: 65.0
+2020-11-30 02:11:58 INFO:Trabalhar em OTC: NÃO
+2020-11-30 02:11:58 INFO:------------ Dados Martingale -------------
+2020-11-30 02:11:58 INFO:Max. martingale: 10.0
+2020-11-30 02:11:58 INFO:Fator martingale: 2.4
+2020-11-30 02:11:58 INFO:Proxima Vela/Sinal: NAO
+2020-11-30 02:11:58 INFO:------------ Dados Gerenciamento -------------
+2020-11-30 02:11:58 INFO:Tipo calculo: Valor
+2020-11-30 02:11:58 INFO:Stoploss Movel: NAO
+2020-11-30 02:11:58 INFO:Take profit em (valor): 200.0
+2020-11-30 02:11:58 INFO:Stop loss em (valor): 0.0
+2020-11-30 02:11:58 INFO:------------ Dados Controle -------------
+2020-11-30 02:11:58 INFO:Horario servidor: N
+2020-11-30 02:11:58 INFO:Verifica ativo fechado: S
+2020-11-30 02:11:58 INFO:Fuso horário: Nenhum
+2020-11-30 02:11:58 INFO:Verifica tendencia: NAO
+2020-11-30 02:11:58 INFO:Historico de velas: NAO
+2020-11-30 02:12:19 INFO:-> Aguardando horário: 30/11/2020 02:17:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 02:17:12 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 02:17:58 ativo: GBPJPY direção: PUT Expiração: (M1)
+2020-11-30 02:17:13 INFO:-> Aguardando horário: 30/11/2020 02:17:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 02:17:18 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 02:17:58 ativo: GBPJPY direção: PUT Expiração: (M1)
+2020-11-30 02:17:19 INFO:-> Aguardando horário: 30/11/2020 02:19:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 02:19:11 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 02:19:58 ativo: GBPJPY direção: PUT Expiração: (M1)
+2020-11-30 02:19:12 INFO:-> Aguardando horário: 30/11/2020 02:19:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 02:19:58 INFO: | ---> Abrindo entradas: Servidor:  02:19:58 / Agendado: 02:20:00/02:19:58 - Tipo: BINARIAS - Payout: 73% 
+2020-11-30 02:19:58 INFO: | ---> Nro. ordem: 7684860852 - Valor: 3.0 <====
+2020-11-30 02:19:58 INFO:  | ---> Aguarde checando nro. ordem: 7684860852 <====
+2020-11-30 02:21:00 INFO:   | ---> Ordem: 7684860852 | WIN | Valor: 3.0 | Ganho: 2.19 | Perda: 0
+2020-11-30 02:21:00 INFO:   | ---> Saldo: 2.19 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:21:01 INFO:-> Aguardando horário: 30/11/2020 02:23:58 ativo: AUDUSD direção: CALL timeframe: 1
+2020-11-30 02:23:58 INFO: | ---> Abrindo entradas: Servidor:  02:23:58 / Agendado: 02:24:00/02:23:58 - Tipo: BINARIAS - Payout: 75% 
+2020-11-30 02:23:58 INFO: | ---> Nro. ordem: 7684865414 - Valor: 3.0 <====
+2020-11-30 02:23:58 INFO:  | ---> Aguarde checando nro. ordem: 7684865414 <====
+2020-11-30 02:25:00 INFO:   | ---> Ordem: 7684865414 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 02:25:00 INFO:   | ---> Saldo: -0.81 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:25:00 INFO:-> Aguardando horário: 30/11/2020 02:35:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 02:35:11 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 02:35:58 ativo: GBPJPY direção: PUT Expiração: (M1)
+2020-11-30 02:35:12 INFO:-> Aguardando horário: 30/11/2020 02:35:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 02:35:58 INFO: | ---> Abrindo entradas: Servidor:  02:35:58 / Agendado: 02:36:00/02:35:58 - Tipo: BINARIAS - Payout: 73% 
+2020-11-30 02:35:59 INFO: | ---> Nro. ordem: 7684879280 - Valor: 7.2 <====
+2020-11-30 02:35:59 INFO:  | ---> Aguarde checando nro. ordem: 7684879280 <====
+2020-11-30 02:37:00 INFO:   | ---> Ordem: 7684879280 | WIN | Valor: 7.2 | Ganho: 5.26 | Perda: 0
+2020-11-30 02:37:00 INFO:   | ---> Saldo: 4.45 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:37:02 INFO:-> Aguardando horário: 30/11/2020 02:38:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 02:38:58 INFO: | ---> Abrindo entradas: Servidor:  02:38:58 / Agendado: 02:39:00/02:38:58 - Tipo: BINARIAS - Payout: 72% 
+2020-11-30 02:38:58 INFO: | ---> Nro. ordem: 7684883260 - Valor: 3.0 <====
+2020-11-30 02:38:58 INFO:  | ---> Aguarde checando nro. ordem: 7684883260 <====
+2020-11-30 02:40:00 INFO:   | ---> Ordem: 7684883260 | WIN | Valor: 3.0 | Ganho: 2.16 | Perda: 0
+2020-11-30 02:40:00 INFO:   | ---> Saldo: 6.61 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:40:01 INFO:-> Aguardando horário: 30/11/2020 02:44:58 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-30 02:44:58 INFO: | ---> Abrindo entradas: Servidor:  02:44:58 / Agendado: 02:45:00/02:44:58 - Tipo: BINARIAS - Payout: 74% 
+2020-11-30 02:44:58 INFO: | ---> Nro. ordem: 7684892626 - Valor: 3.0 <====
+2020-11-30 02:44:58 INFO:  | ---> Aguarde checando nro. ordem: 7684892626 <====
+2020-11-30 02:46:00 INFO:   | ---> Ordem: 7684892626 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 02:46:00 INFO:   | ---> Saldo: 3.61 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:46:01 INFO:-> Aguardando horário: 30/11/2020 02:46:58 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-30 02:46:58 INFO: | ---> Abrindo entradas: Servidor:  02:46:58 / Agendado: 02:47:00/02:46:58 - Tipo: BINARIAS - Payout: 74% 
+2020-11-30 02:46:58 INFO: | ---> Nro. ordem: 7684895931 - Valor: 7.2 <====
+2020-11-30 02:46:58 INFO:  | ---> Aguarde checando nro. ordem: 7684895931 <====
+2020-11-30 02:48:00 INFO:   | ---> Ordem: 7684895931 | WIN | Valor: 7.2 | Ganho: 5.33 | Perda: 0
+2020-11-30 02:48:00 INFO:   | ---> Saldo: 8.94 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:48:00 INFO:-> Aguardando horário: 30/11/2020 02:56:58 ativo: AUDUSD direção: CALL timeframe: 1
+2020-11-30 02:56:58 INFO: | ---> Abrindo entradas: Servidor:  02:56:58 / Agendado: 02:57:00/02:56:58 - Tipo: BINARIAS - Payout: 74% 
+2020-11-30 02:56:58 INFO: | ---> Nro. ordem: 7684908301 - Valor: 3.0 <====
+2020-11-30 02:56:58 INFO:  | ---> Aguarde checando nro. ordem: 7684908301 <====
+2020-11-30 02:58:00 INFO:   | ---> Ordem: 7684908301 | WIN | Valor: 3.0 | Ganho: 2.22 | Perda: 0
+2020-11-30 02:58:00 INFO:   | ---> Saldo: 11.16 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 02:58:00 INFO:-> Aguardando horário: 30/11/2020 03:01:58 ativo: EURJPY direção: CALL timeframe: 1
+2020-11-30 03:01:58 INFO: | ---> Abrindo entradas: Servidor:  03:01:58 / Agendado: 03:02:00/03:01:58 - Tipo: BINARIAS - Payout: 73% 
+2020-11-30 03:01:58 INFO: | ---> Nro. ordem: 7684914983 - Valor: 3.0 <====
+2020-11-30 03:01:58 INFO:  | ---> Aguarde checando nro. ordem: 7684914983 <====
+2020-11-30 03:03:00 INFO:   | ---> Ordem: 7684914983 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 03:03:00 INFO:   | ---> Saldo: 8.16 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:03:01 INFO:-> Aguardando horário: 30/11/2020 03:05:58 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-30 03:05:58 INFO: | ---> Abrindo entradas: Servidor:  03:05:58 / Agendado: 03:06:00/03:05:58 - Tipo: BINARIAS - Payout: 74% 
+2020-11-30 03:05:58 INFO: | ---> Nro. ordem: 7684921073 - Valor: 7.2 <====
+2020-11-30 03:05:58 INFO:  | ---> Aguarde checando nro. ordem: 7684921073 <====
+2020-11-30 03:07:00 INFO:   | ---> Ordem: 7684921073 | LOSS | Valor: 7.2 | Ganho: 0 | Perda: -7.2
+2020-11-30 03:07:00 INFO:   | ---> Saldo: 0.96 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:07:00 INFO:-> Aguardando horário: 30/11/2020 03:14:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 03:14:11 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 30 horário: 03:14:58 ativo: GBPJPY direção: PUT Expiração: (M1)
+2020-11-30 03:14:11 INFO:-> Aguardando horário: 30/11/2020 03:14:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 03:14:58 INFO: | ---> Abrindo entradas: Servidor:  03:14:58 / Agendado: 03:15:00/03:14:58 - Tipo: BINARIAS - Payout: 73% 
+2020-11-30 03:14:59 INFO: | ---> Nro. ordem: 7684933757 - Valor: 17.28 <====
+2020-11-30 03:14:59 INFO:  | ---> Aguarde checando nro. ordem: 7684933757 <====
+2020-11-30 03:16:00 INFO:   | ---> Ordem: 7684933757 | LOSS | Valor: 17.28 | Ganho: 0 | Perda: -17.28
+2020-11-30 03:16:00 INFO:   | ---> Saldo: -16.32 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:16:02 INFO:-> Aguardando horário: 30/11/2020 03:21:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 03:21:58 INFO: | ---> Abrindo entradas: Servidor:  03:21:58 / Agendado: 03:22:00/03:21:58 - Tipo: BINARIAS - Payout: 72% 
+2020-11-30 03:21:58 INFO: | ---> Nro. ordem: 7684949198 - Valor: 41.47 <====
+2020-11-30 03:21:58 INFO:  | ---> Aguarde checando nro. ordem: 7684949198 <====
+2020-11-30 03:23:00 INFO:   | ---> Ordem: 7684949198 | LOSS | Valor: 41.47 | Ganho: 0 | Perda: -41.47
+2020-11-30 03:23:00 INFO:   | ---> Saldo: -57.79 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:23:01 INFO:-> Aguardando horário: 30/11/2020 03:27:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 03:27:58 INFO: | ---> Abrindo entradas: Servidor:  03:27:58 / Agendado: 03:28:00/03:27:58 - Tipo: BINARIAS - Payout: 72% 
+2020-11-30 03:27:58 INFO: | ---> Nro. ordem: 7684959200 - Valor: 99.53 <====
+2020-11-30 03:27:58 INFO:  | ---> Aguarde checando nro. ordem: 7684959200 <====
+2020-11-30 03:29:00 INFO:   | ---> Ordem: 7684959200 | WIN | Valor: 99.53 | Ganho: 71.66 | Perda: 0
+2020-11-30 03:29:00 INFO:   | ---> Saldo: 13.87 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:29:02 INFO:-> Aguardando horário: 30/11/2020 03:30:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 03:30:58 INFO: | ---> Abrindo entradas: Servidor:  03:30:58 / Agendado: 03:31:00/03:30:58 - Tipo: BINARIAS - Payout: 73% 
+2020-11-30 03:30:58 INFO: | ---> Nro. ordem: 7684963631 - Valor: 3.0 <====
+2020-11-30 03:30:58 INFO:  | ---> Aguarde checando nro. ordem: 7684963631 <====
+2020-11-30 03:32:00 INFO:   | ---> Ordem: 7684963631 | WIN | Valor: 3.0 | Ganho: 2.19 | Perda: 0
+2020-11-30 03:32:00 INFO:   | ---> Saldo: 16.06 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:32:01 INFO:-> Aguardando horário: 30/11/2020 03:42:58 ativo: AUDUSD direção: CALL timeframe: 1
+2020-11-30 03:42:58 INFO: | ---> Abrindo entradas: Servidor:  03:42:58 / Agendado: 03:43:00/03:42:58 - Tipo: BINARIAS - Payout: 74% 
+2020-11-30 03:42:58 INFO: | ---> Nro. ordem: 7684981176 - Valor: 3.0 <====
+2020-11-30 03:42:58 INFO:  | ---> Aguarde checando nro. ordem: 7684981176 <====
+2020-11-30 03:44:00 INFO:   | ---> Ordem: 7684981176 | EQUAL | Valor: 3.0 | Ganho: 0 | Perda: 0
+2020-11-30 03:44:00 INFO:   | ---> Saldo: 16.06 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 03:44:00 INFO:-> Aguardando horário: 30/11/2020 04:11:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 04:11:58 INFO: | ---> Abrindo entradas: Servidor:  04:11:58 / Agendado: 04:12:00/04:11:58 - Tipo: BINARIAS - Payout: 74% 
+2020-11-30 04:11:58 INFO: | ---> Nro. ordem: 7685024441 - Valor: 3.0 <====
+2020-11-30 04:11:58 INFO:  | ---> Aguarde checando nro. ordem: 7685024441 <====
+2020-11-30 04:13:00 INFO:   | ---> Ordem: 7685024441 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 04:13:00 INFO:   | ---> Saldo: 13.06 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:13:01 INFO:-> Aguardando horário: 30/11/2020 04:16:58 ativo: USDJPY direção: CALL timeframe: 1
+2020-11-30 04:16:58 INFO: | ---> Abrindo entradas: Servidor:  04:16:58 / Agendado: 04:17:00/04:16:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:16:58 INFO: | ---> Nro. ordem: 7685032745 - Valor: 7.2 <====
+2020-11-30 04:16:58 INFO:  | ---> Aguarde checando nro. ordem: 7685032745 <====
+2020-11-30 04:18:00 INFO:   | ---> Ordem: 7685032745 | WIN | Valor: 7.2 | Ganho: 5.76 | Perda: 0
+2020-11-30 04:18:00 INFO:   | ---> Saldo: 18.82 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:18:01 INFO:-> Aguardando horário: 30/11/2020 04:21:58 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-30 04:21:58 INFO: | ---> Abrindo entradas: Servidor:  04:21:58 / Agendado: 04:22:00/04:21:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:21:58 INFO: | ---> Nro. ordem: 7685040688 - Valor: 3.0 <====
+2020-11-30 04:21:58 INFO:  | ---> Aguarde checando nro. ordem: 7685040688 <====
+2020-11-30 04:23:00 INFO:   | ---> Ordem: 7685040688 | WIN | Valor: 3.0 | Ganho: 2.4 | Perda: 0
+2020-11-30 04:23:00 INFO:   | ---> Saldo: 21.22 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:23:01 INFO:-> Aguardando horário: 30/11/2020 04:25:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 04:25:58 INFO: | ---> Abrindo entradas: Servidor:  04:25:58 / Agendado: 04:26:00/04:25:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:25:58 INFO: | ---> Nro. ordem: 7685047248 - Valor: 3.0 <====
+2020-11-30 04:25:58 INFO:  | ---> Aguarde checando nro. ordem: 7685047248 <====
+2020-11-30 04:27:00 INFO:   | ---> Ordem: 7685047248 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 04:27:00 INFO:   | ---> Saldo: 18.22 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:27:01 INFO:-> Aguardando horário: 30/11/2020 04:33:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 04:33:58 INFO: | ---> Abrindo entradas: Servidor:  04:33:58 / Agendado: 04:34:00/04:33:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:33:58 INFO: | ---> Nro. ordem: 7685059709 - Valor: 7.2 <====
+2020-11-30 04:33:58 INFO:  | ---> Aguarde checando nro. ordem: 7685059709 <====
+2020-11-30 04:35:00 INFO:   | ---> Ordem: 7685059709 | LOSS | Valor: 7.2 | Ganho: 0 | Perda: -7.2
+2020-11-30 04:35:00 INFO:   | ---> Saldo: 11.02 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:35:01 INFO:-> Aguardando horário: 30/11/2020 04:39:58 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-30 04:39:58 INFO: | ---> Abrindo entradas: Servidor:  04:39:58 / Agendado: 04:40:00/04:39:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:39:58 INFO: | ---> Nro. ordem: 7685069593 - Valor: 17.28 <====
+2020-11-30 04:39:58 INFO:  | ---> Aguarde checando nro. ordem: 7685069593 <====
+2020-11-30 04:41:00 INFO:   | ---> Ordem: 7685069593 | WIN | Valor: 17.28 | Ganho: 13.82 | Perda: 0
+2020-11-30 04:41:00 INFO:   | ---> Saldo: 24.84 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:41:00 INFO:-> Aguardando horário: 30/11/2020 04:43:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 04:43:58 INFO: | ---> Abrindo entradas: Servidor:  04:43:58 / Agendado: 04:44:00/04:43:58 - Tipo: BINARIAS - Payout: 79% 
+2020-11-30 04:43:58 INFO: | ---> Nro. ordem: 7685076514 - Valor: 3.0 <====
+2020-11-30 04:43:59 INFO:  | ---> Aguarde checando nro. ordem: 7685076514 <====
+2020-11-30 04:45:00 INFO:   | ---> Ordem: 7685076514 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 04:45:00 INFO:   | ---> Saldo: 21.84 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:45:01 INFO:-> Aguardando horário: 30/11/2020 04:49:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 04:49:58 INFO: | ---> Abrindo entradas: Servidor:  04:49:58 / Agendado: 04:50:00/04:49:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:49:58 INFO: | ---> Nro. ordem: 7685087626 - Valor: 7.2 <====
+2020-11-30 04:49:58 INFO:  | ---> Aguarde checando nro. ordem: 7685087626 <====
+2020-11-30 04:51:00 INFO:   | ---> Ordem: 7685087626 | WIN | Valor: 7.2 | Ganho: 5.76 | Perda: 0
+2020-11-30 04:51:00 INFO:   | ---> Saldo: 27.6 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:51:01 INFO:-> Aguardando horário: 30/11/2020 04:53:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 04:53:58 INFO: | ---> Abrindo entradas: Servidor:  04:53:58 / Agendado: 04:54:00/04:53:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:53:58 INFO: | ---> Nro. ordem: 7685094861 - Valor: 3.0 <====
+2020-11-30 04:53:58 INFO:  | ---> Aguarde checando nro. ordem: 7685094861 <====
+2020-11-30 04:55:00 INFO:   | ---> Ordem: 7685094861 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 04:55:00 INFO:   | ---> Saldo: 24.6 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 04:55:01 INFO:-> Aguardando horário: 30/11/2020 04:59:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 04:59:58 INFO: | ---> Abrindo entradas: Servidor:  04:59:58 / Agendado: 05:00:00/04:59:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 04:59:58 INFO: | ---> Nro. ordem: 7685106393 - Valor: 7.2 <====
+2020-11-30 04:59:58 INFO:  | ---> Aguarde checando nro. ordem: 7685106393 <====
+2020-11-30 05:01:00 INFO:   | ---> Ordem: 7685106393 | LOSS | Valor: 7.2 | Ganho: 0 | Perda: -7.2
+2020-11-30 05:01:00 INFO:   | ---> Saldo: 17.4 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:01:01 INFO:-> Aguardando horário: 30/11/2020 05:01:58 ativo: EURJPY direção: CALL timeframe: 1
+2020-11-30 05:01:58 INFO: | ---> Abrindo entradas: Servidor:  05:01:58 / Agendado: 05:02:00/05:01:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:01:58 INFO: | ---> Nro. ordem: 7685112484 - Valor: 17.28 <====
+2020-11-30 05:01:58 INFO:  | ---> Aguarde checando nro. ordem: 7685112484 <====
+2020-11-30 05:03:00 INFO:   | ---> Ordem: 7685112484 | LOSS | Valor: 17.28 | Ganho: 0 | Perda: -17.28
+2020-11-30 05:03:00 INFO:   | ---> Saldo: 0.12 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:03:01 INFO:-> Aguardando horário: 30/11/2020 05:07:58 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-30 05:06:14 INFO:----------> RECONECTANDO <----------
+2020-11-30 05:06:14 ERROR:Reconectando- AGUARDANDO HORÁRIO- 2
+2020-11-30 05:06:24 ERROR:ERRO: [Errno 11002] getaddrinfo failed
+2020-11-30 05:06:24 INFO:----------> RECONECTANDO <----------
+2020-11-30 05:06:24 ERROR:Reconectando- AGUARDANDO HORÁRIO- 2
+2020-11-30 05:07:58 INFO: | ---> Abrindo entradas: Servidor:  05:07:58 / Agendado: 05:08:00/05:07:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:07:58 INFO: | ---> Nro. ordem: 7685124698 - Valor: 41.47 <====
+2020-11-30 05:07:58 INFO:  | ---> Aguarde checando nro. ordem: 7685124698 <====
+2020-11-30 05:09:00 INFO:   | ---> Ordem: 7685124698 | LOSS | Valor: 41.47 | Ganho: 0 | Perda: -41.47
+2020-11-30 05:09:00 INFO:   | ---> Saldo: -41.35 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:09:01 INFO:-> Aguardando horário: 30/11/2020 05:09:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 05:09:58 INFO: | ---> Abrindo entradas: Servidor:  05:09:58 / Agendado: 05:10:00/05:09:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:09:58 INFO: | ---> Nro. ordem: 7685127985 - Valor: 99.53 <====
+2020-11-30 05:09:58 INFO:  | ---> Aguarde checando nro. ordem: 7685127985 <====
+2020-11-30 05:11:00 INFO:   | ---> Ordem: 7685127985 | LOSS | Valor: 99.53 | Ganho: 0 | Perda: -99.53
+2020-11-30 05:11:00 INFO:   | ---> Saldo: -140.88 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:11:01 INFO:-> Aguardando horário: 30/11/2020 05:14:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 05:14:58 INFO: | ---> Abrindo entradas: Servidor:  05:14:58 / Agendado: 05:15:00/05:14:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:14:58 INFO: | ---> Nro. ordem: 7685135805 - Valor: 238.88 <====
+2020-11-30 05:14:58 INFO:  | ---> Aguarde checando nro. ordem: 7685135805 <====
+2020-11-30 05:16:00 INFO:   | ---> Ordem: 7685135805 | LOSS | Valor: 238.88 | Ganho: 0 | Perda: -238.88
+2020-11-30 05:16:00 INFO:   | ---> Saldo: -379.76 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:16:01 INFO:-> Aguardando horário: 30/11/2020 05:16:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 05:16:58 INFO: | ---> Abrindo entradas: Servidor:  05:16:58 / Agendado: 05:17:00/05:16:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:16:58 INFO: | ---> Nro. ordem: 7685139992 - Valor: 573.31 <====
+2020-11-30 05:16:58 INFO:  | ---> Aguarde checando nro. ordem: 7685139992 <====
+2020-11-30 05:18:00 INFO:   | ---> Ordem: 7685139992 | WIN | Valor: 573.31 | Ganho: 458.65 | Perda: 0
+2020-11-30 05:18:00 INFO:   | ---> Saldo: 78.89 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:18:01 INFO:-> Aguardando horário: 30/11/2020 05:19:58 ativo: USDJPY direção: CALL timeframe: 1
+2020-11-30 05:19:58 INFO: | ---> Abrindo entradas: Servidor:  05:19:58 / Agendado: 05:20:00/05:19:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:19:58 INFO: | ---> Nro. ordem: 7685145431 - Valor: 3.0 <====
+2020-11-30 05:19:58 INFO:  | ---> Aguarde checando nro. ordem: 7685145431 <====
+2020-11-30 05:21:00 INFO:   | ---> Ordem: 7685145431 | WIN | Valor: 3.0 | Ganho: 2.4 | Perda: 0
+2020-11-30 05:21:00 INFO:   | ---> Saldo: 81.29 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:21:02 INFO:-> Aguardando horário: 30/11/2020 05:23:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 05:23:58 INFO: | ---> Abrindo entradas: Servidor:  05:23:58 / Agendado: 05:24:00/05:23:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:23:58 INFO: | ---> Nro. ordem: 7685153292 - Valor: 3.0 <====
+2020-11-30 05:23:58 INFO:  | ---> Aguarde checando nro. ordem: 7685153292 <====
+2020-11-30 05:25:00 INFO:   | ---> Ordem: 7685153292 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 05:25:00 INFO:   | ---> Saldo: 78.29 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:25:01 INFO:-> Aguardando horário: 30/11/2020 05:29:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 05:29:58 INFO: | ---> Abrindo entradas: Servidor:  05:29:58 / Agendado: 05:30:00/05:29:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:29:58 INFO: | ---> Nro. ordem: 7685164532 - Valor: 7.2 <====
+2020-11-30 05:29:58 INFO:  | ---> Aguarde checando nro. ordem: 7685164532 <====
+2020-11-30 05:31:00 INFO:   | ---> Ordem: 7685164532 | WIN | Valor: 7.2 | Ganho: 5.76 | Perda: 0
+2020-11-30 05:31:00 INFO:   | ---> Saldo: 84.05 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:31:01 INFO:-> Aguardando horário: 30/11/2020 05:47:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 05:47:58 INFO: | ---> Abrindo entradas: Servidor:  05:47:58 / Agendado: 05:48:00/05:47:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:47:58 INFO: | ---> Nro. ordem: 7685198235 - Valor: 3.0 <====
+2020-11-30 05:47:58 INFO:  | ---> Aguarde checando nro. ordem: 7685198235 <====
+2020-11-30 05:49:00 INFO:   | ---> Ordem: 7685198235 | WIN | Valor: 3.0 | Ganho: 2.4 | Perda: 0
+2020-11-30 05:49:00 INFO:   | ---> Saldo: 86.45 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:49:01 INFO:-> Aguardando horário: 30/11/2020 05:57:58 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-30 05:57:58 INFO: | ---> Abrindo entradas: Servidor:  05:57:58 / Agendado: 05:58:00/05:57:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 05:57:58 INFO: | ---> Nro. ordem: 7685217168 - Valor: 3.0 <====
+2020-11-30 05:57:58 INFO:  | ---> Aguarde checando nro. ordem: 7685217168 <====
+2020-11-30 05:59:00 INFO:   | ---> Ordem: 7685217168 | WIN | Valor: 3.0 | Ganho: 2.4 | Perda: 0
+2020-11-30 05:59:00 INFO:   | ---> Saldo: 88.85 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 05:59:01 INFO:-> Aguardando horário: 30/11/2020 06:01:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 06:01:58 INFO: | ---> Abrindo entradas: Servidor:  06:01:58 / Agendado: 06:02:00/06:01:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 06:01:59 INFO: | ---> Nro. ordem: 7685225792 - Valor: 3.0 <====
+2020-11-30 06:01:59 INFO:  | ---> Aguarde checando nro. ordem: 7685225792 <====
+2020-11-30 06:03:00 INFO:   | ---> Ordem: 7685225792 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 06:03:00 INFO:   | ---> Saldo: 85.85 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:03:01 INFO:-> Aguardando horário: 30/11/2020 06:07:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 06:07:58 INFO: | ---> Abrindo entradas: Servidor:  06:07:58 / Agendado: 06:08:00/06:07:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 06:07:58 INFO: | ---> Nro. ordem: 7685237124 - Valor: 7.2 <====
+2020-11-30 06:07:58 INFO:  | ---> Aguarde checando nro. ordem: 7685237124 <====
+2020-11-30 06:09:00 INFO:   | ---> Ordem: 7685237124 | LOSS | Valor: 7.2 | Ganho: 0 | Perda: -7.2
+2020-11-30 06:09:00 INFO:   | ---> Saldo: 78.65 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:09:01 INFO:-> Aguardando horário: 30/11/2020 06:16:58 ativo: AUDUSD direção: CALL timeframe: 1
+2020-11-30 06:16:58 INFO: | ---> Abrindo entradas: Servidor:  06:16:58 / Agendado: 06:17:00/06:16:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 06:16:58 INFO: | ---> Nro. ordem: 7685256763 - Valor: 17.28 <====
+2020-11-30 06:16:58 INFO:  | ---> Aguarde checando nro. ordem: 7685256763 <====
+2020-11-30 06:18:00 INFO:   | ---> Ordem: 7685256763 | LOSS | Valor: 17.28 | Ganho: 0 | Perda: -17.28
+2020-11-30 06:18:00 INFO:   | ---> Saldo: 61.37 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:18:01 INFO:-> Aguardando horário: 30/11/2020 06:19:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 06:19:58 INFO: | ---> Abrindo entradas: Servidor:  06:19:58 / Agendado: 06:20:00/06:19:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 06:19:58 INFO: | ---> Nro. ordem: 7685263070 - Valor: 41.47 <====
+2020-11-30 06:19:58 INFO:  | ---> Aguarde checando nro. ordem: 7685263070 <====
+2020-11-30 06:21:00 INFO:   | ---> Ordem: 7685263070 | WIN | Valor: 41.47 | Ganho: 33.18 | Perda: 0
+2020-11-30 06:21:00 INFO:   | ---> Saldo: 94.55 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:21:01 INFO:-> Aguardando horário: 30/11/2020 06:24:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 06:24:58 INFO: | ---> Abrindo entradas: Servidor:  06:24:58 / Agendado: 06:25:00/06:24:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 06:24:59 INFO: | ---> Nro. ordem: 7685271682 - Valor: 3.0 <====
+2020-11-30 06:24:59 INFO:  | ---> Aguarde checando nro. ordem: 7685271682 <====
+2020-11-30 06:26:00 INFO:   | ---> Ordem: 7685271682 | WIN | Valor: 3.0 | Ganho: 2.4 | Perda: 0
+2020-11-30 06:26:00 INFO:   | ---> Saldo: 96.95 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:26:01 INFO:-> Aguardando horário: 30/11/2020 06:28:58 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-30 06:28:58 INFO: | ---> Abrindo entradas: Servidor:  06:28:58 / Agendado: 06:29:00/06:28:58 - Tipo: BINARIAS - Payout: 80% 
+2020-11-30 06:28:58 INFO: | ---> Nro. ordem: 7685280009 - Valor: 3.0 <====
+2020-11-30 06:28:58 INFO:  | ---> Aguarde checando nro. ordem: 7685280009 <====
+2020-11-30 06:30:00 INFO:   | ---> Ordem: 7685280009 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 06:30:00 INFO:   | ---> Saldo: 93.95 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:30:01 INFO:-> Aguardando horário: 30/11/2020 06:32:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 06:32:58 INFO: | ---> Abrindo entradas: Servidor:  06:32:58 / Agendado: 06:33:00/06:32:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 06:32:58 INFO: | ---> Nro. ordem: 7685289962 - Valor: 7.2 <====
+2020-11-30 06:32:58 INFO:  | ---> Aguarde checando nro. ordem: 7685289962 <====
+2020-11-30 06:34:00 INFO:   | ---> Ordem: 7685289962 | WIN | Valor: 7.2 | Ganho: 6.48 | Perda: 0
+2020-11-30 06:34:00 INFO:   | ---> Saldo: 100.43 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 06:34:01 INFO:-> Aguardando horário: 30/11/2020 06:59:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 06:59:58 INFO: | ---> Abrindo entradas: Servidor:  06:59:58 / Agendado: 07:00:00/06:59:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 06:59:58 INFO: | ---> Nro. ordem: 7685352374 - Valor: 3.0 <====
+2020-11-30 06:59:58 INFO:  | ---> Aguarde checando nro. ordem: 7685352374 <====
+2020-11-30 07:01:00 INFO:   | ---> Ordem: 7685352374 | WIN | Valor: 3.0 | Ganho: 2.7 | Perda: 0
+2020-11-30 07:01:00 INFO:   | ---> Saldo: 103.13 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:01:01 INFO:-> Aguardando horário: 30/11/2020 07:02:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 07:02:58 INFO: | ---> Abrindo entradas: Servidor:  07:02:58 / Agendado: 07:03:00/07:02:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:02:58 INFO: | ---> Nro. ordem: 7685360262 - Valor: 3.0 <====
+2020-11-30 07:02:59 INFO:  | ---> Aguarde checando nro. ordem: 7685360262 <====
+2020-11-30 07:04:00 INFO:   | ---> Ordem: 7685360262 | WIN | Valor: 3.0 | Ganho: 2.7 | Perda: 0
+2020-11-30 07:04:00 INFO:   | ---> Saldo: 105.83 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:04:02 INFO:-> Aguardando horário: 30/11/2020 07:24:58 ativo: GBPJPY direção: PUT timeframe: 1
+2020-11-30 07:24:58 INFO: | ---> Abrindo entradas: Servidor:  07:24:58 / Agendado: 07:25:00/07:24:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:24:58 INFO: | ---> Nro. ordem: 7685410651 - Valor: 3.0 <====
+2020-11-30 07:24:58 INFO:  | ---> Aguarde checando nro. ordem: 7685410651 <====
+2020-11-30 07:26:00 INFO:   | ---> Ordem: 7685410651 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 07:26:00 INFO:   | ---> Saldo: 102.83 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:26:01 INFO:-> Aguardando horário: 30/11/2020 07:26:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 07:26:58 INFO: | ---> Abrindo entradas: Servidor:  07:26:58 / Agendado: 07:27:00/07:26:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:26:59 INFO: | ---> Nro. ordem: 7685415950 - Valor: 7.2 <====
+2020-11-30 07:26:59 INFO:  | ---> Aguarde checando nro. ordem: 7685415950 <====
+2020-11-30 07:28:00 INFO:   | ---> Ordem: 7685415950 | WIN | Valor: 7.2 | Ganho: 6.48 | Perda: 0
+2020-11-30 07:28:00 INFO:   | ---> Saldo: 109.31 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:28:01 INFO:-> Aguardando horário: 30/11/2020 07:28:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 07:28:58 INFO: | ---> Abrindo entradas: Servidor:  07:28:58 / Agendado: 07:29:00/07:28:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:28:58 INFO: | ---> Nro. ordem: 7685419785 - Valor: 3.0 <====
+2020-11-30 07:28:58 INFO:  | ---> Aguarde checando nro. ordem: 7685419785 <====
+2020-11-30 07:30:00 INFO:   | ---> Ordem: 7685419785 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 07:30:00 INFO:   | ---> Saldo: 106.31 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:30:01 INFO:-> Aguardando horário: 30/11/2020 07:39:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 07:39:58 INFO: | ---> Abrindo entradas: Servidor:  07:39:58 / Agendado: 07:40:00/07:39:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:39:58 INFO: | ---> Nro. ordem: 7685445629 - Valor: 7.2 <====
+2020-11-30 07:39:58 INFO:  | ---> Aguarde checando nro. ordem: 7685445629 <====
+2020-11-30 07:41:00 INFO:   | ---> Ordem: 7685445629 | WIN | Valor: 7.2 | Ganho: 6.41 | Perda: 0
+2020-11-30 07:41:00 INFO:   | ---> Saldo: 112.72 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:41:02 INFO:-> Aguardando horário: 30/11/2020 07:43:58 ativo: GBPJPY direção: CALL timeframe: 1
+2020-11-30 07:43:58 INFO: | ---> Abrindo entradas: Servidor:  07:43:58 / Agendado: 07:44:00/07:43:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:43:58 INFO: | ---> Nro. ordem: 7685455020 - Valor: 3.0 <====
+2020-11-30 07:43:58 INFO:  | ---> Aguarde checando nro. ordem: 7685455020 <====
+2020-11-30 07:45:00 INFO:   | ---> Ordem: 7685455020 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 07:45:00 INFO:   | ---> Saldo: 109.72 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:45:02 INFO:-> Aguardando horário: 30/11/2020 07:45:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 07:45:58 INFO: | ---> Abrindo entradas: Servidor:  07:45:58 / Agendado: 07:46:00/07:45:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:45:58 INFO: | ---> Nro. ordem: 7685461938 - Valor: 7.2 <====
+2020-11-30 07:45:58 INFO:  | ---> Aguarde checando nro. ordem: 7685461938 <====
+2020-11-30 07:47:00 INFO:   | ---> Ordem: 7685461938 | EQUAL | Valor: 7.2 | Ganho: 0 | Perda: 0
+2020-11-30 07:47:00 INFO:   | ---> Saldo: 109.72 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:47:01 INFO:-> Aguardando horário: 30/11/2020 07:47:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 07:47:58 INFO: | ---> Abrindo entradas: Servidor:  07:47:58 / Agendado: 07:48:00/07:47:58 - Tipo: BINARIAS - Payout: 89% 
+2020-11-30 07:47:59 INFO: | ---> Nro. ordem: 7685466895 - Valor: 7.2 <====
+2020-11-30 07:47:59 INFO:  | ---> Aguarde checando nro. ordem: 7685466895 <====
+2020-11-30 07:49:00 INFO:   | ---> Ordem: 7685466895 | WIN | Valor: 7.2 | Ganho: 6.41 | Perda: 0
+2020-11-30 07:49:00 INFO:   | ---> Saldo: 116.13 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:49:01 INFO:-> Aguardando horário: 30/11/2020 07:57:58 ativo: EURJPY direção: CALL timeframe: 1
+2020-11-30 07:57:58 INFO: | ---> Abrindo entradas: Servidor:  07:57:58 / Agendado: 07:58:00/07:57:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 07:57:59 INFO: | ---> Nro. ordem: 7685497950 - Valor: 3.0 <====
+2020-11-30 07:57:59 INFO:  | ---> Aguarde checando nro. ordem: 7685497950 <====
+2020-11-30 07:59:00 INFO:   | ---> Ordem: 7685497950 | EQUAL | Valor: 3.0 | Ganho: 0 | Perda: 0
+2020-11-30 07:59:00 INFO:   | ---> Saldo: 116.13 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 07:59:01 INFO:-> Aguardando horário: 30/11/2020 08:00:58 ativo: GBPJPY direção: CALL timeframe: 1
+2020-11-30 08:00:58 INFO: | ---> Abrindo entradas: Servidor:  08:00:58 / Agendado: 08:01:00/08:00:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:00:58 INFO: | ---> Nro. ordem: 7685509026 - Valor: 3.0 <====
+2020-11-30 08:00:58 INFO:  | ---> Aguarde checando nro. ordem: 7685509026 <====
+2020-11-30 08:02:00 INFO:   | ---> Ordem: 7685509026 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 08:02:00 INFO:   | ---> Saldo: 113.13 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:02:02 INFO:-> Aguardando horário: 30/11/2020 08:07:58 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-30 08:07:58 INFO: | ---> Abrindo entradas: Servidor:  08:07:58 / Agendado: 08:08:00/08:07:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:07:58 INFO: | ---> Nro. ordem: 7685530709 - Valor: 7.2 <====
+2020-11-30 08:07:58 INFO:  | ---> Aguarde checando nro. ordem: 7685530709 <====
+2020-11-30 08:09:00 INFO:   | ---> Ordem: 7685530709 | WIN | Valor: 7.2 | Ganho: 6.48 | Perda: 0
+2020-11-30 08:09:00 INFO:   | ---> Saldo: 119.61 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:09:01 INFO:-> Aguardando horário: 30/11/2020 08:10:58 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-30 08:10:58 INFO: | ---> Abrindo entradas: Servidor:  08:10:58 / Agendado: 08:11:00/08:10:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:10:58 INFO: | ---> Nro. ordem: 7685540451 - Valor: 3.0 <====
+2020-11-30 08:10:58 INFO:  | ---> Aguarde checando nro. ordem: 7685540451 <====
+2020-11-30 08:12:00 INFO:   | ---> Ordem: 7685540451 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 08:12:00 INFO:   | ---> Saldo: 116.61 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:12:01 INFO:-> Aguardando horário: 30/11/2020 08:13:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 08:13:58 INFO: | ---> Abrindo entradas: Servidor:  08:13:58 / Agendado: 08:14:00/08:13:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:13:58 INFO: | ---> Nro. ordem: 7685549448 - Valor: 7.2 <====
+2020-11-30 08:13:58 INFO:  | ---> Aguarde checando nro. ordem: 7685549448 <====
+2020-11-30 08:15:00 INFO:   | ---> Ordem: 7685549448 | LOSS | Valor: 7.2 | Ganho: 0 | Perda: -7.2
+2020-11-30 08:15:00 INFO:   | ---> Saldo: 109.41 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:15:01 INFO:-> Aguardando horário: 30/11/2020 08:16:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-11-30 08:16:58 INFO: | ---> Abrindo entradas: Servidor:  08:16:58 / Agendado: 08:17:00/08:16:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:16:59 INFO: | ---> Nro. ordem: 7685561381 - Valor: 17.28 <====
+2020-11-30 08:16:59 INFO:  | ---> Aguarde checando nro. ordem: 7685561381 <====
+2020-11-30 08:18:00 INFO:   | ---> Ordem: 7685561381 | LOSS | Valor: 17.28 | Ganho: 0 | Perda: -17.28
+2020-11-30 08:18:00 INFO:   | ---> Saldo: 92.13 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:18:01 INFO:-> Aguardando horário: 30/11/2020 08:26:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 08:26:58 INFO: | ---> Abrindo entradas: Servidor:  08:26:58 / Agendado: 08:27:00/08:26:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:26:59 INFO: | ---> Nro. ordem: 7685597042 - Valor: 41.47 <====
+2020-11-30 08:26:59 INFO:  | ---> Aguarde checando nro. ordem: 7685597042 <====
+2020-11-30 08:28:00 INFO:   | ---> Ordem: 7685597042 | WIN | Valor: 41.47 | Ganho: 37.32 | Perda: 0
+2020-11-30 08:28:00 INFO:   | ---> Saldo: 129.45 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:28:01 INFO:-> Aguardando horário: 30/11/2020 08:28:58 ativo: EURUSD direção: CALL timeframe: 1
+2020-11-30 08:28:58 INFO: | ---> Abrindo entradas: Servidor:  08:28:58 / Agendado: 08:29:00/08:28:58 - Tipo: BINARIAS - Payout: 89% 
+2020-11-30 08:28:58 INFO: | ---> Nro. ordem: 7685601874 - Valor: 3.0 <====
+2020-11-30 08:28:58 INFO:  | ---> Aguarde checando nro. ordem: 7685601874 <====
+2020-11-30 08:30:00 INFO:   | ---> Ordem: 7685601874 | WIN | Valor: 3.0 | Ganho: 2.67 | Perda: 0
+2020-11-30 08:30:00 INFO:   | ---> Saldo: 132.12 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:30:03 INFO:-> Aguardando horário: 30/11/2020 08:33:58 ativo: EURJPY direção: PUT timeframe: 1
+2020-11-30 08:33:58 INFO: | ---> Abrindo entradas: Servidor:  08:33:58 / Agendado: 08:34:00/08:33:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:33:58 INFO: | ---> Nro. ordem: 7685618629 - Valor: 3.0 <====
+2020-11-30 08:33:58 INFO:  | ---> Aguarde checando nro. ordem: 7685618629 <====
+2020-11-30 08:35:00 INFO:   | ---> Ordem: 7685618629 | WIN | Valor: 3.0 | Ganho: 2.7 | Perda: 0
+2020-11-30 08:35:00 INFO:   | ---> Saldo: 134.82 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:35:01 INFO:-> Aguardando horário: 30/11/2020 08:38:58 ativo: AUDUSD direção: PUT timeframe: 1
+2020-11-30 08:38:58 INFO: | ---> Abrindo entradas: Servidor:  08:38:58 / Agendado: 08:39:00/08:38:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:38:58 INFO: | ---> Nro. ordem: 7685634974 - Valor: 3.0 <====
+2020-11-30 08:38:58 INFO:  | ---> Aguarde checando nro. ordem: 7685634974 <====
+2020-11-30 08:40:00 INFO:   | ---> Ordem: 7685634974 | LOSS | Valor: 3.0 | Ganho: 0 | Perda: -3.0
+2020-11-30 08:40:00 INFO:   | ---> Saldo: 131.82 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:40:01 INFO:-> Aguardando horário: 30/11/2020 08:40:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 08:40:58 INFO: | ---> Abrindo entradas: Servidor:  08:40:58 / Agendado: 08:41:00/08:40:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:40:58 INFO: | ---> Nro. ordem: 7685642922 - Valor: 7.2 <====
+2020-11-30 08:40:58 INFO:  | ---> Aguarde checando nro. ordem: 7685642922 <====
+2020-11-30 08:42:00 INFO:   | ---> Ordem: 7685642922 | LOSS | Valor: 7.2 | Ganho: 0 | Perda: -7.2
+2020-11-30 08:42:00 INFO:   | ---> Saldo: 124.62 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:42:02 INFO:-> Aguardando horário: 30/11/2020 08:45:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-11-30 08:45:58 INFO: | ---> Abrindo entradas: Servidor:  08:45:58 / Agendado: 08:46:00/08:45:58 - Tipo: BINARIAS - Payout: 90% 
+2020-11-30 08:45:58 INFO: | ---> Nro. ordem: 7685657086 - Valor: 17.28 <====
+2020-11-30 08:45:58 INFO:  | ---> Aguarde checando nro. ordem: 7685657086 <====
+2020-11-30 08:47:00 INFO:   | ---> Ordem: 7685657086 | WIN | Valor: 17.28 | Ganho: 15.55 | Perda: 0
+2020-11-30 08:47:00 INFO:   | ---> Saldo: 140.17 | TakeProfit: 200.0 | StopLoss: 0.0
+2020-11-30 08:47:01 INFO:-> Aguardando horário: 30/11/2020 08:57:58 ativo: USDJPY direção: CALL timeframe: 1

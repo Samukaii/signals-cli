@@ -1,0 +1,101 @@
+2020-08-27 00:10:11 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-27 00:10:11 INFO:Conectando na IQ-Option...
+2020-08-27 00:10:13 INFO:CONECTADO
+2020-08-27 00:10:14 INFO:Versao: 5.3.2.1
+2020-08-27 00:10:14 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-27 00:10:14 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-27 00:10:14 INFO:Id-Iq: 7182789
+2020-08-27 00:10:14 INFO:Moeda: USD
+2020-08-27 00:10:14 INFO:Saldo: 100
+2020-08-27 00:10:14 INFO:Tipo conta: Treinamento
+2020-08-27 00:10:14 INFO:------------ Dados Trade -------------
+2020-08-27 00:10:14 INFO:Tipo opção: Checar melhor payout
+2020-08-27 00:10:14 INFO:Tipo calculo: Valor
+2020-08-27 00:10:14 INFO:Valor do trade: 5.0
+2020-08-27 00:10:14 INFO:Expiração: 5-(M5)
+2020-08-27 00:10:14 INFO:Delay em (segundos): 2
+2020-08-27 00:10:14 INFO:% Payout: 65.0
+2020-08-27 00:10:14 INFO:Trabalhar em OTC: NÃO
+2020-08-27 00:10:14 INFO:------------ Dados Martingale -------------
+2020-08-27 00:10:14 INFO:Max. martingale: 2.0
+2020-08-27 00:10:14 INFO:Fator martingale: 2.3
+2020-08-27 00:10:14 INFO:Proxima Vela/Sinal: SIM
+2020-08-27 00:10:14 INFO:------------ Dados Gerenciamento -------------
+2020-08-27 00:10:14 INFO:Tipo calculo: Valor
+2020-08-27 00:10:14 INFO:Stoploss Movel: NAO
+2020-08-27 00:10:14 INFO:Take profit em (valor): 80.0
+2020-08-27 00:10:14 INFO:Stop loss em (valor): 60.0
+2020-08-27 00:10:14 INFO:------------ Dados Controle -------------
+2020-08-27 00:10:14 INFO:Horario servidor: N
+2020-08-27 00:10:14 INFO:Verifica ativo fechado: S
+2020-08-27 00:10:14 INFO:Fuso horário: Nenhum
+2020-08-27 00:10:14 INFO:Verifica tendencia: SIM
+2020-08-27 00:10:14 INFO:------------ Dados da tendência -------------
+2020-08-27 00:10:14 INFO:Tipo tendencia: 
+2020-08-27 00:10:14 INFO:Historico de velas: NAO
+2020-08-27 00:10:15 INFO:-> Aguardando horário: 27/08/2020 00:24:58 ativo: GBPJPY direção: CALL timeframe: 5
+2020-08-27 00:12:32 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-27 00:12:32 INFO:Conectando na IQ-Option...
+2020-08-27 00:12:40 INFO:CONECTADO
+2020-08-27 00:12:42 INFO:Versao: 5.3.2.1
+2020-08-27 00:12:42 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-27 00:12:42 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-27 00:12:42 INFO:Id-Iq: 7182789
+2020-08-27 00:12:42 INFO:Moeda: USD
+2020-08-27 00:12:42 INFO:Saldo: 100
+2020-08-27 00:12:42 INFO:Tipo conta: Treinamento
+2020-08-27 00:12:42 INFO:------------ Dados Trade -------------
+2020-08-27 00:12:42 INFO:Tipo opção: Checar melhor payout
+2020-08-27 00:12:42 INFO:Tipo calculo: Valor
+2020-08-27 00:12:42 INFO:Valor do trade: 5.0
+2020-08-27 00:12:42 INFO:Expiração: 5-(M5)
+2020-08-27 00:12:42 INFO:Delay em (segundos): 2
+2020-08-27 00:12:42 INFO:% Payout: 65.0
+2020-08-27 00:12:42 INFO:Trabalhar em OTC: NÃO
+2020-08-27 00:12:42 INFO:------------ Dados Martingale -------------
+2020-08-27 00:12:42 INFO:Max. martingale: 2.0
+2020-08-27 00:12:42 INFO:Fator martingale: 2.3
+2020-08-27 00:12:42 INFO:Proxima Vela/Sinal: SIM
+2020-08-27 00:12:42 INFO:------------ Dados Gerenciamento -------------
+2020-08-27 00:12:42 INFO:Tipo calculo: Valor
+2020-08-27 00:12:42 INFO:Stoploss Movel: NAO
+2020-08-27 00:12:42 INFO:Take profit em (valor): 80.0
+2020-08-27 00:12:42 INFO:Stop loss em (valor): 60.0
+2020-08-27 00:12:42 INFO:------------ Dados Controle -------------
+2020-08-27 00:12:42 INFO:Horario servidor: N
+2020-08-27 00:12:42 INFO:Verifica ativo fechado: S
+2020-08-27 00:12:42 INFO:Fuso horário: Nenhum
+2020-08-27 00:12:42 INFO:Verifica tendencia: SIM
+2020-08-27 00:12:42 INFO:------------ Dados da tendência -------------
+2020-08-27 00:12:42 INFO:Tipo tendencia: FORTE
+2020-08-27 00:12:42 INFO:Historico de velas: NAO
+2020-08-27 00:12:43 INFO:-> Aguardando horário: 27/08/2020 00:24:58 ativo: GBPJPY direção: CALL timeframe: 5
+2020-08-27 00:24:19 WARNING:AVISO: Ativo: GBPJPY direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-08-27 00:24:20 INFO:-> Aguardando horário: 27/08/2020 01:09:58 ativo: AUDCHF direção: PUT timeframe: 5
+2020-08-27 01:09:16 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [A], verifique. dia: 27 horário: 01:09:58 ativo: AUDCHF direção: PUT Expiração: (M5)
+2020-08-27 01:09:16 INFO:-> Aguardando horário: 27/08/2020 01:24:58 ativo: AUDCHF direção: PUT timeframe: 5
+2020-08-27 01:24:33 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [A], verifique. dia: 27 horário: 01:24:58 ativo: AUDCHF direção: PUT Expiração: (M5)
+2020-08-27 01:24:34 INFO:-> Aguardando horário: 27/08/2020 01:49:58 ativo: GBPCAD direção: PUT timeframe: 5
+2020-08-27 01:49:18 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 27 horário: 01:49:58 ativo: GBPCAD direção: PUT Expiração: (M5)
+2020-08-27 01:49:19 INFO:-> Aguardando horário: 27/08/2020 02:09:58 ativo: EURUSD direção: CALL timeframe: 5
+2020-08-27 02:09:17 WARNING:AVISO: Ativo: EURUSD direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-08-27 02:09:17 INFO:-> Aguardando horário: 27/08/2020 02:14:58 ativo: CADJPY direção: CALL timeframe: 5
+2020-08-27 02:14:13 INFO:Ativo FECHADO ou EXPIRAÇÃO sem payout [None], verifique. dia: 27 horário: 02:14:58 ativo: CADJPY direção: CALL Expiração: (M5)
+2020-08-27 02:14:14 INFO:-> Aguardando horário: 27/08/2020 02:54:58 ativo: AUDJPY direção: CALL timeframe: 5
+2020-08-27 02:54:17 WARNING:AVISO: Ativo: AUDJPY direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-08-27 02:54:17 INFO:-> Aguardando horário: 27/08/2020 05:54:58 ativo: AUDUSD direção: CALL timeframe: 5
+2020-08-27 05:54:58 INFO: | ---> Abrindo entradas: Servidor:  05:54:58 / Agendado: 05:55:00/05:54:58 - Tipo: DIGITAIS - Payout: 87% 
+2020-08-27 05:55:01 INFO: | ---> Nro. ordem: 12445849925 - Valor: 5.0 <====
+2020-08-27 05:55:01 INFO:  | ---> Aguarde checando nro. ordem: 12445849925 <====
+2020-08-27 06:00:06 INFO:   | ---> Ordem: 12445849925 | LOSS | Valor: 5.0 | Ganho: 0 | Perda: -5.0
+2020-08-27 06:00:06 INFO:   | ---> Saldo: -5.0 | TakeProfit: 80.0 | StopLoss: 60.0
+2020-08-27 06:00:09 INFO: | ---> Nro. ordem: 12445875067 - Valor: 11.5 <====
+2020-08-27 06:00:09 INFO:  | ---> Aguarde checando nro. ordem: 12445875067 <====
+2020-08-27 06:05:05 INFO:   | ---> Ordem: 12445875067 | LOSS | Valor: 11.5 | Ganho: 0 | Perda: -11.5
+2020-08-27 06:05:05 INFO:   | ---> Saldo: -16.5 | TakeProfit: 80.0 | StopLoss: 60.0
+2020-08-27 06:05:07 INFO: | ---> Nro. ordem: 12445895512 - Valor: 26.45 <====
+2020-08-27 06:05:07 INFO:  | ---> Aguarde checando nro. ordem: 12445895512 <====
+2020-08-27 06:10:02 INFO:   | ---> Ordem: 12445895512 | LOSS | Valor: 26.45 | Ganho: 0 | Perda: -26.45
+2020-08-27 06:10:02 INFO:   | ---> Saldo: -42.95 | TakeProfit: 80.0 | StopLoss: 60.0
+2020-08-27 06:10:03 ERROR:ERRO: Saldo insuficiente Corretora: 57.05 | Entrada: 60.83.
+2020-08-27 06:10:03 INFO:--> Finalizando a execução dos trade dessa sessão. <--

@@ -1,0 +1,263 @@
+2020-08-25 12:45:54 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-25 12:45:54 INFO:Conectando na IQ-Option...
+2020-08-25 12:45:57 INFO:CONECTADO
+2020-08-25 12:45:58 INFO:Versao: 5.3.2.1
+2020-08-25 12:45:58 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-25 12:45:58 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-25 12:45:58 INFO:Id-Iq: 7182789
+2020-08-25 12:45:58 INFO:Moeda: USD
+2020-08-25 12:45:58 INFO:Saldo: 1539.29
+2020-08-25 12:45:58 INFO:Tipo conta: Treinamento
+2020-08-25 12:45:58 INFO:------------ Dados Trade -------------
+2020-08-25 12:45:58 INFO:Tipo opção: Checar melhor payout
+2020-08-25 12:45:58 INFO:Tipo calculo: Valor
+2020-08-25 12:45:58 INFO:Valor do trade: 20.0
+2020-08-25 12:45:58 INFO:Expiração: 5-(M5)
+2020-08-25 12:45:58 INFO:Delay em (segundos): 2
+2020-08-25 12:45:58 INFO:% Payout: 75.0
+2020-08-25 12:45:58 INFO:Trabalhar em OTC: NÃO
+2020-08-25 12:45:58 INFO:------------ Dados Martingale -------------
+2020-08-25 12:45:58 INFO:Max. martingale: 2.0
+2020-08-25 12:45:58 INFO:Fator martingale: 2.3
+2020-08-25 12:45:58 INFO:Proxima Vela/Sinal: SIM
+2020-08-25 12:45:58 INFO:------------ Dados Gerenciamento -------------
+2020-08-25 12:45:58 INFO:Tipo calculo: Valor
+2020-08-25 12:45:58 INFO:Stoploss Movel: NAO
+2020-08-25 12:45:58 INFO:Take profit em (valor): 50.0
+2020-08-25 12:45:58 INFO:Stop loss em (valor): 80.0
+2020-08-25 12:45:58 INFO:------------ Dados Controle -------------
+2020-08-25 12:45:58 INFO:Horario servidor: N
+2020-08-25 12:45:58 INFO:Verifica ativo fechado: S
+2020-08-25 12:45:58 INFO:Fuso horário: Nenhum
+2020-08-25 12:45:58 INFO:Verifica tendencia: SIM
+2020-08-25 12:45:58 INFO:------------ Dados da tendência -------------
+2020-08-25 12:45:58 INFO:Tipo tendencia: CUSTOMIZADA
+2020-08-25 12:45:58 INFO:Expiração: 5-(M5)
+2020-08-25 12:45:58 INFO:Tipo média lenta: SMA
+2020-08-25 12:45:58 INFO:Periodo média lenta: 15.0
+2020-08-25 12:45:58 INFO:Tipo media rapida: EMA
+2020-08-25 12:45:58 INFO:Periodo média rapida: 6.0
+2020-08-25 12:45:58 INFO:Historico de velas: NAO
+2020-08-25 12:45:58 INFO:-> Aguardando horário: 25/08/2020 12:59:58 ativo: EURCAD direção: PUT timeframe: 5
+2020-08-25 12:59:58 INFO: | ---> Abrindo entradas: Servidor:  12:59:58 / Agendado: 13:00:00/12:59:58 - Tipo: DIGITAIS - Payout: 87% 
+2020-08-25 13:00:00 INFO: | ---> Nro. ordem: 12436325088 - Valor: 20.0 <====
+2020-08-25 13:00:00 INFO:  | ---> Aguarde checando nro. ordem: 12436325088 <====
+2020-08-25 13:05:05 INFO:   | ---> Ordem: 12436325088 | LOSS | Valor: 20.0 | Ganho: 0 | Perda: -20.0
+2020-08-25 13:05:05 INFO:   | ---> Saldo: -20.0 | TakeProfit: 50.0 | StopLoss: 80.0
+2020-08-25 13:05:09 INFO: | ---> Nro. ordem: 12436363119 - Valor: 46.0 <====
+2020-08-25 13:05:09 INFO:  | ---> Aguarde checando nro. ordem: 12436363119 <====
+2020-08-25 13:10:09 INFO:   | ---> Ordem: 12436363119 | LOSS | Valor: 46.0 | Ganho: 0 | Perda: -46.0
+2020-08-25 13:10:09 INFO:   | ---> Saldo: -66.0 | TakeProfit: 50.0 | StopLoss: 80.0
+2020-08-25 13:10:11 INFO: | ---> Nro. ordem: 12436396049 - Valor: 105.8 <====
+2020-08-25 13:10:11 INFO:  | ---> Aguarde checando nro. ordem: 12436396049 <====
+2020-08-25 13:15:06 INFO:   | ---> Ordem: 12436396049 | WIN | Valor: 105.8 | Ganho: 92.13 | Perda: 0
+2020-08-25 13:15:06 INFO:   | ---> Saldo: 26.13 | TakeProfit: 50.0 | StopLoss: 80.0
+2020-08-25 13:15:08 INFO:-> Aguardando horário: 25/08/2020 13:59:58 ativo: GBPCAD direção: CALL timeframe: 5
+2020-08-25 19:24:00 WARNING:AVISO: Ativo: GBPCAD direção: CALL. Não tem uma TENDÊNCIA definida para o TIPO selecionado, trade não efetuado. 
+2020-08-25 19:24:00 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-08-25 23:36:14 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-25 23:36:14 INFO:Conectando na IQ-Option...
+2020-08-25 23:36:19 INFO:CONECTADO
+2020-08-25 23:36:19 INFO:Versao: 5.3.2.1
+2020-08-25 23:36:19 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-25 23:36:19 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-25 23:36:19 INFO:Id-Iq: 7182789
+2020-08-25 23:36:19 INFO:Moeda: USD
+2020-08-25 23:36:19 INFO:Saldo: 100.44
+2020-08-25 23:36:19 INFO:Tipo conta: Treinamento
+2020-08-25 23:36:19 INFO:------------ Dados Trade -------------
+2020-08-25 23:36:19 INFO:Tipo opção: Checar melhor payout
+2020-08-25 23:36:19 INFO:Tipo calculo: Valor
+2020-08-25 23:36:19 INFO:Valor do trade: 5.0
+2020-08-25 23:36:19 INFO:Expiração: 1-(M1)
+2020-08-25 23:36:19 INFO:Delay em (segundos): 2
+2020-08-25 23:36:19 INFO:% Payout: 75.0
+2020-08-25 23:36:19 INFO:Trabalhar em OTC: NÃO
+2020-08-25 23:36:19 INFO:Minimizar delay martingale: SIM
+2020-08-25 23:36:19 INFO:Delay: 2
+2020-08-25 23:36:19 INFO:------------ Dados Martingale -------------
+2020-08-25 23:36:19 INFO:Max. martingale: 2.0
+2020-08-25 23:36:19 INFO:Fator martingale: 2.3
+2020-08-25 23:36:19 INFO:Proxima Vela/Sinal: SIM
+2020-08-25 23:36:19 INFO:------------ Dados Gerenciamento -------------
+2020-08-25 23:36:19 INFO:Tipo calculo: Valor
+2020-08-25 23:36:19 INFO:Stoploss Movel: NAO
+2020-08-25 23:36:19 INFO:Take profit em (valor): 50.0
+2020-08-25 23:36:19 INFO:Stop loss em (valor): 80.0
+2020-08-25 23:36:19 INFO:------------ Dados Controle -------------
+2020-08-25 23:36:19 INFO:Horario servidor: N
+2020-08-25 23:36:19 INFO:Verifica ativo fechado: S
+2020-08-25 23:36:19 INFO:Fuso horário: Nenhum
+2020-08-25 23:36:19 INFO:Verifica tendencia: SIM
+2020-08-25 23:36:19 INFO:------------ Dados da tendência -------------
+2020-08-25 23:36:19 INFO:Tipo tendencia: CUSTOMIZADA
+2020-08-25 23:36:19 INFO:Expiração: 5-(M5)
+2020-08-25 23:36:19 INFO:Tipo média lenta: SMA
+2020-08-25 23:36:19 INFO:Periodo média lenta: 15.0
+2020-08-25 23:36:19 INFO:Tipo media rapida: EMA
+2020-08-25 23:36:19 INFO:Periodo média rapida: 6.0
+2020-08-25 23:36:19 INFO:Historico de velas: SIM
+2020-08-25 23:36:19 INFO:------------ Historico de velas -------------
+2020-08-25 23:36:19 INFO:Qtde velas para analisar: 10
+2020-08-25 23:36:19 INFO:% de aceite: 50
+2020-08-25 23:36:19 INFO:A favor do sinal
+2020-08-25 23:36:20 ERROR:ERRO: Quantidade de colunas na linha 1 do arquivo tem que ser igual a 6 ou 7, verifique
+2020-08-25 23:36:20 ERROR:Exemplo da linha: 26,11,2019,06:30,EURUSD,PUT
+2020-08-25 23:36:20 ERROR:Verifique o arquivo trade.txt - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-08-25 23:36:20 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-08-25 23:37:59 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-25 23:37:59 INFO:Conectando na IQ-Option...
+2020-08-25 23:38:02 INFO:CONECTADO
+2020-08-25 23:38:03 INFO:Versao: 5.3.2.1
+2020-08-25 23:38:03 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-25 23:38:03 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-25 23:38:03 INFO:Id-Iq: 7182789
+2020-08-25 23:38:03 INFO:Moeda: USD
+2020-08-25 23:38:03 INFO:Saldo: 100.44
+2020-08-25 23:38:03 INFO:Tipo conta: Treinamento
+2020-08-25 23:38:03 INFO:------------ Dados Trade -------------
+2020-08-25 23:38:03 INFO:Tipo opção: Checar melhor payout
+2020-08-25 23:38:03 INFO:Tipo calculo: Valor
+2020-08-25 23:38:03 INFO:Valor do trade: 5.0
+2020-08-25 23:38:03 INFO:Expiração: 1-(M1)
+2020-08-25 23:38:03 INFO:Delay em (segundos): 2
+2020-08-25 23:38:03 INFO:% Payout: 75.0
+2020-08-25 23:38:03 INFO:Trabalhar em OTC: NÃO
+2020-08-25 23:38:03 INFO:Minimizar delay martingale: SIM
+2020-08-25 23:38:03 INFO:Delay: 2
+2020-08-25 23:38:03 INFO:------------ Dados Martingale -------------
+2020-08-25 23:38:03 INFO:Max. martingale: 2.0
+2020-08-25 23:38:03 INFO:Fator martingale: 2.3
+2020-08-25 23:38:03 INFO:Proxima Vela/Sinal: SIM
+2020-08-25 23:38:03 INFO:------------ Dados Gerenciamento -------------
+2020-08-25 23:38:03 INFO:Tipo calculo: Valor
+2020-08-25 23:38:03 INFO:Stoploss Movel: NAO
+2020-08-25 23:38:03 INFO:Take profit em (valor): 50.0
+2020-08-25 23:38:03 INFO:Stop loss em (valor): 80.0
+2020-08-25 23:38:03 INFO:------------ Dados Controle -------------
+2020-08-25 23:38:03 INFO:Horario servidor: N
+2020-08-25 23:38:03 INFO:Verifica ativo fechado: S
+2020-08-25 23:38:03 INFO:Fuso horário: Nenhum
+2020-08-25 23:38:03 INFO:Verifica tendencia: SIM
+2020-08-25 23:38:03 INFO:------------ Dados da tendência -------------
+2020-08-25 23:38:03 INFO:Tipo tendencia: CUSTOMIZADA
+2020-08-25 23:38:03 INFO:Expiração: 5-(M5)
+2020-08-25 23:38:03 INFO:Tipo média lenta: SMA
+2020-08-25 23:38:03 INFO:Periodo média lenta: 15.0
+2020-08-25 23:38:03 INFO:Tipo media rapida: EMA
+2020-08-25 23:38:03 INFO:Periodo média rapida: 6.0
+2020-08-25 23:38:03 INFO:Historico de velas: SIM
+2020-08-25 23:38:03 INFO:------------ Historico de velas -------------
+2020-08-25 23:38:03 INFO:Qtde velas para analisar: 10
+2020-08-25 23:38:03 INFO:% de aceite: 50
+2020-08-25 23:38:03 INFO:A favor do sinal
+2020-08-25 23:38:04 ERROR:invalid literal for int() with base 10: 'EU'
+Traceback (most recent call last):
+  File "<string>", line 1824, in start
+ValueError: invalid literal for int() with base 10: 'EU'
+2020-08-25 23:38:04 INFO:===> LENDO O PRÓXIMO SINAL... <===
+2020-08-25 23:38:04 ERROR:Verifique o arquivo trade.txt - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-08-25 23:38:04 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-08-25 23:40:12 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-25 23:40:12 INFO:Conectando na IQ-Option...
+2020-08-25 23:40:14 INFO:CONECTADO
+2020-08-25 23:40:15 INFO:Versao: 5.3.2.1
+2020-08-25 23:40:15 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-25 23:40:15 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-25 23:40:15 INFO:Id-Iq: 7182789
+2020-08-25 23:40:15 INFO:Moeda: USD
+2020-08-25 23:40:15 INFO:Saldo: 100.44
+2020-08-25 23:40:15 INFO:Tipo conta: Treinamento
+2020-08-25 23:40:15 INFO:------------ Dados Trade -------------
+2020-08-25 23:40:15 INFO:Tipo opção: Checar melhor payout
+2020-08-25 23:40:15 INFO:Tipo calculo: Valor
+2020-08-25 23:40:15 INFO:Valor do trade: 5.0
+2020-08-25 23:40:15 INFO:Expiração: 1-(M1)
+2020-08-25 23:40:15 INFO:Delay em (segundos): 2
+2020-08-25 23:40:15 INFO:% Payout: 75.0
+2020-08-25 23:40:15 INFO:Trabalhar em OTC: NÃO
+2020-08-25 23:40:15 INFO:Minimizar delay martingale: SIM
+2020-08-25 23:40:15 INFO:Delay: 2
+2020-08-25 23:40:15 INFO:------------ Dados Martingale -------------
+2020-08-25 23:40:15 INFO:Max. martingale: 2.0
+2020-08-25 23:40:15 INFO:Fator martingale: 2.3
+2020-08-25 23:40:15 INFO:Proxima Vela/Sinal: SIM
+2020-08-25 23:40:15 INFO:------------ Dados Gerenciamento -------------
+2020-08-25 23:40:15 INFO:Tipo calculo: Valor
+2020-08-25 23:40:15 INFO:Stoploss Movel: NAO
+2020-08-25 23:40:15 INFO:Take profit em (valor): 50.0
+2020-08-25 23:40:15 INFO:Stop loss em (valor): 80.0
+2020-08-25 23:40:15 INFO:------------ Dados Controle -------------
+2020-08-25 23:40:15 INFO:Horario servidor: N
+2020-08-25 23:40:15 INFO:Verifica ativo fechado: S
+2020-08-25 23:40:15 INFO:Fuso horário: Nenhum
+2020-08-25 23:40:15 INFO:Verifica tendencia: SIM
+2020-08-25 23:40:15 INFO:------------ Dados da tendência -------------
+2020-08-25 23:40:15 INFO:Tipo tendencia: CUSTOMIZADA
+2020-08-25 23:40:15 INFO:Expiração: 5-(M5)
+2020-08-25 23:40:15 INFO:Tipo média lenta: SMA
+2020-08-25 23:40:15 INFO:Periodo média lenta: 15.0
+2020-08-25 23:40:15 INFO:Tipo media rapida: EMA
+2020-08-25 23:40:15 INFO:Periodo média rapida: 6.0
+2020-08-25 23:40:15 INFO:Historico de velas: SIM
+2020-08-25 23:40:15 INFO:------------ Historico de velas -------------
+2020-08-25 23:40:15 INFO:Qtde velas para analisar: 10
+2020-08-25 23:40:15 INFO:% de aceite: 50
+2020-08-25 23:40:15 INFO:A favor do sinal
+2020-08-25 23:40:16 INFO:-> Aguardando horário: 25/08/2020 23:40:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-08-25 23:40:27 WARNING:AVISO: Entrada não efetuada. Payout inferior a 75.0 %, Payout encontrado 60 % 
+2020-08-25 23:40:27 INFO:--> Finalizando a execução dos trade dessa sessão. <--
+2020-08-25 23:42:28 INFO:AVISO ---> LICENÇA NÃO ENCONTRADA OU INVÁLIDA, ROBÔ FUNCIONARÁ SOMENTE EM CONTA TREINAMENTO . <---
+2020-08-25 23:42:28 INFO:Conectando na IQ-Option...
+2020-08-25 23:42:32 INFO:CONECTADO
+2020-08-25 23:42:32 INFO:Versao: 5.3.2.1
+2020-08-25 23:42:32 INFO:Licenciado para o email: mveras2012@gmail.com
+2020-08-25 23:42:32 INFO:************ DADOS DA CONTA NA IQOPTION *************
+2020-08-25 23:42:32 INFO:Id-Iq: 7182789
+2020-08-25 23:42:32 INFO:Moeda: USD
+2020-08-25 23:42:32 INFO:Saldo: 100.44
+2020-08-25 23:42:32 INFO:Tipo conta: Treinamento
+2020-08-25 23:42:32 INFO:------------ Dados Trade -------------
+2020-08-25 23:42:32 INFO:Tipo opção: Checar melhor payout
+2020-08-25 23:42:32 INFO:Tipo calculo: Valor
+2020-08-25 23:42:32 INFO:Valor do trade: 5.0
+2020-08-25 23:42:32 INFO:Expiração: 1-(M1)
+2020-08-25 23:42:32 INFO:Delay em (segundos): 2
+2020-08-25 23:42:32 INFO:% Payout: 60.0
+2020-08-25 23:42:32 INFO:Trabalhar em OTC: NÃO
+2020-08-25 23:42:32 INFO:Minimizar delay martingale: SIM
+2020-08-25 23:42:32 INFO:Delay: 2
+2020-08-25 23:42:32 INFO:------------ Dados Martingale -------------
+2020-08-25 23:42:32 INFO:Max. martingale: 2.0
+2020-08-25 23:42:32 INFO:Fator martingale: 2.3
+2020-08-25 23:42:32 INFO:Proxima Vela/Sinal: SIM
+2020-08-25 23:42:32 INFO:------------ Dados Gerenciamento -------------
+2020-08-25 23:42:32 INFO:Tipo calculo: Valor
+2020-08-25 23:42:32 INFO:Stoploss Movel: NAO
+2020-08-25 23:42:32 INFO:Take profit em (valor): 50.0
+2020-08-25 23:42:32 INFO:Stop loss em (valor): 80.0
+2020-08-25 23:42:32 INFO:------------ Dados Controle -------------
+2020-08-25 23:42:32 INFO:Horario servidor: N
+2020-08-25 23:42:32 INFO:Verifica ativo fechado: S
+2020-08-25 23:42:32 INFO:Fuso horário: Nenhum
+2020-08-25 23:42:32 INFO:Verifica tendencia: SIM
+2020-08-25 23:42:32 INFO:------------ Dados da tendência -------------
+2020-08-25 23:42:32 INFO:Tipo tendencia: CUSTOMIZADA
+2020-08-25 23:42:32 INFO:Expiração: 5-(M5)
+2020-08-25 23:42:32 INFO:Tipo média lenta: SMA
+2020-08-25 23:42:32 INFO:Periodo média lenta: 15.0
+2020-08-25 23:42:32 INFO:Tipo media rapida: EMA
+2020-08-25 23:42:32 INFO:Periodo média rapida: 6.0
+2020-08-25 23:42:32 INFO:Historico de velas: SIM
+2020-08-25 23:42:32 INFO:------------ Historico de velas -------------
+2020-08-25 23:42:32 INFO:Qtde velas para analisar: 10
+2020-08-25 23:42:32 INFO:% de aceite: 50
+2020-08-25 23:42:32 INFO:A favor do sinal
+2020-08-25 23:42:33 INFO:-> Aguardando horário: 25/08/2020 23:43:58 ativo: EURUSD direção: PUT timeframe: 1
+2020-08-25 23:43:58 INFO: | ---> Abrindo entradas: Servidor:  23:43:58 / Agendado: 23:44:00/23:43:58 - Tipo: BINARIAS - Payout: 60% 
+2020-08-25 23:43:59 INFO: | ---> Nro. ordem: 7256510548 - Valor: 5.0 <====
+2020-08-25 23:43:59 INFO:  | ---> Aguarde checando nro. ordem: 7256510548 <====
+2020-08-25 23:44:57 INFO:  | ---> Checagem terminada nro. ordem: 7256510548 Abertura: 1.182045 Fechamento: 1.181965<====
+2020-08-25 23:44:57 INFO:   | ---> Ordem: 7256510548 | WIN | Valor: 5.0 | Ganho: 3.0 | Perda: 0
+2020-08-25 23:44:57 INFO:   | ---> Saldo: 3.0 | TakeProfit: 50.0 | StopLoss: 80.0
+2020-08-25 23:44:57 INFO:--> Finalizando a execução dos trade dessa sessão. <--
