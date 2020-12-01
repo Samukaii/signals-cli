@@ -63,7 +63,7 @@ export function printResults(lineInfo, options) {
 }
 
 function shouldContinue(lineInfo, options) {
-    let gale = lineInfo.getGale(3, 2.4, lineInfo.getEntryValue())
+    let gale = lineInfo.getGale(lineInfo.getEntryValue())
     let filter = [];
     if (options.hasOwnProperty('show')) {
         if (isDraw()) filter.push(false);
@@ -118,7 +118,7 @@ export function all(lineInfo, options) {
     let winOrLossText = centerText(winOrLoss);
     winOrLossText = colorizeText(winOrLossText);
 
-    let gale = lineInfo.getGale(3, 2.4, lineInfo.getEntryValue());
+    let gale = lineInfo.getGale(lineInfo.getEntryValue());
     let galeText = convertGaleText(winOrLoss, gale);
     galeText = leftText(galeText, 17);
     galeText = colorizeText(galeText);

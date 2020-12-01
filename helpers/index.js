@@ -5,14 +5,16 @@ import chalk from 'chalk';
 export function convertAliasDate(alias){
     if(alias.toLowerCase()=="hoje"){
         let now = new Date();
-        let day=now.getDate();
-        let month=now.getMonth() +1
+        let day=now.getDate().toString().padStart(2,0);
+        let month=(now.getMonth() +1).toString().padStart(2,0);
         let year=now.getFullYear();
         return `${day}:${month}:${year}`;
     }
     else if(alias.toLowerCase()=="ontem"){
         let now = new Date();
-        let day=now.getDate() -1;
+        let yesterday = new Date(now.setDate(now.getDate()-1)) 
+        let day= yesterday.getDate();
+        
         let month=now.getMonth() +1
         let year=now.getFullYear();
         return `${day}:${month}:${year}`;
@@ -41,7 +43,8 @@ export function replaceColonWithComma(date){
 export function saveConfig(configInfo){
     fs.writeFile('scriptconfig.json', JSON.stringify(configInfo), function (err) {
         if (err) return console.log(err);
-        console.log(chalk.greenBright('Configurações salvas com sucesso!'));
+        console.log(chalk.greenBright(`
+        ✓ Configurações salvas com sucesso!`));
       });
 }
 

@@ -68,34 +68,70 @@ export function config(){
         Este é o centro de configurações da CLI e atualmente essas são as configurações
         ${chalk.greenBright('Time Frame')}: ${scriptConfig.time_frame}
         ${chalk.greenBright('Data')}: ${scriptConfig.date}
+        ${chalk.greenBright('Entrada Inicial')}: ${scriptConfig.initial_entry}
+        ${chalk.greenBright('Fator do Gale')}: ${scriptConfig.gale_factor}
         
         Digite ${chalk.yellowBright('CTRL+C')} a qualquer momento para cancelar
-    `)
 
-    rl.question(
-`        Digite o timeframe que você deseja configurar ${chalk.yellowBright('(formato 1, 5, 15...)')}
+        Caso queira pular uma pergunta apenas tecle ${chalk.yellowBright('ENTER')}
+    `)
+    questTimeFrame();
+    function questTimeFrame(){
+    rl.question(`        
+        Digite o timeframe que você deseja configurar ${chalk.yellowBright('(formato 1, 5, 15...)')}
         `, (timeframe) => {
-        if(timeframe!=""){
-            scriptConfig.time_frame = timeframe.trim();
-        }
-        
+            if(timeframe!=""){
+                scriptConfig.time_frame = timeframe.trim();
+            }
+           questDate(); 
+        });
+    }
+    function questDate(){
         rl.question(`        
         Digite a data dos sinais ${chalk.yellowBright('(formato DD:MM:AAAA')}
         ${chalk.greenBright('DICA:')} você também pode digitar 'hoje' ou 'ontem' 
         ao invés de digitar a data completa 
         `,(date)=>{
-            if(!checkDateFormat(convertAliasDate(date))){
+            if(date){
+            if(checkDateFormat(convertAliasDate(date))){
+                scriptConfig.date = convertAliasDate(date);
+            }else{
                 console.log(chalk.redBright(`
-        Formato Incorreto de data
-        `));
-                rl.close();
-                return;
+        ✘ Formato Incorreto de data
+                `));
+                questDate();
             }
-            scriptConfig.date = convertAliasDate(date);
+            }
+            questInitialEntry();
+        })
+    }
+    function questInitialEntry(){
+        rl.question(`        
+        Digite o valor de entrada inicial dos sinais ${chalk.yellowBright('(formato 3, 5, 10...)')}
+        `,(initialEntry)=>{
+            if(initialEntry){
+                scriptConfig.initial_entry = initialEntry;
+            }
+            questGaleFactor();
+        })
+    }
+    function questGaleFactor(){
+        rl.question(`        
+        Digite o fator dos gales ${chalk.yellowBright('(formato 2.3, 2.5, 3...)')}
+        ${chalk.redBright.bold("ATENÇÃO:")} Utilize o ponto quando o número for decimal
+        e não a vírgula
+
+        ${chalk.redBright.bold("✘ Errado: 2,3")}
+        ${chalk.greenBright("✓ Certo: 2.3")}
+
+        `,(galeFactor)=>{
+            if(galeFactor){
+                scriptConfig.gale_factor = galeFactor;
+            }
             saveConfig(scriptConfig);
             rl.close();
         })
-    });
+    }
 
 }
 

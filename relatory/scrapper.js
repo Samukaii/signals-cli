@@ -1,8 +1,9 @@
 /**@type {import('./scrapper')} */
+import scriptconfig from '../scriptconfig.json';
 
-export function getGale(entry, factor, value){
-    const factorMultiple = value/entry;
-    const result = Math.log10(factorMultiple)/Math.log10(factor);
+export function getGale(value){
+    const factorMultiple = value/scriptconfig.initial_entry;
+    const result = Math.log10(factorMultiple)/Math.log10(scriptconfig.gale_factor);
     return Math.round(result);
 }
 
@@ -78,7 +79,7 @@ export default function createScrapping(line){
         getStopLoss : ()=>getStopLoss(line),
         getTakeProfit : ()=>getTakeProfit(line),
         getTime : ()=>getTime(line),
-        getGale : (entry, factor, value)=>getGale(entry, factor, value),
+        getGale : (value)=>getGale(value),
         getBalance :()=> getBalance(line),
         getEntryProfitValue: ()=>getEntryProfitValue(line)
     }
