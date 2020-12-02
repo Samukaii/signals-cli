@@ -39,6 +39,7 @@ export async function relatory(): Promise<void> {
         return;
     }
     if (!checkDateFormat(convertAliasDate(subArgs.date))) {
+        console.log(convertAliasDate(subArgs.date))
         error.invalidDateFormat()
         return;
     }

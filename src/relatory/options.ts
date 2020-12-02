@@ -1,59 +1,84 @@
 const allowedOptions = {
     '--mostrar-apenas': '',
+    '--mostrar-apenas-entre': '',
     '--gales': '',
     '-g': '',
+    '-d': '',
     '-m': '',
 }
 
-const optionsConverter = {
+const keyConversionTable = {
     '--mostrar-apenas': 'show',
+    '--mostrar-apenas-entre': 'show-between',
     '--gales': 'gales',
     '-g': 'gales',
+    '-d': 'show-between',
     '-m': 'show',
 }
-const valueConverter = {
+const valueConversionTable = {
     'loss': 'loss',
-    'lss': 'loss',
-    'los': 'loss',
-    'ls': 'loss',
     'l': 'loss',
-    'wins': 'wins',
-    'win': 'wins',
-    'w': 'wins',
-    'wn': 'wins',
-    'wns': 'wins',
+    'wins': 'win',
+    'win': 'win',
+    'w': 'win',
+    'empates':'equal',
+    'empate':'equal',
+    'e':'equal'
+}
+const options={};
+
+function getOption(option:string):string|number|undefined{
+    process.argv.reduce(reduceOptions, 0)
+    //console.log(options);
+    if(!options[option])return
+    return options[option];
+}
+
+function reduceOptions(prevValue:number):number{
+    const currentArg = process.argv[prevValue];
+    const nextArg = process.argv[prevValue+1];
+    
+    if(!currentArg) return prevValue;
+    
+    if(isShortFormatOption(currentArg) && isAllowedOption(currentArg))
+    options[convertKey(currentArg)] =  convertValue(nextArg);
+    
+    else if(isLongFormatOption(currentArg)){
+        const [key, value] = currentArg.split('=');
+        
+        if(isAllowedOption(key)) 
+            options[convertKey(key)] = convertValue(value);
+    }
+
+    return prevValue + 1;
 }
 
 
 
-export function getOptions(initialParam = 2){
-    let options={};
-
-    process.argv.reduce((argIndex) => {
-        let arg = process.argv[argIndex];
-        let nextArg = process.argv[argIndex+1];
-        if(!arg)return;
-
-        if(arg.match(/--\w*\W*/)){
-            let [key, value] = arg.split('=');
-
-            if(allowedOptions.hasOwnProperty(key)){
-                const convertedKey = optionsConverter[key]
-                options[convertedKey] = (typeof value=='string')?valueConverter[value.toLowerCase()]:value.toLowerCase();
-            }
-            return argIndex+=1;
-        }
-        else if(arg.match(/-\w/)){
-            if(allowedOptions.hasOwnProperty(arg)){
-                const convertedKey = optionsConverter[arg]
-                if(nextArg==0){
-                    options[convertedKey] = nextArg.toLowerCase();
-                    return;
-                }
-                options[convertedKey] =  (!parseInt(nextArg))?valueConverter[nextArg.toLowerCase()]:nextArg.toLowerCase()
-            }
-            return argIndex+=2
-        }
-    }, initialParam)
-    return options;
+function convertValue(value:string){
+    const valueLowerCase = value.toLowerCase(); 
+    if(!valueConversionTable[valueLowerCase]) return valueLowerCase;
+    return valueConversionTable[valueLowerCase]
 }
+
+function convertKey(key:string){
+    return keyConversionTable[key]
+}
+
+function isShortFormatOption(arg:string){
+    return arg.match(/-\w/)
+}
+
+function isLongFormatOption(arg:string){
+    return arg.match(/--\w*\w*/)
+}
+
+function isAllowedOption(arg:string){
+    return allowedOptions.hasOwnProperty(arg)
+}
+
+
+const optionsManager ={
+    getOption
+} 
+export default optionsManager;

@@ -2,18 +2,19 @@
 import fs from 'fs';
 import chalk from 'chalk';
 
-export function convertAliasDate(alias){
+export function convertAliasDate(alias:string){
     if(alias.toLowerCase()=="hoje"){
         let now = new Date();
-        let day=now.getDate();
-        let month=now.getMonth() +1
+        let day=now.getDate().toString().padStart(2,"0");
+        let month=(now.getMonth() +1).toString().padStart(2,"0")
         let year=now.getFullYear();
         return `${day}:${month}:${year}`;
     }
     else if(alias.toLowerCase()=="ontem"){
         let now = new Date();
-        let day=now.getDate() -1;
-        let month=now.getMonth() +1
+        let yesterday = new Date(now.setDate(now.getDate()-1))
+        let day=yesterday.getDate().toString().padStart(2,"0");
+        let month=(now.getMonth() +1).toString().padStart(2,"0")
         let year=now.getFullYear();
         return `${day}:${month}:${year}`;
     }
@@ -23,13 +24,13 @@ export function convertAliasDate(alias){
 
 }
 
-export function checkDateFormat(date){
+export function checkDateFormat(date:string){
     if(!date)return false
     if(date.match(/\w{2}:\w{2}:\w{4}/))return true;
     else return false;
 }
 
-export function replaceColonWithComma(date){
+export function replaceColonWithComma(date:string){
     let splitedDate = date.split(":");
     let day = splitedDate[0];
     let month = splitedDate[1];
@@ -45,7 +46,7 @@ export function saveConfig(configInfo){
       });
 }
 
-export function removeSeconds(time){
+export function removeSeconds(time:string){
     const splitedTime = time.split(":");
     const hours = splitedTime[0];
     const minutes = splitedTime[1];
@@ -53,7 +54,7 @@ export function removeSeconds(time){
     return `${hours}:${minutes}`
 }
 
-export function compareTime(a,b){
+export function compareTime(a:string,b:string){
     const splitedA = a.split(":");
     const splitedB = b.split(":");
 
@@ -70,7 +71,7 @@ export function compareTime(a,b){
     else if(timeA.hours < timeB.hours) return -1
     else{
         if(timeA.minutes>timeB.minutes)return 1;
-        else if(timeA.minutes<timeB.minutes) return -1;
+        else if(timeA.minutes<timeB.minutes) return -1; 
         else return 0;
     }
 }
