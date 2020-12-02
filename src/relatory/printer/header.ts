@@ -1,11 +1,42 @@
-import {centerText} from './utils'
-import {resultStyle,windowInfo} from './styles'
+import {centerText, horizontalLine} from './utils'
+import {colors, paddings} from './styles'
 
 export function printHeader(){
-    const timeText = `${centerText('HORA',resultStyle.time.padding)}`;
-    const profitReceivedText = `${centerText('LUCRO',resultStyle.profitReceived.padding)}`;
-    const winOrLossText = `${centerText('RESULTADO',resultStyle.winOrLoss.padding)}`;
-    const profitSoFarText = `${centerText('SALDO',resultStyle.profitSoFar.padding)}`;
-    console.log(`${timeText}| ${profitReceivedText} | ${winOrLossText} | ${profitSoFarText}`);
-    console.log('='.repeat(windowInfo.width));
+    let header = createHeader()
+
+    console.log(colors.table(horizontalLine("all")));
+    console.log(colors.table(header))
+    console.log(colors.table(horizontalLine("all")));
+}
+
+function createHeader(){
+    let timeText = 'HORA';
+    let profitReceivedText = 'LUCRO';
+    let winOrLossText = 'RESULTADO';
+    let profitSoFarText = 'SALDO'
+    align();
+    let all = [        
+        timeText,
+        profitReceivedText,
+        winOrLossText,
+        profitSoFarText,
+    ]
+    colorize();
+
+
+
+    return all.join('|')
+
+    function align(){
+        timeText = centerText(timeText,paddings.time)
+        profitReceivedText = centerText(profitReceivedText,paddings.profitReceived)
+        profitSoFarText = centerText(profitSoFarText,paddings.profitSoFar)
+        winOrLossText = centerText(winOrLossText,paddings.winOrLoss)
+    }
+
+    function colorize(){
+        all = all.map(a=>{
+            return colors.positive(a);
+        })
+    }
 }

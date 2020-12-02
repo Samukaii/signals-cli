@@ -26,3 +26,10 @@ export function leftText(text:string|number, padding:number) {
 export function percentOfWindow(percent:number){
     return (percent/100)*windowInfo.width
 }
+
+export function horizontalLine(width:"all"|number, fill='='){
+    if(width=="all")
+    return fill.repeat(windowInfo.width);
+
+    return fill.repeat((width/100) * windowInfo.width)
+}

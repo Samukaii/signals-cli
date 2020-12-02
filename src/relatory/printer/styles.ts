@@ -1,3 +1,4 @@
+import chalk from "chalk"
 import { percentOfWindow } from "./utils"
 
 export const windowInfo = {
@@ -5,17 +6,18 @@ export const windowInfo = {
 }
 
 
-export const resultStyle = {
-    time:{
-        padding: percentOfWindow(5.5)
-    },
-    profitReceived:{
-        padding: percentOfWindow(25)
-    },
-    winOrLoss:{
-        padding: percentOfWindow(25)
-    },
-    profitSoFar:{
-        padding: percentOfWindow(25)
-    }
+export const paddings = {
+    time:percentOfWindow(8),
+    profitReceived:percentOfWindow(25),
+    winOrLoss:percentOfWindow(25),
+    profitSoFar:percentOfWindow(25)
+}
+
+export const colors = {
+    table: chalk.blueBright,
+    positive:chalk.greenBright.bold,
+    negative:chalk.redBright.bold,
+    cyan:chalk.cyanBright.bold,
+    time:chalk.magentaBright,
+    stats:chalk.yellowBright
 }

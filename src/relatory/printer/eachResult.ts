@@ -1,6 +1,6 @@
 import chalk from "chalk";
 import { TNotUndefinedScrapResult, TNotUndefinedEntriesResult } from "types";
-import { resultStyle } from "./styles";
+import { colors, paddings } from "./styles";
 import { leftText, centerText } from "./utils";
 
 type TEntriesResultScrap = TNotUndefinedScrapResult<TNotUndefinedEntriesResult>
@@ -8,12 +8,12 @@ type TEntriesResultScrap = TNotUndefinedScrapResult<TNotUndefinedEntriesResult>
 
 export function printEachResult(entrieResults:TEntriesResultScrap[]){
     entrieResults.map((result) => {
-        const texts = createTexts(result)
-        console.log(`${texts.time} ${texts.profitText} | ${texts.winOrLoss} | ${texts.profitSoFarText}`);
+        const entrieResult = createEntrieResult(result)
+        console.log(colors.table(entrieResult));
     })
 }
 
-function createTexts(result:TEntriesResultScrap){
+function createEntrieResult(result:TEntriesResultScrap){
     let gales = result.result.gale
     let winOrLoss = result.result.winOrLoss
     let profit = result.result.profitReceived
@@ -22,30 +22,32 @@ function createTexts(result:TEntriesResultScrap){
     let time = result.result.time
     let profitText:string = profit.toString();
     let profitSoFarText:string = profitSoFar.toString()
-    let resultA = `${winOrLoss} NO ${gales} GALE`
+    let winLossResult = `${winOrLoss} NO ${gales} GALE`
 
     format();
     alignInternal();
     alignExternal();
     colorize();
 
-    return {
+    const all = [
         time,
         profitText,
-        winOrLoss:resultA,
+        winLossResult,
         profitSoFarText
-    }
+    ]
+
+    return all.join('|');
 
     function alignInternal(){
         profitText = leftText(profitText,10);
-        resultA = leftText(resultA,17) 
+        winLossResult = leftText(winLossResult,17) 
         profitSoFarText = leftText(profitSoFarText, 10)
     }
     function alignExternal(){
-        time = centerText(time, resultStyle.time.padding)
-        profitText = centerText(profitText,resultStyle.profitReceived.padding);
-        resultA = centerText(resultA,resultStyle.winOrLoss.padding) 
-        profitSoFarText = centerText(profitSoFarText, resultStyle.profitSoFar.padding)
+        time = centerText(time, paddings.time)
+        profitText = centerText(profitText,paddings.profitReceived);
+        winLossResult = centerText(winLossResult,paddings.winOrLoss) 
+        profitSoFarText = centerText(profitSoFarText, paddings.profitSoFar)
     }
 
     function format(){
@@ -53,7 +55,7 @@ function createTexts(result:TEntriesResultScrap){
         profitSoFarText = `R$ ${profitSoFar.toFixed(2)}`
         time = `[${time}]`
 
-        resultA = (noGale(gales))
+        winLossResult = (noGale(gales))
         ?`${winOrLoss} SEM GALE`
         :`${winOrLoss} NO ${gales}° GALE`
     }
@@ -61,12 +63,12 @@ function createTexts(result:TEntriesResultScrap){
     function colorize(){
         time = chalk.magentaBright(time);
 
-        resultA = 
+        winLossResult = 
         (isDraw(winOrLoss))
-        ?chalk.blueBright(resultA)
+        ?chalk.blueBright(winLossResult)
         :(isWin(winOrLoss))
-        ?chalk.greenBright(resultA)
-        :chalk.redBright(resultA)
+        ?chalk.greenBright(winLossResult)
+        :chalk.redBright(winLossResult)
 
         profitText = 
         (isNegative(profit))

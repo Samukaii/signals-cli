@@ -7,7 +7,7 @@ import { catchNotUndefinedEntryResults, catchNotUndefinedResults } from './utils
 function getWinsCount(lines: string[]) {
     return catchNotUndefinedResults(getEntryResult(lines)).reduce((acumulador, valor) => {
         let winOrLoss = valor.result.winOrLoss;
-        if (winOrLoss == "win")
+        if (winOrLoss.toLowerCase() == "win")
             return acumulador += 1;
 
         return acumulador;
@@ -17,7 +17,7 @@ function getWinsCount(lines: string[]) {
 function getLossCount(lines: string[]) {
     return catchNotUndefinedResults(getEntryResult(lines)).reduce((acumulador, valor) => {
         let winOrLoss = valor.result.winOrLoss;
-        if (winOrLoss == "loss")
+        if (winOrLoss.toLowerCase() == "loss")
             return acumulador += 1;
         return acumulador += 0;
     }, 0)
@@ -28,7 +28,7 @@ function getLossCount(lines: string[]) {
 function getDrawsCount(lines: string[]) {
     return catchNotUndefinedResults(getEntryResult(lines)).reduce((acumulador, valor) => {
         let winOrLoss = valor.result.winOrLoss;
-        if (winOrLoss == "equal")
+        if (winOrLoss.toLowerCase() == "equal")
             return acumulador += 1;
         return acumulador += 0;
     }, 0)
