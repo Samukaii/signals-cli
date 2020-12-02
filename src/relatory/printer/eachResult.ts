@@ -1,4 +1,5 @@
 import chalk from "chalk";
+import { isNegative } from "../../helpers";
 import { TNotUndefinedScrapResult, TNotUndefinedEntriesResult } from "types";
 import { colors, paddings } from "./styles";
 import { leftText, centerText } from "./utils";
@@ -93,6 +94,3 @@ function noGale(gale:number){
     return gale === 0
 }
 
-function isNegative(number:number|string){
-    return number<0;
-}

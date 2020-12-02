@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import scriptconfig from '../config/scriptconfig.json';
 import * as error from '../error'
-import { ISignalsInfo } from 'types/interfaces';
+import { TSignalsInfo } from 'types';
 const baseDir = path.resolve();
 
 
@@ -35,7 +35,7 @@ const convertFileToArray = (fileToFormat: string): Promise<string[] | undefined>
 );
 
 function extractSignalsInfo(arrayLines = [""]) {
-    const signalsInfo: any[] | [ISignalsInfo] = [];
+    const signalsInfo: TSignalsInfo[] = [];
 
     const splitLineInArray = (line: string) => line.split(";");
     const extractInfoOfLine = (lineInArray: string[]) => (
@@ -43,7 +43,7 @@ function extractSignalsInfo(arrayLines = [""]) {
             timeFrame: lineInArray[0],
             active: lineInArray[1],
             time: lineInArray[2],
-            entry: lineInArray[3]
+            entry: parseFloat(lineInArray[3])
         }
     )
 
@@ -71,7 +71,7 @@ function sortByTime(a: { time: string }, b: { time: string }) {
 }
 
 
-async function getSignals() {
+async function getSignals():Promise<TSignalsInfo[]|undefined> {
     const fileToFormat = getFileToFormat();
     if (!fileToFormat) return
     const fileConvertedToArray = await convertFileToArray(fileToFormat);

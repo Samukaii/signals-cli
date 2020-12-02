@@ -7,6 +7,19 @@ export type TNotUndefinedScrapResult<T> = {
     lineIndex: number
 }
 
+export type TConfigInfo = {
+    initial_entry:number,
+    gale_factor:number,
+    date:string,
+    time_frame:number
+}
+export type TSignalsInfo = {
+    timeFrame: string,
+    active: string,
+    time: string,
+    entry: number
+}
+
 export type TEntriesResult = {
     time: string | undefined,
     profitReceived: number | undefined,

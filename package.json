@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node-dev --transpile-only index.ts",
-    "build": "tsc index.ts"
+    "start": "ts-node-dev --transpile-only src",
+    "build": "tsc",
+    "prod":"node build"
   },
   "author": "",
   "license": "ISC",

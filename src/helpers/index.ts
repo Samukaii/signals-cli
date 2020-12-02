@@ -1,6 +1,9 @@
 /**@type {import('.')} */
 import fs from 'fs';
 import chalk from 'chalk';
+import { TConfigInfo } from 'types';
+import path from 'path';
+
 
 export function convertAliasDate(alias:string){
     if(alias.toLowerCase()=="hoje"){
@@ -24,6 +27,10 @@ export function convertAliasDate(alias:string){
 
 }
 
+export function isNegative(number:number|string){
+    return number<0;
+}
+
 export function checkDateFormat(date:string){
     if(!date)return false
     if(date.match(/\w{2}:\w{2}:\w{4}/))return true;
@@ -39,8 +46,8 @@ export function replaceColonWithComma(date:string){
     return `${day},${month},${year}`;
 }
 
-export function saveConfig(configInfo){
-    fs.writeFile('scriptconfig.json', JSON.stringify(configInfo), function (err) {
+export function saveConfig(configInfo:TConfigInfo){
+    fs.writeFile(`${__dirname}/../config/scriptconfig.json`, JSON.stringify(configInfo), function (err) {
         if (err) return console.log(err);
         console.log(chalk.greenBright('Configurações salvas com sucesso!'));
       });
@@ -74,4 +81,14 @@ export function compareTime(a:string,b:string){
         else if(timeA.minutes<timeB.minutes) return -1; 
         else return 0;
     }
+}
+
+export function isUndefineds(...objects:any[]){
+    return objects.some(x=>{
+        return typeof x === "undefined";
+    })
+}
+
+export function isNumber(text:string){
+    return !isNaN(parseFloat(text));
 }

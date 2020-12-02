@@ -3,27 +3,9 @@ import { colors, windowInfo } from "./styles";
 import { centerText, horizontalLine } from "./utils";
 
 export function printStats(stats: TStatsResult) {
-    const sta = createStats(stats);
-    const statsText = `
-        COMO A BANCA ESTAVA ANTES DA OPERAÇÃO: ${'R$ ' + stats.initialBalance}
-        LUCRO TOTAL DESDE A PRIMEIRA OPERAÇÃO: ${'R$ ' + stats.totalProfit}
-        LUCRO TOTAL EXIBIDO NA TELA: ${(1 < 0)
-                ? 'R$ ' + stats.parcialProfit
-                : 'R$ ' + stats.parcialProfit
-            }
-
-        TAKEPROFIT: ${stats.takeProfit}
-        STOPLOSS: ${stats.stopLoss}
-
-        QUANTIDADE DE ENTRADAS EXIBIDAS AGORA: ${stats.allResults}
-        QUANTIDADE DE LOSS: ${stats.lossCount}
-        QUANTIDADE DE WINS: ${stats.winsCount}
-        QUANTIDADE DE EMPATES: ${stats.drawsCount}
-    
-        ASSERTIVIDADE: ${stats.accuracy}%
-    `
+    const statsText = createStats(stats);
     console.log(colors.table(centerText(horizontalLine("all"),windowInfo.width)));
-    console.log(colors.stats(sta));
+    console.log(colors.stats(statsText));
     console.log(colors.table(centerText(horizontalLine(70),windowInfo.width)));
 }
 
@@ -31,8 +13,13 @@ function createStats(statsResult:TStatsResult){
     let stats = {...statsResult};
     let line = horizontalLine(35)
     let space = ''
+    
     let totalProfit = stats.totalProfit.toString();
     let parcialProfit = stats.parcialProfit.toString();
+
+    let takeProfit = stats.takeProfit.toString();
+    let stopLoss = stats.stopLoss.toString();
+    let allResults = stats.allResults.toString();
 
     let winsCount = stats.winsCount.toString();
     let lossCount = stats.lossCount.toString();
@@ -43,18 +30,21 @@ function createStats(statsResult:TStatsResult){
     colorize();
 
     let all = [
+        center('STATUS'),
         line,
         stats.initialBalance,
         totalProfit,
-        stats.takeProfit,
-        stats.stopLoss,
+        takeProfit,
+        stopLoss,
         space,
 
+        center('EXIBIDO NA TELA'),
         line,
         parcialProfit,
-        stats.allResults,
+        allResults,
         space,
         
+        center('RESULTADOS'),
         line,
         lossCount,
         winsCount,
@@ -68,17 +58,15 @@ function createStats(statsResult:TStatsResult){
         line = center(line);
         stats.initialBalance = center(stats.initialBalance),
         totalProfit = center(totalProfit)
-        stats.takeProfit = center(stats.takeProfit)
-        stats.stopLoss = center(stats.stopLoss)
+        takeProfit = center(takeProfit)
+        stopLoss = center(stopLoss)
         space = center(space)
 
         parcialProfit = center(parcialProfit)
-        stats.allResults = center(stats.allResults)
+        allResults = center(allResults)
         lossCount = center(lossCount )
         winsCount = center(winsCount)
         drawsCount = center(drawsCount)
-    
-        stats.accuracy = center(stats.accuracy)
     }
 
     function center(text:string|number){
@@ -89,13 +77,12 @@ function createStats(statsResult:TStatsResult){
         stats.initialBalance = `COMO A BANCA ESTAVA ANTES DA OPERAÇÃO: R$ ${stats.initialBalance}`
         totalProfit = `LUCRO TOTAL DESDE A PRIMEIRA OPERAÇÃO: R$ ${stats.totalProfit}`
         parcialProfit = `LUCRO TOTAL EXIBIDO NA TELA: R$ ${stats.parcialProfit}`
-        stats.takeProfit = `TAKEPROFIT: R$ ${stats.takeProfit}`
-        stats.stopLoss = `STOPLOSS: R$ ${stats.stopLoss}`
-        stats.allResults = `QUANTIDADE DE ENTRADAS EXIBIDAS AGORA: ${stats.allResults}`
+        takeProfit = `TAKEPROFIT: R$ ${stats.takeProfit}`
+        stopLoss = `STOPLOSS: R$ ${stats.stopLoss}`
+        allResults = `QUANTIDADE DE ENTRADAS EXIBIDAS AGORA: ${stats.allResults}`
         lossCount = `QUANTIDADE DE LOSS: ${stats.lossCount}`
         winsCount = `QUANTIDADE DE WINS: ${stats.winsCount}`
         drawsCount = `QUANTIDADE DE EMPATES: ${stats.drawsCount}`
-        stats.accuracy = `ASSERTIVIDADE: ${stats.accuracy}%`
     }
 
     function colorize(){

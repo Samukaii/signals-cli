@@ -1,4 +1,4 @@
-import { type } from "os";
+import { isUndefineds } from "../../helpers";
 import { TScrapResult, TNotUndefinedScrapResult, TNotUndefinedEntriesResult, TEntriesResult } from "types";
 
 type TResults = TScrapResult<TEntriesResult>
@@ -30,10 +30,4 @@ export function catchNotUndefinedEntryResults(results: TResults[]): TNotUndefine
         res.push(entryInfo as TNotUndefinedResult);
     })
     return res;
-}
-
-export function isUndefineds(...objects:any[]){
-    return objects.some(x=>{
-        return typeof x === "undefined";
-    })
 }

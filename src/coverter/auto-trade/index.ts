@@ -1,20 +1,15 @@
-// @ts-check
-/** @type {import(".")} */
 import chalk from 'chalk';
 import fs from 'fs';
 import scriptConfig from '../../config/scriptconfig.json';
 import path from 'path';
-//const __dirname = path.resolve();
+import { TSignalsInfo } from 'types';
+const thisDirectory = path.resolve();
 
-const infoType = {
-    timeFrame: "",
-    active: "",
-    time: "",
-    entry: ""
-}
 
-function format(signalsInfo = [infoType]) {
-    let contentToWrite = "";
+function format(signalsInfo:TSignalsInfo[]|undefined) {
+    let contentToWrite:string = "";
+    if(!signalsInfo)return
+
     signalsInfo.forEach(info => {
         info.time = removeSeconds(info.time);
 
@@ -29,12 +24,12 @@ function format(signalsInfo = [infoType]) {
     generateFile(contentToWrite);
 }
 
-function replaceColonWithComma(date) {
+function replaceColonWithComma(date:string) {
     return date.split(":").join(",")
 }
 
 
-function removeSeconds(time = "") {
+function removeSeconds(time:string) {
     const splitedTime = time.split(":");
     const hours = splitedTime[0];
     const minutes = splitedTime[1];
@@ -42,12 +37,12 @@ function removeSeconds(time = "") {
     return `${hours}:${minutes}`
 }
 
-function formatSignalInfo(info = infoType, date = "") {
+function formatSignalInfo(info:TSignalsInfo, date:string) {
     return `${date},${info.time},${info.active},${info.entry}`
 }
 
-function generateFile(info) {
-    fs.writeFile(`${__dirname}/autotrader/trade.txt`, info, function (err) {
+function generateFile(info:string) {
+    fs.writeFile(`${thisDirectory}/autotrader/trade.txt`, info, function (err) {
         if (err) {
             console.log(err)
             return;

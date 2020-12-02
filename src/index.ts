@@ -1,5 +1,5 @@
-import { operations } from './src/commands/operations';
-import { incorrectUsage } from './src/error';
+import { operations } from './commands/operations';
+import { incorrectUsage } from './error';
 
 let args = {
     operation: process.argv[2]
